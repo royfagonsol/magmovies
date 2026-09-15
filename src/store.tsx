@@ -1,11 +1,11 @@
 import { configureStore } from "@reduxjs/toolkit";
 import sessionSliceReducer from "./redux/SessionSlice";
-import dvdSliceReducer from "./redux/GallerySlice";
+import dvdSliceReducer from "./redux/DVDSlice";
 
 const store = configureStore({
   reducer: {
     session: sessionSliceReducer,
-    gallery: dvdSliceReducer,
+    dvd: dvdSliceReducer,
   },
 });
 

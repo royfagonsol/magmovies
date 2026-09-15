@@ -1,13 +1,4 @@
-import { Backdrop, CircularProgress, Fade } from "@material-ui/core";
-import { createStyles, makeStyles, Theme } from "@material-ui/core/styles";
-
-const useStyles = makeStyles((theme: Theme) =>
-  createStyles({
-    backdrop: {
-      zIndex: theme.zIndex.drawer + 1,
-    },
-  })
-);
+import { Backdrop, CircularProgress, Fade } from "@mui/material";
 
 export interface IWaitProps {
   /**
@@ -26,7 +17,6 @@ export interface IWaitProps {
  * @param props
  */
 export function Wait(props: IWaitProps): JSX.Element {
-  const classes = useStyles();
   return (
     <Fade
       in={props.open}
@@ -35,7 +25,7 @@ export function Wait(props: IWaitProps): JSX.Element {
       }}
       unmountOnExit
     >
-      <Backdrop className={classes.backdrop} open={props.open}>
+      <Backdrop sx={{ zIndex: (theme) => theme.zIndex.drawer + 1 }} open={props.open}>
         <CircularProgress color="inherit" />
       </Backdrop>
     </Fade>

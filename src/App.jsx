@@ -3,7 +3,6 @@ import { useDispatch } from "react-redux";
 import "./css/App.css";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import { useSelector } from "react-redux";
 import DVDHome from "./components/DVD/DVDHome";
 
 

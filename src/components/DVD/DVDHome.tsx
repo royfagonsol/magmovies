@@ -1,170 +1,394 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useAppDispatch, useAppSelector } from "../../Framework/hooks";
-import { logout, selectAuthEmail } from "../../redux/AuthSlice";
-import { TripFolder, tripFolders } from "../../data/TripFolders";
-import { FolderMedia, imageId, loadGalleryManifest, mediaUrl } from "../../data/GalleryMedia";
-import { loadGalleryFolderImages, loadImageDetails, saveMyCaption, saveSharedTags, selectImageDetails, uploadGalleryImages } from "../../redux/GallerySlice";
-import "./Gallery.css";
+import {
+  IDisc,
+  NewDisc,
+  createDisc,
+  deleteDisc,
+  fetchDiscs,
+  lookupCoverByBarcode,
+  resetCoverLookupStatus,
+  selectCategories,
+  selectDiscs,
+  selectDvdError,
+  selectDvdStatus,
+  selectSavingIds,
+  updateDisc,
+  uploadCoverImage,
+} from "../../redux/DVDSlice";
+import { ELoadingStatus } from "../../redux/Enums";
+import coverPlaceholder from "../../images/cover-placeholder.svg";
+import "./Dvd.css";
 
-type GalleryView = "photos" | "videos";
+const emptyDraft: NewDisc = {
+  title: "",
+  mainTitle: "",
+  barcode: "",
+  format: "",
+  category: "Uncategorized",
+  cast: [],
+  year: undefined,
+  imageUrl: null,
+  coverSource: null,
+  notes: "",
+};
 
-export default function GalleryHome() {
+export default function DVDHome() {
   const dispatch = useAppDispatch();
-  const email = useAppSelector(selectAuthEmail);
-  const [selected, setSelected] = useState<TripFolder>(tripFolders[0]);
-  const [view, setView] = useState<GalleryView>("photos");
-  const [media, setMedia] = useState<Record<string, FolderMedia>>({});
-  const [manifestLoaded, setManifestLoaded] = useState(false);
-  const [selectedImage, setSelectedImage] = useState<string | null>(null);
-  const [selectedVideo, setSelectedVideo] = useState<string | null>(null);
-  const [captionText, setCaptionText] = useState("");
-  const [editedTags, setEditedTags] = useState<string[]>([]);
-  const [tagDraft, setTagDraft] = useState("");
-  const [uploading, setUploading] = useState(false);
-  const [uploadMessage, setUploadMessage] = useState<string | null>(null);
-  const currentImageId = selectedImage ? imageId(selected.name, selectedImage) : "";
-  const details = useAppSelector(state => currentImageId ? selectImageDetails(state, currentImageId) : undefined);
+  const discs = useAppSelector(selectDiscs);
+  const status = useAppSelector(selectDvdStatus);
+  const error = useAppSelector(selectDvdError);
+  const savingIds = useAppSelector(selectSavingIds);
+  const categories = useAppSelector(selectCategories);
+
+  const [activeCategory, setActiveCategory] = useState<string>("All");
+  const [searchTerm, setSearchTerm] = useState("");
+  const [editing, setEditing] = useState<IDisc | null>(null);
+  const [creating, setCreating] = useState<NewDisc | null>(null);
+  const [barcodeInput, setBarcodeInput] = useState("");
+  const [lookupBusy, setLookupBusy] = useState(false);
+  const [pasteBusy, setPasteBusy] = useState(false);
 
   useEffect(() => {
-    loadGalleryManifest()
-      .then(manifest => setMedia(manifest.folders))
-      .catch(() => setMedia({}))
-      .finally(() => setManifestLoaded(true));
-  }, []);
+    dispatch(fetchDiscs());
+  }, [dispatch]);
 
-  useEffect(() => {
-    if (!manifestLoaded || view !== "photos") return;
-    dispatch(loadGalleryFolderImages(selected.name)).unwrap()
-      .then(result=>setMedia(current=>({...current,[result.folder]:{...(current[result.folder]??{images:[],videos:[]}),images:result.images}})))
-      .catch(()=>undefined);
-  }, [dispatch, manifestLoaded, selected.name, view]);
+  const visibleDiscs = useMemo(() => {
+    const query = searchTerm.trim().toLowerCase();
+    return discs.filter((disc) => {
+      const inCategory =
+        activeCategory === "All" || (disc.category || "Uncategorized") === activeCategory;
+      if (!inCategory) return false;
+      if (!query) return true;
+      return (
+        disc.mainTitle.toLowerCase().includes(query) || disc.title.toLowerCase().includes(query)
+      );
+    });
+  }, [discs, activeCategory, searchTerm]);
 
-  useEffect(() => {
-    if (currentImageId) dispatch(loadImageDetails(currentImageId));
-  }, [currentImageId, dispatch]);
+  const grouped = useMemo(() => {
+    const map = new Map<string, IDisc[]>();
+    visibleDiscs.forEach((disc) => {
+      const key = disc.category || "Uncategorized";
+      if (!map.has(key)) map.set(key, []);
+      map.get(key)!.push(disc);
+    });
+    return Array.from(map.entries()).sort(([a], [b]) => a.localeCompare(b));
+  }, [visibleDiscs]);
 
-  useEffect(() => {
-    if (details?.status === "loaded") {
-      setCaptionText(details.captions.find(caption => caption.isMine)?.text ?? "");
-      setEditedTags(details.tags);
-    }
-  }, [details]);
-
-  const choose = (folder: TripFolder, nextView: GalleryView) => {
-    setSelected(folder);
-    setView(nextView);
-    setSelectedImage(null);
-    setSelectedVideo(null);
-  };
-  const folderMedia = media[selected.name] ?? { images: [], videos: [] };
-  const selectedImageIndex = selectedImage ? folderMedia.images.indexOf(selectedImage) : -1;
-  const navigateImage = (offset: number) => {
-    if (selectedImageIndex < 0 || folderMedia.images.length === 0) return;
-    const nextIndex = (selectedImageIndex + offset + folderMedia.images.length) % folderMedia.images.length;
-    setSelectedImage(folderMedia.images[nextIndex]);
-  };
-  const addTags = () => {
-    const additions=tagDraft.split(",").map(tag=>tag.trim()).filter(Boolean);
-    setEditedTags(current=>[...current,...additions].filter((tag,index,all)=>all.findIndex(value=>value.toLowerCase()===tag.toLowerCase())===index));
-    setTagDraft("");
-  };
-  const uploadImages = (files: File[]) => {
-    if (files.length === 0) return;
-    setUploading(true);
-    setUploadMessage(null);
-    dispatch(uploadGalleryImages({folder:selected.name,files})).unwrap()
-      .then(result => {
-        const uploaded=result.files.filter(file=>file.uploaded).map(file=>file.fileName);
-        const skipped=result.files.filter(file=>!file.uploaded);
-        if(uploaded.length){
-          setMedia(current=>({...current,[selected.name]:{...(current[selected.name]??{images:[],videos:[]}),images:[...(current[selected.name]?.images??[]),...uploaded]}}));
-        }
-        setUploadMessage(`${uploaded.length} uploaded${skipped.length?`; ${skipped.length} skipped: ${skipped.map(file=>file.fileName).join(", ")}`:"."}`);
-      })
-      .catch(error=>setUploadMessage(error?.message??"Upload failed."))
-      .finally(()=>setUploading(false));
+  const startEdit = (disc: IDisc) =>
+    setEditing({ ...disc, mainTitle: disc.mainTitle.trim() || disc.title });
+  const startCreate = () => {
+    setBarcodeInput("");
+    setCreating({ ...emptyDraft });
   };
 
-  useEffect(() => {
-    if (!selectedImage && !selectedVideo) return;
-    const handleKey = (event: KeyboardEvent) => {
-      if (selectedImage && event.key === "ArrowLeft") navigateImage(-1);
-      if (selectedImage && event.key === "ArrowRight") navigateImage(1);
-      if (event.key === "Escape") {
-        setSelectedImage(null);
-        setSelectedVideo(null);
+  const runBarcodeLookup = async (barcode: string, target: "editing" | "creating") => {
+    if (!barcode.trim()) return;
+    setLookupBusy(true);
+    try {
+      const result = await dispatch(lookupCoverByBarcode(barcode.trim())).unwrap();
+      if (target === "editing" && editing) {
+        setEditing({
+          ...editing,
+          barcode: barcode.trim(),
+          imageUrl: result.imageUrl ?? editing.imageUrl,
+          coverSource: result.coverSource ?? editing.coverSource,
+          mainTitle: editing.mainTitle || result.suggestedMainTitle || editing.mainTitle,
+        });
       }
-    };
-    window.addEventListener("keydown", handleKey);
-    return () => window.removeEventListener("keydown", handleKey);
-  });
+      if (target === "creating" && creating) {
+        setCreating({
+          ...creating,
+          barcode: barcode.trim(),
+          imageUrl: result.imageUrl ?? creating.imageUrl,
+          coverSource: result.coverSource ?? creating.coverSource,
+          mainTitle: creating.mainTitle || result.suggestedMainTitle || "",
+        });
+      }
+    } catch {
+      // surfaced via selectDvdError / selectCoverLookupStatus if a banner is added later
+    } finally {
+      setLookupBusy(false);
+      dispatch(resetCoverLookupStatus());
+    }
+  };
 
-  return <div className="gallery-shell">
-    <header className="gallery-topbar">
-      <button className="gallery-brand" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>LADS <span>TRIP</span></button>
-      <div className="gallery-rule" />
-      <span className="gallery-user">{email}</span>
-      <button className="gallery-signout" onClick={() => dispatch(logout())}>Sign out</button>
-    </header>
-    <div className="gallery-layout">
-      <aside className="gallery-sidebar" aria-label="Trip folders">
-        <p className="gallery-eyebrow">The archive</p>
-        <nav>{tripFolders.map(folder => <div key={folder.name} className={selected.name === folder.name ? "gallery-trip-row active" : "gallery-trip-row"}>
-          <button className="gallery-trip" onClick={() => choose(folder, "photos")}>
-            <span className="gallery-flags">{folder.countries.map(code => <img key={code} src={`https://flagcdn.com/w40/${code}.png`} alt={`${code.toUpperCase()} flag`} />)}</span>
-            <span>{folder.name}</span><small>{folder.imageCount}</small>
-          </button>
-          {folder.videoCount > 0 && <button className={selected.name === folder.name && view === "videos" ? "gallery-video-link selected" : "gallery-video-link"} onClick={() => choose(folder, "videos")}>▶ Videos <span>{folder.videoCount}</span></button>}
-        </div>)}</nav>
-      </aside>
-      <main className="gallery-main">
-        <section className="gallery-heading">
-          <p className="gallery-eyebrow">{view === "photos" ? "Field notes" : "Moving pictures"} / {selected.name.slice(0, 4)}</p>
-          <h1>{selected.name}</h1>
-          <p>{view === "photos" ? `${selected.imageCount.toLocaleString()} photographs` : `${selected.videoCount.toLocaleString()} videos`} from the archive</p>
-          {view === "photos" && <div className="gallery-upload">
-            <label className={uploading ? "disabled" : ""} title="Upload images to this trip">
-              <span aria-hidden="true">⇧</span>{uploading ? "Uploading…" : "Upload images"}
-              <input type="file" accept="image/jpeg,image/png,image/webp" multiple disabled={uploading} onChange={event=>{uploadImages(Array.from(event.target.files??[]));event.target.value="";}} />
-            </label>
-            {uploadMessage&&<p>{uploadMessage}</p>}
-          </div>}
-        </section>
-        {view === "photos" && folderMedia.images.length > 0 ? <section className="gallery-grid">{folderMedia.images.map((file, index) => <button key={file} className="gallery-photo" onClick={() => setSelectedImage(file)}><img src={mediaUrl(selected.name, file)} loading="lazy" alt={file} /><span><b>{String(index + 1).padStart(3, "0")}</b>{file}</span></button>)}</section> :
-          view === "videos" && folderMedia.videos.length > 0 ? <section className="gallery-grid">{folderMedia.videos.map(file => <button key={file} className="gallery-photo" onClick={() => setSelectedVideo(file)}><span className="gallery-video-thumb"><video src={`${mediaUrl(selected.name, file)}#t=1`} muted preload="metadata" /><i>▶</i></span><span>{file}</span></button>)}</section> :
-          <section className="gallery-empty"><span>{view === "photos" ? "▧" : "▶"}</span><h2>{view === "photos" ? "Photographs" : "Videos"}</h2><p>Generate gallery-manifest.json from the server media folder to list this content.</p></section>}
-      </main>
-    </div>
-    {selectedImage && <div className="gallery-modal" onMouseDown={event => event.target === event.currentTarget && setSelectedImage(null)}>
-      <button className="gallery-modal-close" onClick={() => setSelectedImage(null)} aria-label="Close">×</button>
-      <section className="gallery-modal-content">
-        <div className="gallery-modal-image">
-          <button className="gallery-modal-nav previous" onClick={() => navigateImage(-1)} aria-label="Previous image">‹</button>
-          <img src={mediaUrl(selected.name, selectedImage)} alt={selectedImage} />
-          <button className="gallery-modal-nav next" onClick={() => navigateImage(1)} aria-label="Next image">›</button>
-        </div>
-        <aside className="gallery-details">
-          <p className="gallery-eyebrow">The story</p><h2>{selectedImage}</h2>
-          {details?.status === "loading" ? <p className="gallery-muted">Loading captions…</p> : <>
-            <section className="gallery-tags"><label>Shared tags</label><div>{editedTags.map(tag=><button key={tag} onClick={()=>setEditedTags(current=>current.filter(value=>value!==tag))}>{tag}<span>×</span></button>)}</div><div className="gallery-tag-entry"><input value={tagDraft} maxLength={200} placeholder="Add tags, separated by commas" onChange={event=>setTagDraft(event.target.value)} onKeyDown={event=>{if(event.key==="Enter"){event.preventDefault();addTags();}}}/><button onClick={addTags} disabled={!tagDraft.trim()}>Add</button></div><button className="gallery-save-secondary" disabled={details?.saving} onClick={()=>dispatch(saveSharedTags({imageId:currentImageId,tags:editedTags}))}>Save shared tags</button></section>
-            <section className="gallery-captions">{details?.captions.length ? details.captions.map(caption=><blockquote key={caption.id}><p>{caption.text}</p><footer>{caption.userEmail}{caption.isMine&&<em>Yours</em>}</footer></blockquote>) : <p className="gallery-muted">No captions yet. Be the first.</p>}</section>
-            <label className="gallery-caption-editor">Your caption<textarea maxLength={500} value={captionText} placeholder="What was happening here?" onChange={event=>setCaptionText(event.target.value)}/><small>{captionText.length}/500</small></label>
-            {details?.error&&<p className="gallery-detail-error">{details.error}</p>}
-            <button className="gallery-save-primary" disabled={details?.saving||!captionText.trim()} onClick={()=>dispatch(saveMyCaption({imageId:currentImageId,text:captionText}))}>{details?.saving?"Saving…":details?.captions.some(caption=>caption.isMine)?"Update my caption":"Add my caption"}</button>
-          </>}
+  const handleCoverPaste = async (event: React.ClipboardEvent<HTMLElement>) => {
+    const items = event.clipboardData?.items;
+    if (!items) return;
+    const imageItem = Array.from(items).find((item) => item.type.startsWith("image/"));
+    if (!imageItem) return; // let normal text paste (e.g. into the title field) proceed
+
+    const blob = imageItem.getAsFile();
+    if (!blob) return;
+
+    event.preventDefault();
+    setPasteBusy(true);
+    try {
+      const barcode = editing ? editing.barcode : barcodeInput;
+      const result = await dispatch(uploadCoverImage({ blob, barcode })).unwrap();
+      if (editing) {
+        setEditing({ ...editing, imageUrl: result.imageUrl, coverSource: "manual" });
+      } else if (creating) {
+        setCreating({ ...creating, imageUrl: result.imageUrl, coverSource: "manual" });
+      }
+    } catch {
+      // surfaced via selectDvdError if an error banner is added later
+    } finally {
+      setPasteBusy(false);
+    }
+  };
+
+  const saveEdit = () => {
+    if (!editing) return;
+    const { id, createdAt, updatedAt, ...changes } = editing;
+    dispatch(updateDisc({ id, changes }));
+    setEditing(null);
+  };
+
+  const saveCreate = () => {
+    if (!creating || !creating.title.trim() || !creating.mainTitle.trim()) return;
+    dispatch(createDisc(creating));
+    setCreating(null);
+  };
+
+  const removeDisc = (id: string) => {
+    if (window.confirm("Remove this disc from the library?")) {
+      dispatch(deleteDisc(id));
+    }
+  };
+
+  return (
+    <div className="dvd-shell">
+      <header className="dvd-topbar">
+        <span className="dvd-brand">DVD <span>LIBRARY</span></span>
+        <input
+          className="dvd-search"
+          type="search"
+          value={searchTerm}
+          onChange={(event) => setSearchTerm(event.target.value)}
+          placeholder="Search titles…"
+          aria-label="Search titles"
+        />
+        <div className="dvd-rule" />
+        <button className="dvd-add" onClick={startCreate}>+ Add disc</button>
+      </header>
+
+      <div className="dvd-layout">
+        <aside className="dvd-sidebar" aria-label="Categories">
+          <p className="dvd-eyebrow">Categories</p>
+          <nav>
+            <button
+              className={activeCategory === "All" ? "dvd-cat active" : "dvd-cat"}
+              onClick={() => setActiveCategory("All")}
+            >
+              All <small>{discs.length}</small>
+            </button>
+            {categories.map((category) => (
+              <button
+                key={category}
+                className={activeCategory === category ? "dvd-cat active" : "dvd-cat"}
+                onClick={() => setActiveCategory(category)}
+              >
+                {category}
+                <small>{discs.filter((d) => (d.category || "Uncategorized") === category).length}</small>
+              </button>
+            ))}
+          </nav>
         </aside>
-      </section>
-      <span className="gallery-modal-count">{selectedImageIndex + 1} / {folderMedia.images.length}</span>
-    </div>}
-    {selectedVideo && <div className="gallery-modal gallery-video-modal" onMouseDown={event => event.target === event.currentTarget && setSelectedVideo(null)}>
-      <button className="gallery-modal-close" onClick={() => setSelectedVideo(null)} aria-label="Close video">×</button>
-      <section className="gallery-video-player">
-        <video src={mediaUrl(selected.name, selectedVideo)} controls autoPlay playsInline preload="metadata" />
-        <footer>
-          <span>{selectedVideo}</span>
-          <a href={mediaUrl(selected.name, selectedVideo)} download={selectedVideo}>Download video</a>
-        </footer>
-      </section>
-    </div>}
-  </div>;
+
+        <main className="dvd-main">
+          {status === ELoadingStatus.loading && <p className="dvd-muted">Loading your library…</p>}
+          {status === ELoadingStatus.error && <p className="dvd-error">{error}</p>}
+          {status === ELoadingStatus.loaded && discs.length === 0 && (
+            <section className="dvd-empty">
+              <span>▧</span>
+              <h2>No discs yet</h2>
+              <p>Add your first disc, or scan a barcode to pull cover art automatically.</p>
+            </section>
+          )}
+          {status === ELoadingStatus.loaded && discs.length > 0 && visibleDiscs.length === 0 && (
+            <section className="dvd-empty">
+              <span>⌕</span>
+              <h2>No matches</h2>
+              <p>Nothing matches "{searchTerm}"{activeCategory !== "All" ? ` in ${activeCategory}` : ""}.</p>
+            </section>
+          )}
+
+          {grouped.map(([category, items]) => (
+            <section key={category} className="dvd-group">
+              <h2>{category}</h2>
+              <div className="dvd-grid">
+                {items.map((disc) => (
+                  <article key={disc.id} className="dvd-card">
+                    <button className="dvd-cover" onClick={() => startEdit(disc)}>
+                      <img
+                        src={disc.imageUrl || coverPlaceholder}
+                        alt={disc.mainTitle}
+                        loading="lazy"
+                        onError={(event) => {
+                          (event.target as HTMLImageElement).src = coverPlaceholder;
+                        }}
+                      />
+                    </button>
+                    <div className="dvd-card-body">
+                      <h3>{disc.mainTitle}</h3>
+                      <p className="dvd-raw-title">{disc.title}</p>
+                      <div className="dvd-card-meta">
+                        {disc.format && <span>{disc.format}</span>}
+                        {disc.year && <span>{disc.year}</span>}
+                      </div>
+                      <div className="dvd-card-actions">
+                        <button onClick={() => startEdit(disc)} disabled={savingIds.includes(disc.id)}>
+                          Edit
+                        </button>
+                        <button
+                          className="dvd-delete"
+                          onClick={() => removeDisc(disc.id)}
+                          disabled={savingIds.includes(disc.id)}
+                        >
+                          {savingIds.includes(disc.id) ? "…" : "Delete"}
+                        </button>
+                      </div>
+                    </div>
+                  </article>
+                ))}
+              </div>
+            </section>
+          ))}
+        </main>
+      </div>
+
+      {(editing || creating) && (
+        <div
+          className="dvd-modal"
+          onMouseDown={(event) => event.target === event.currentTarget && (setEditing(null), setCreating(null))}
+        >
+          <section className="dvd-modal-content" tabIndex={0} onPaste={handleCoverPaste}>
+            <h2>{editing ? "Edit disc" : "Add disc"}</h2>
+            <p className="dvd-paste-hint">
+              {pasteBusy ? "Uploading pasted image…" : "Tip: copy an image and paste (Ctrl+V) anywhere here to use it as the cover."}
+            </p>
+
+            <label>
+              Barcode
+              <div className="dvd-barcode-row">
+                <input
+                  value={editing ? editing.barcode ?? "" : barcodeInput}
+                  onChange={(event) =>
+                    editing
+                      ? setEditing({ ...editing, barcode: event.target.value })
+                      : setBarcodeInput(event.target.value)
+                  }
+                  placeholder="Scan or type barcode"
+                />
+                <button
+                  disabled={lookupBusy}
+                  onClick={() =>
+                    runBarcodeLookup(editing ? editing.barcode ?? "" : barcodeInput, editing ? "editing" : "creating")
+                  }
+                >
+                  {lookupBusy ? "Looking up…" : "Fetch cover"}
+                </button>
+              </div>
+            </label>
+
+            <label>
+              Raw title (as printed on the case)
+              <input
+                value={editing ? editing.title : creating?.title ?? ""}
+                onChange={(event) =>
+                  editing
+                    ? setEditing({ ...editing, title: event.target.value })
+                    : setCreating({ ...(creating as NewDisc), title: event.target.value })
+                }
+                placeholder='e.g. "The Matrix (Keanu Reeves, Laurence Fishburne) [Blu-ray]"'
+              />
+            </label>
+
+            <label>
+              Main title (cleaned, no cast or format)
+              <input
+                value={editing ? editing.mainTitle : creating?.mainTitle ?? ""}
+                onChange={(event) =>
+                  editing
+                    ? setEditing({ ...editing, mainTitle: event.target.value })
+                    : setCreating({ ...(creating as NewDisc), mainTitle: event.target.value })
+                }
+                placeholder="e.g. The Matrix"
+              />
+            </label>
+
+            <div className="dvd-modal-row">
+              <label>
+                Category
+                <input
+                  value={editing ? editing.category : creating?.category ?? ""}
+                  onChange={(event) =>
+                    editing
+                      ? setEditing({ ...editing, category: event.target.value })
+                      : setCreating({ ...(creating as NewDisc), category: event.target.value })
+                  }
+                  placeholder="Action, Comedy, TV…"
+                />
+              </label>
+              <label>
+                Format
+                <input
+                  value={editing ? editing.format ?? "" : creating?.format ?? ""}
+                  onChange={(event) =>
+                    editing
+                      ? setEditing({ ...editing, format: event.target.value })
+                      : setCreating({ ...(creating as NewDisc), format: event.target.value })
+                  }
+                  placeholder="DVD / Blu-ray / 4K UHD"
+                />
+              </label>
+              <label>
+                Year
+                <input
+                  type="number"
+                  value={editing ? editing.year ?? "" : creating?.year ?? ""}
+                  onChange={(event) => {
+                    const year = event.target.value ? Number(event.target.value) : undefined;
+                    editing
+                      ? setEditing({ ...editing, year })
+                      : setCreating({ ...(creating as NewDisc), year });
+                  }}
+                />
+              </label>
+            </div>
+
+            {(editing?.imageUrl || creating?.imageUrl) && (
+              <img
+                className="dvd-modal-preview"
+                src={editing ? editing.imageUrl! : creating!.imageUrl!}
+                alt="cover preview"
+              />
+            )}
+
+            <div className="dvd-modal-actions">
+              <button
+                className="dvd-cancel"
+                onClick={() => {
+                  setEditing(null);
+                  setCreating(null);
+                }}
+              >
+                Cancel
+              </button>
+              <button
+                className="dvd-save"
+                onClick={editing ? saveEdit : saveCreate}
+                disabled={editing ? !editing.title.trim() || !editing.mainTitle.trim() : !creating?.title.trim() || !creating?.mainTitle.trim()}
+              >
+                Save
+              </button>
+            </div>
+          </section>
+        </div>
+      )}
+    </div>
+  );
 }
