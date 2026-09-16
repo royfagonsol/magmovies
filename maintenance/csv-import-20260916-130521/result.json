@@ -1,0 +1,12 @@
+{
+  "verified": true,
+  "records_updated": 646,
+  "field_counts": {
+    "title": 596,
+    "main_title": 372,
+    "category": 646
+  },
+  "barcodes_unchanged": 652,
+  "omitted_records_retained": 6,
+  "backup": "K:\\GIT\\magmovies\\maintenance\\csv-import-20260916-130521"
+}

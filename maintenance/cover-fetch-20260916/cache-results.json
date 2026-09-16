@@ -1,0 +1,3480 @@
+[
+  {
+    "id": "5edfc5dd7f2faa10180688e6",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfc5d87f2faa10180688e5",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfc6197f2faa10180688e9",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfc5d77f2faa10180688e4",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfc7787f2faa10180688ea",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfc5e37f2faa10180688e7",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfc78a7f2faa10180688ec",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfc7867f2faa10180688eb",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfc78e7f2faa10180688ed",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc7927f2faa10180688ee",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc7a87f2faa10180688f0",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc7a27f2faa10180688ef",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc7ae7f2faa10180688f1",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc7c47f2faa10180688f2",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc7cc7f2faa10180688f4",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc7f77f2faa10180688f8",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfc7dc7f2faa10180688f5",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc7ed7f2faa10180688f7",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc7e27f2faa10180688f6",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc8117f2faa10180688fc",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfc8177f2faa10180688fd",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfc7fd7f2faa10180688f9",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc82d7f2faa10180688ff",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfc8357f2faa1018068900",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfc8397f2faa1018068901",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfc83d7f2faa1018068902",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfc8417f2faa1018068903",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfc8537f2faa1018068904",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfc80c7f2faa10180688fb",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc8597f2faa1018068905",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc85f7f2faa1018068906",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc8637f2faa1018068907",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc8697f2faa1018068908",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc8747f2faa1018068909",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc87b7f2faa101806890a",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc8817f2faa101806890b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc81b7f2faa10180688fe",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/3b9b1894af3741b681169b364a5e81a2.jpg?v=1789561055",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfc8d27f2faa101806890c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc8077f2faa10180688fa",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/13d1e0f378e74d3d89946955be8881e0.jpg?v=1789561055",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfc93a7f2faa101806890f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc9427f2faa1018068910",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc92c7f2faa101806890e",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc9577f2faa1018068911",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc95e7f2faa1018068912",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc9657f2faa1018068913",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc9787f2faa1018068914",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc9887f2faa1018068916",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc9827f2faa1018068915",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcb797f2fab101831383e",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc9937f2faa1018068918",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc98d7f2faa1018068917",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfc90d7f2faa101806890d",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/834f4dbe3f234f4cbcfa34bdd3a267e7.jpg?v=1789561056",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfcb7d7f2fab101831383f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcb8e7f2fab1018313841",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcbad7f2fab1018313843",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcb947f2fab1018313842",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcbb37f2fab1018313844",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcb887f2fab1018313840",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/cea281f5dfe5485a82a86386a4e56223.png?v=1789561056",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfcbe57f2fab1018313847",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcbc87f2fab1018313845",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcbd17f2fab1018313846",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcbed7f2fab1018313848",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcbf87f2fab101831384a",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcbf37f2fab1018313849",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcc017f2fab101831384b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcc1f7f2fab101831384e",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcc0a7f2fab101831384c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcc127f2fab101831384d",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcc247f2fab101831384f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcc2a7f2fab1018313850",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcc567f2fab1018313851",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcc5f7f2fab1018313852",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcc657f2fab1018313853",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfccab7f2fab1018313855",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcc6d7f2fab1018313854",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfccaf7f2fab1018313856",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfccb37f2fab1018313857",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfccb87f2fab1018313858",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfccbd7f2fab1018313859",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfccc87f2fab101831385a",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfccce7f2fab101831385b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfccd47f2fab101831385c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcce27f2fab101831385e",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfccd97f2fab101831385d",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcce97f2fab101831385f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd1b7f2fab1018313860",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd217f2fab1018313861",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd2a7f2fab1018313862",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd327f2fab1018313863",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd367f2fab1018313864",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd397f2fab1018313865",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd427f2fab1018313866",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd467f2fab1018313867",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd4e7f2fab1018313868",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd5f7f2fab101831386b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd667f2fab101831386c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd697f2fab101831386d",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd707f2fab101831386e",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd737f2fab101831386f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd777f2fab1018313870",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd977f2fab1018313872",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd567f2fab1018313869",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/897a5c09f81b4600b8f272c61a99715b.jpg?v=1789561057",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfcda47f2fab1018313874",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcda17f2fab1018313873",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/58af87563d2742759184f6568c8644f3.jpg?v=1789561057",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfcda87f2fab1018313875",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcd5a7f2fab101831386a",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/04e55b59ccf544298f88cf7f3b7aa83c.jpg?v=1789561057",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfcdac7f2fab1018313876",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfce427f2fab1018313879",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfce487f2fab101831387a",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfce557f2fab101831387b",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "5edfcd7e7f2fab1018313871",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/9ec9f48ad1dc49a29d4431dc17b075bb.jpg?v=1789561057",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfce687f2fab101831387d",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcdeb7f2fab1018313877",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/fb842de6b96c45a8b3c51fdf4f598268.jpg?v=1789561057",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfce6d7f2fab101831387e",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfce737f2fab101831387f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfce787f2fab1018313880",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfce7c7f2fab1018313881",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfce827f2fab1018313882",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfce877f2fab1018313883",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfce8e7f2fab1018313884",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfce937f2fab1018313885",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/47b508f671064d979c142de2713d46ee.jpg?v=1789561057",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfce3b7f2fab1018313878",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/36bb3dbe80b845df9167c57796090abc.jpg?v=1789561057",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfce977f2fab1018313886",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcea57f2fab1018313888",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfceaa7f2fab1018313889",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfceb07f2fab101831388a",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfceb67f2fab101831388b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcec77f2fab101831388e",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcedf7f2fab101831388f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfce9d7f2fab1018313887",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/2687fbb8371f4449bc6f486350bda6e5.jpg?v=1789561058",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfcef17f2fab1018313890",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcec17f2fab101831388d",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/684189b0ad6e4ffea0eff33d062b481a.jpg?v=1789561058",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfcef77f2fab1018313891",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcefb7f2fab1018313892",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcf017f2fab1018313893",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcf067f2fab1018313894",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcf0a7f2fab1018313895",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcf107f2fab1018313896",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcf157f2fab1018313897",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcf1b7f2fab1018313898",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcf217f2fab1018313899",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcf2b7f2fab101831389b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcf327f2fab101831389c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcf387f2fab101831389d",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcebb7f2fab101831388c",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/7477e3e148d946679f3ed80a41cd1b5e.png?v=1789561058",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfcf417f2fab101831389f",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/423eaad468e64e199177acae081b26f7.jpg?v=1789561058",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfcf277f2fab101831389a",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/0f7834030a914f059eb8a7b6beef5651.jpg?v=1789561058",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfcf797f2fab10183138a1",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcf807f2fab10183138a3",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcf7c7f2fab10183138a2",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/01acbe1df86e4a7980d40c499a9ba71a.jpg?v=1789561058",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfcf897f2fab10183138a5",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcf3c7f2fab101831389e",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/97a382860312405a96af06359d58949e.png?v=1789561058",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfcf8d7f2fab10183138a6",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/6e737399280c4d4c8d5a3750c8e582d8.jpg?v=1789561058",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfcf507f2fab10183138a0",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/7acf781a2e6946f4bc787bdb2aea9e3d.jpg?v=1789561058",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfcf857f2fab10183138a4",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/22f72a87307742d2a1801fcea1d386d9.jpg?v=1789561058",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfcf967f2fab10183138a8",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/46f84cf676ef4dd8a1eb303de184cf79.jpg?v=1789561059",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfcf937f2fab10183138a7",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/86656a2387f045108b6ccf1068bd27e2.jpg?v=1789561059",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfcfea7f2fab10183138ab",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd05b7f2fab10183138ad",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcfe27f2fab10183138a9",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/c83dab420905485692917741d6aafc5a.jpg?v=1789561059",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfd05e7f2fab10183138ae",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd0617f2fab10183138af",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd0657f2fab10183138b0",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcfed7f2fab10183138ac",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/db100743dd744467aa9632a4414df800.jpg?v=1789561059",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfd0687f2fab10183138b1",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfcfe77f2fab10183138aa",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/a4ac223fb17c4093a5c6c04a51dd1247.jpg?v=1789561059",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfd0857f2fab10183138b2",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd0957f2fab10183138b5",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd08a7f2fab10183138b3",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd0917f2fab10183138b4",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd0997f2fab10183138b6",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd0a57f2fab10183138b9",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd0a17f2fab10183138b8",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd0aa7f2fab10183138ba",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd0b37f2fab10183138bb",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1007f2fab10183138bc",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1047f2fab10183138bd",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1087f2fab10183138be",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1107f2fab10183138c0",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd09e7f2fab10183138b7",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/6f5086365d3545338c64a336c5a682f5.jpg?v=1789561059",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfd1147f2fab10183138c1",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1197f2fab10183138c2",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd11f7f2fab10183138c3",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1237f2fab10183138c4",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1267f2fab10183138c5",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd12d7f2fab10183138c7",
+    "status": "needs_lookup",
+    "error": "URLError"
+  },
+  {
+    "id": "5edfd12a7f2fab10183138c6",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1317f2fab10183138c8",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1387f2fab10183138ca",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1357f2fab10183138c9",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd13c7f2fab10183138cb",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd17f7f2fab10183138cc",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1857f2fab10183138cd",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd10c7f2fab10183138bf",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/087a9abba4a742ce95a4b86a7803d52b.jpg?v=1789561060",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfd1887f2fab10183138ce",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd18b7f2fab10183138cf",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd18f7f2fab10183138d0",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1957f2fab10183138d2",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1927f2fab10183138d1",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1987f2fab10183138d3",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1a97f2fab10183138d4",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1b37f2fab10183138d7",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1b77f2fab10183138d8",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1c87f2fab10183138da",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1c47f2fab10183138d9",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1cf7f2fab10183138dc",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1ad7f2fab10183138d5",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/19802673a3de4f73a2e613baa5a40878.jpg?v=1789561060",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfd1cc7f2fab10183138db",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1b07f2fab10183138d6",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/0ca8c93740e34134a020c1d023bb934c.jpg?v=1789561060",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfd1d37f2fab10183138dd",
+    "status": "needs_lookup",
+    "error": "URLError"
+  },
+  {
+    "id": "5edfd1ea7f2fab10183138e0",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1ed7f2fab10183138e1",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1f07f2fab10183138e2",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1e57f2fab10183138df",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/1a10cd4d19f24e3097878a4210ccfac2.jpg?v=1789561060",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5edfd1f37f2fab10183138e3",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1fc7f2fab10183138e5",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1f97f2fab10183138e4",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee103497f2fa81788c3e9ee",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee103347f2fa81788c3e9ed",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/9efe6fda380f4a6e9da1a8eefcf332c0.png?v=1789561060",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee104637f2fa81788c3e9f0",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104687f2fa81788c3e9f2",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104657f2fa81788c3e9f1",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/c14b35ca66af48d8bf66734b192fbb4d.jpg?v=1789561060",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee103537f2fa81788c3e9ef",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/dab186bb24df4d2180ab10b3adfe2967.jpg?v=1789561060",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee104767f2fa81788c3e9f3",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1048c7f2fa81788c3e9f5",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104797f2fa81788c3e9f4",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104937f2fa81788c3e9f8",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104917f2fa81788c3e9f7",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1048f7f2fa81788c3e9f6",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104957f2fa81788c3e9f9",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104987f2fa81788c3e9fa",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1049a7f2fa81788c3e9fb",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5edfd1d67f2fab10183138de",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1049c7f2fa81788c3e9fc",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104a37f2fa81788c3e9fe",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104a07f2fa81788c3e9fd",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104a57f2fa81788c3e9ff",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104a77f2fa81788c3ea00",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104a97f2fa81788c3ea01",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104af7f2fa81788c3ea03",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104b27f2fa81788c3ea04",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104b67f2fa81788c3ea05",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104b87f2fa81788c3ea06",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104ba7f2fa81788c3ea07",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104bf7f2fa81788c3ea08",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee105117f2fa81788c3ea0b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104ea7f2fa81788c3ea09",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/d013abac190c4bb3a7556c3f364f4cc9.png?v=1789561061",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee105137f2fa81788c3ea0c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104ad7f2fa81788c3ea02",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/900d9e71156b46e6b20f81bd00142040.png?v=1789561061",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee105167f2fa81788c3ea0d",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee105187f2fa81788c3ea0e",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee105207f2fa81788c3ea10",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1051c7f2fa81788c3ea0f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee104f07f2fa81788c3ea0a",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/403f863dc2314694b109ab690257dab6.jpg?v=1789561061",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee105227f2fa81788c3ea11",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee105247f2fa81788c3ea12",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee105287f2fa81788c3ea13",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1052a7f2fa81788c3ea14",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1052c7f2fa81788c3ea15",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee105467f2fa81788c3ea17",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee105517f2fa81788c3ea19",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1054c7f2fa81788c3ea18",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee105557f2fa81788c3ea1a",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee105597f2fa81788c3ea1b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1055e7f2fa81788c3ea1c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee105657f2fa81788c3ea1d",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee105697f2fa81788c3ea1e",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1056e7f2fa81788c3ea1f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106037f2fa81788c3ea20",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106047f2fa81788c3ea21",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106067f2fa81788c3ea22",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106087f2fa81788c3ea23",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1060d7f2fa81788c3ea24",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106117f2fa81788c3ea25",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106137f2fa81788c3ea26",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee105307f2fa81788c3ea16",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/7c4efd5bf3454178b6b5600d7be67fbb.jpg?v=1789561062",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee106157f2fa81788c3ea27",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106177f2fa81788c3ea28",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1061e7f2fa81788c3ea29",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106457f2fa81788c3ea2c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106487f2fa81788c3ea2d",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1064b7f2fa81788c3ea2e",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1066f7f2fa81788c3ea2f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106767f2fa81788c3ea31",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106727f2fa81788c3ea30",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1067a7f2fa81788c3ea32",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1067f7f2fa81788c3ea34",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106417f2fa81788c3ea2b",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/2f341a63fbe74957a5947c0dae94a1e1.jpg?v=1789561062",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee106bb7f2fa81788c3ea36",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106857f2fa81788c3ea35",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/a0ea1982803d4bd6824755a9015426ce.jpg?v=1789561062",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee106c07f2fa81788c3ea37",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1067d7f2fa81788c3ea33",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/ba4291359850413ca8dacf44caa8e9d5.jpg?v=1789561062",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee106c47f2fa81788c3ea38",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106257f2fa81788c3ea2a",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/82de8f126bb144dc9953093499bafd9e.jpg?v=1789561062",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee106c87f2fa81788c3ea39",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106cb7f2fa81788c3ea3a",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106d37f2fa81788c3ea3c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106d67f2fa81788c3ea3d",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106dd7f2fa81788c3ea3e",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106df7f2fa81788c3ea3f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106e27f2fa81788c3ea40",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106e57f2fa81788c3ea41",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106ed7f2fa81788c3ea43",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106e77f2fa81788c3ea42",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106ef7f2fa81788c3ea44",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/eda10ded34fc47ce881592b08cd892b0.jpg?v=1789561062",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee106f67f2fa81788c3ea46",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106cf7f2fa81788c3ea3b",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/42e1d94aaa5f4810b2a1b8a9f3e1236f.jpg?v=1789561062",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee106f37f2fa81788c3ea45",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106f87f2fa81788c3ea47",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107057f2fa81788c3ea4a",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107097f2fa81788c3ea4b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1070e7f2fa81788c3ea4c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107107f2fa81788c3ea4d",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107157f2fa81788c3ea4e",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107187f2fa81788c3ea4f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1071d7f2fa81788c3ea50",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee106fc7f2fa81788c3ea48",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/0a2d5528e9ba44a78bdd70e91b6b635e.jpg?v=1789561063",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee107237f2fa81788c3ea52",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1072c7f2fa81788c3ea54",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107027f2fa81788c3ea49",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/e5436c9a07334fe3b1b9303d43520f66.jpg?v=1789561063",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee107207f2fa81788c3ea51",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/757271446fdd471589217193322d7d69.jpg?v=1789561063",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee107837f2fa81788c3ea56",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/f82a72e313a246a79407ad2533d0f696.jpg?v=1789561063",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee107807f2fa81788c3ea55",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/bc4379279f004a978751f5c579b83727.jpg?v=1789561063",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee107857f2fa81788c3ea57",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107887f2fa81788c3ea58",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1078d7f2fa81788c3ea59",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107907f2fa81788c3ea5a",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107937f2fa81788c3ea5b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107987f2fa81788c3ea5d",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1072a7f2fa81788c3ea53",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/f39adb716e774f1c9dae0f018a917d22.jpg?v=1789561063",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee1079b7f2fa81788c3ea5e",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1079d7f2fa81788c3ea5f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1079f7f2fa81788c3ea60",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107a17f2fa81788c3ea61",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107a67f2fa81788c3ea62",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107d77f2fa81788c3ea63",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107e17f2fa81788c3ea64",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107e47f2fa81788c3ea65",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107e67f2fa81788c3ea66",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108027f2fa81788c3ea68",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108067f2fa81788c3ea69",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107957f2fa81788c3ea5c",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/12966cd58f7b43d8b414148636e77ed6.jpg?v=1789561063",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee1080c7f2fa81788c3ea6b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1080a7f2fa81788c3ea6a",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/4dc9f43ca49940c588f7ff637f0124fe.jpg?v=1789561063",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee1080f7f2fa81788c3ea6c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108127f2fa81788c3ea6e",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108107f2fa81788c3ea6d",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/4b9db67042df44e0b950955f518ec51c.jpg?v=1789561064",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee108147f2fa81788c3ea6f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108177f2fa81788c3ea70",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108207f2fa81788c3ea72",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1081b7f2fa81788c3ea71",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/99f0fe7a1cd845658611584e911c77d6.jpg?v=1789561064",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee108247f2fa81788c3ea73",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee107fe7f2fa81788c3ea67",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/b758b068b44449bb86aa9c68dbf6ce42.jpg?v=1789561064",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee108267f2fa81788c3ea74",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108287f2fa81788c3ea75",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1082d7f2fa81788c3ea77",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108327f2fa81788c3ea79",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1082b7f2fa81788c3ea76",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/ac9aac2745ca46f89aa12a54e6d521b8.png?v=1789561064",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee108357f2fa81788c3ea7a",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108527f2fa81788c3ea7c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108547f2fa81788c3ea7d",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1084d7f2fa81788c3ea7b",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/9ed2f1f1e26c40f488b4f4df5caf1f02.jpg?v=1789561064",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee108597f2fa81788c3ea7e",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1085c7f2fa81788c3ea7f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108607f2fa81788c3ea80",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1082f7f2fa81788c3ea78",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/c70b7d70a87d4656b831cfc49f75d610.jpg?v=1789561064",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee108807f2fa81788c3ea81",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108917f2fa81788c3ea83",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108967f2fa81788c3ea85",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108997f2fa81788c3ea86",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108a17f2fa81788c3ea87",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108a87f2fa81788c3ea88",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108937f2fa81788c3ea84",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/851b3561a1d5491ea026d5da024c0b06.jpg?v=1789561064",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee108ac7f2fa81788c3ea89",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108af7f2fa81788c3ea8a",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108b17f2fa81788c3ea8b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108b47f2fa81788c3ea8c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108f77f2fa81788c3ea8d",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108f97f2fa81788c3ea8e",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108fb7f2fa81788c3ea8f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee108ff7f2fa81788c3ea90",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee109017f2fa81788c3ea91",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1088f7f2fa81788c3ea82",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/9eec28c000c745dd9dfbcad92e516e72.jpg?v=1789561064",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee1090e7f2fa81788c3ea92",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee109127f2fa81788c3ea93",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee109187f2fa81788c3ea95",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1091d7f2fa81788c3ea96",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee109257f2fa81788c3ea98",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee109277f2fa81788c3ea99",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1094f7f2fa81788c3ea9a",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee109537f2fa81788c3ea9b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee109577f2fa81788c3ea9c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee109847f2fa81788c3eaa0",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee109827f2fa81788c3ea9f",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/60777b9d0afe42eaaf75bf46f368e28a.jpg?v=1789561065",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee109877f2fa81788c3eaa1",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee109167f2fa81788c3ea94",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/381e0484ceb54d99a7e6af5c494cd689.jpg?v=1789561065",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee1097f7f2fa81788c3ea9e",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/e68528c8ac69487ba1818cdcb00785bb.jpg?v=1789561065",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee109907f2fa81788c3eaa3",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/b0393bb4bcba4c358eea5330ab290731.jpg?v=1789561065",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee109927f2fa81788c3eaa4",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/60174de69c0c4840add5e14727dea06b.jpg?v=1789561065",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee109897f2fa81788c3eaa2",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/ba50b8a8e00c4b5f862c7aa4b233ecba.jpg?v=1789561065",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee109ae7f2fa81788c3eaa7",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10a257f2fa81788c3eaa8",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10a267f2fa81788c3eaa9",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10a287f2fa81788c3eaaa",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/641e441a359e4077b43ddfc2184d41cb.jpg?v=1789561065",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee109987f2fa81788c3eaa6",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/336777ff19b14dbfaefad66b495f667b.jpg?v=1789561065",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10a5c7f2fa81788c3eaac",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10a5f7f2fa81788c3eaad",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10a677f2fa81788c3eaaf",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10a647f2fa81788c3eaae",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10a5a7f2fa81788c3eaab",
+    "status": "needs_lookup",
+    "error": "ValueError"
+  },
+  {
+    "id": "5ee109977f2fa81788c3eaa5",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/2bc9f7353a5640c2b1ee009045ed8391.jpg?v=1789561065",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10a6e7f2fa81788c3eab1",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10a6b7f2fa81788c3eab0",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10a9c7f2fa81788c3eab3",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10a9a7f2fa81788c3eab2",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10aa37f2fa81788c3eab5",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10a9f7f2fa81788c3eab4",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10aa87f2fa81788c3eab6",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10aab7f2fa81788c3eab7",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10ad37f2fa81788c3eab9",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10ad07f2fa81788c3eab8",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10ad87f2fa81788c3eabb",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10ad67f2fa81788c3eaba",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10ada7f2fa81788c3eabc",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10adc7f2fa81788c3eabd",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10ae07f2fa81788c3eabf",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10ae27f2fa81788c3eac0",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10ade7f2fa81788c3eabe",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10ae47f2fa81788c3eac1",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10af17f2fa81788c3eac2",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10af57f2fa81788c3eac3",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10afc7f2fa81788c3eac4",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b017f2fa81788c3eac6",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b067f2fa81788c3eac8",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b047f2fa81788c3eac7",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b0a7f2fa81788c3eac9",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10afd7f2fa81788c3eac5",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/88a9ac9baa754971a5e68c3d1b6bc482.jpg?v=1789561065",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10b0e7f2fa81788c3eaca",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/bde8dfd423f843e88ba9bf2e7ed580ec.jpg?v=1789561065",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10b107f2fa81788c3eacb",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/e9706e2a59c1435184f31a779bd6b621.jpg?v=1789561065",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10b137f2fa81788c3eacc",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b197f2fa81788c3eace",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b317f2fa81788c3eacf",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b347f2fa81788c3ead0",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b387f2fa81788c3ead2",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b3a7f2fa81788c3ead3",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b367f2fa81788c3ead1",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/dcf9d863858348a3b67a5f15a5c55cef.jpg?v=1789561066",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10b3c7f2fa81788c3ead4",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b3e7f2fa81788c3ead5",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b407f2fa81788c3ead6",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b427f2fa81788c3ead7",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b447f2fa81788c3ead8",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b467f2fa81788c3ead9",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b167f2fa81788c3eacd",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/0a356be77a6943cf99b28013de456487.jpg?v=1789561066",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10b4e7f2fa81788c3eadc",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b487f2fa81788c3eada",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/d7bdc66d54984009bbba3b9dceb276fe.jpg?v=1789561066",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10b507f2fa81788c3eadd",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b597f2fa81788c3eae0",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b5e7f2fa81788c3eae1",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/d40402b5be7e4b0da72147bc205bc187.jpg?v=1789561066",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10b607f2fa81788c3eae2",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b4b7f2fa81788c3eadb",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/1931da8bbe3b47eb87a51703a2bac89b.jpg?v=1789561066",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10b717f2fa81788c3eae4",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b737f2fa81788c3eae5",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b757f2fa81788c3eae6",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b777f2fa81788c3eae7",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b7b7f2fa81788c3eae9",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b567f2fa81788c3eadf",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/96c0d4ce8718440db345a1c22773bfd3.jpg?v=1789561066",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10b7d7f2fa81788c3eaea",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10c077f2fa81788c3eaeb",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10c187f2fa81788c3eaec",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10c1a7f2fa81788c3eaed",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10c1d7f2fa81788c3eaee",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10b6e7f2fa81788c3eae3",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/349ba5a7098a467db93ae68cc20047b9.jpg?v=1789561066",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10c207f2fa81788c3eaef",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/c806c1d119974af7a0e70da7133452f1.jpg?v=1789561066",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10c247f2fa81788c3eaf0",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10c267f2fa81788c3eaf1",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10c287f2fa81788c3eaf2",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10c2d7f2fa81788c3eaf4",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10c2b7f2fa81788c3eaf3",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10c2f7f2fa81788c3eaf5",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10c337f2fa81788c3eaf7",
+    "status": "needs_lookup",
+    "error": "URLError"
+  },
+  {
+    "id": "5ee10c317f2fa81788c3eaf6",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/dbb18bc55dbf4184bb05b31e6407f7d6.jpg?v=1789561066",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10c357f2fa81788c3eaf8",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10d947f2fa81788c3eaf9",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10d987f2fa81788c3eafb",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10d957f2fa81788c3eafa",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10d997f2fa81788c3eafc",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10d9c7f2fa81788c3eafd",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10d9e7f2fa81788c3eafe",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10da07f2fa81788c3eaff",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10da37f2fa81788c3eb00",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10da67f2fa81788c3eb01",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10da87f2fa81788c3eb02",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/5fc37368d7c34b0ca76c16c57222e17d.jpg?v=1789561067",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10daa7f2fa81788c3eb03",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10dae7f2fa81788c3eb04",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/7e4de87c29584ba49811d489892843a2.jpg?v=1789561067",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10db07f2fa81788c3eb05",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10db47f2fa81788c3eb07",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10db27f2fa81788c3eb06",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/5d2e9bc0338242a9a7652cf45d995962.jpg?v=1789561067",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10db67f2fa81788c3eb08",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10dbd7f2fa81788c3eb0a",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10dbf7f2fa81788c3eb0b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10db97f2fa81788c3eb09",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/8bd311bd46884ab29a3923eabcdea7bf.jpg?v=1789561067",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10de67f2fa81788c3eb0c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10deb7f2fa81788c3eb0d",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10e397f2fa81788c3eb0f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10e6d7f2fa81788c3eb10",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10e8f7f2fa81788c3eb11",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10ead7f2fa81788c3eb13",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10eaf7f2fa81788c3eb14",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10eb77f2fa81788c3eb15",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10eb97f2fa81788c3eb16",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10ded7f2fa81788c3eb0e",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/31c89fe441f644ea85c76595d7ecaf23.jpg?v=1789561067",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10eba7f2fa81788c3eb17",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10ebd7f2fa81788c3eb18",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10ebf7f2fa81788c3eb19",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10ec17f2fa81788c3eb1a",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10ec37f2fa81788c3eb1b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10ec57f2fa81788c3eb1c",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/22d615eff24f4d38b9c1f8b212c29375.jpg?v=1789561067",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10eaa7f2fa81788c3eb12",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/a4c7499b71d74d75a49c71ffa905c11e.jpg?v=1789561067",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10ec77f2fa81788c3eb1d",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/518276d52e40486f9a673e19867dab56.jpg?v=1789561067",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10ec97f2fa81788c3eb1e",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/399694a94e3b4b3f978c83a9ca85e9b6.jpg?v=1789561067",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10ecc7f2fa81788c3eb1f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10ece7f2fa81788c3eb20",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10f397f2fa81788c3eb21",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10f3c7f2fa81788c3eb23",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10f3f7f2fa81788c3eb24",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10f427f2fa81788c3eb25",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10f467f2fa81788c3eb27",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/5a54ee7bc049419f9e5b05668d3ce2fc.jpg?v=1789561067",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10f917f2fa81788c3eb29",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10f3b7f2fa81788c3eb22",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/1f3c35b7536b4e9aa347d63e06262c77.jpg?v=1789561068",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10f967f2fa81788c3eb2a",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/476754973e964e03a61a7a5b2e29e105.jpg?v=1789561068",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10f9a7f2fa81788c3eb2b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10fa77f2fa81788c3eb2c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10faf7f2fa81788c3eb2d",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10f447f2fa81788c3eb26",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/95cef6e127054bd68ecebaa1857be5da.jpg?v=1789561068",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10fba7f2fa81788c3eb2f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10fc37f2fa81788c3eb31",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10fb67f2fa81788c3eb2e",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/0af2a9555fa445bc89fc8508c4bb196a.jpg?v=1789561068",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10fbe7f2fa81788c3eb30",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/e16529e17d7d4a60814039333d36b554.jpg?v=1789561068",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10fc67f2fa81788c3eb32",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/7339897781c14e2983c7c09dd695565b.jpg?v=1789561068",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10fd87f2fa81788c3eb34",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10fdb7f2fa81788c3eb35",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10fde7f2fa81788c3eb36",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10fe47f2fa81788c3eb37",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/8da95cecf3ca45908aadd0e47ca65ca8.jpg?v=1789561069",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10feb7f2fa81788c3eb39",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10fed7f2fa81788c3eb3a",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10fc97f2fa81788c3eb33",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/74f5a19a7de549ccb0b165c08925e2e7.png?v=1789561069",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee10fe97f2fa81788c3eb38",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/90680ab884de4c31993ef046d5909d97.jpg?v=1789561069",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee110047f2fa81788c3eb3b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee110067f2fa81788c3eb3c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1104c7f2fa81788c3eb40",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee110517f2fa81788c3eb41",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee110587f2fa81788c3eb43",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee110557f2fa81788c3eb42",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1105a7f2fa81788c3eb44",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/65704ca3949e43bc9ffa1207af966ba8.jpg?v=1789561069",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee1105f7f2fa81788c3eb46",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1105d7f2fa81788c3eb45",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee110637f2fa81788c3eb48",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee110657f2fa81788c3eb49",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1106a7f2fa81788c3eb4a",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee1106f7f2fa81788c3eb4b",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee110737f2fa81788c3eb4c",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee110767f2fa81788c3eb4d",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee110617f2fa81788c3eb47",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/86a9074399614f96b347dd14d63a7015.jpg?v=1789561069",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee110797f2fa81788c3eb4e",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5ee10f807f2fa81788c3eb28",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/28c017be7cd94d2da2f8606cb94cfcee.jpg?v=1789561069",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "5ee110957f2fa81788c3eb4f",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5f033dd97f2fa80c70c007e0",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5f033de87f2fa80c70c007e1",
+    "status": "needs_lookup",
+    "error": "URLError"
+  },
+  {
+    "id": "5f11c8537f2fa822508b8358",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "6449b0097f2fa82c80e63652",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "5f1b07e77f2fa81d6803d933",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "6783d8277eb1792d8471a212",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783ecb90aa2e81f1812672d",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783ece30aa2e81f1812672e",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783ecf70aa2e81f1812672f",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783ecfa0aa2e81f18126730",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783ecff0aa2e81f18126731",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783ed050aa2e81f18126732",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783ed080aa2e81f18126733",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783ed270aa2e81f18126734",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783ed320aa2e81f18126735",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783ee6a0aa2e81f18126736",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783ee6f0aa2e81f18126737",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783ee750aa2e81f18126738",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783ee7b0aa2e81f18126739",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783efa30aa2e81f1812673a",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f0770aa2e81f1812673b",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f07c0aa2e81f1812673c",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f0a90aa2e81f1812673e",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f0af0aa2e81f1812673f",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f0b20aa2e81f18126740",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f0c10aa2e81f18126741",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f0c30aa2e81f18126742",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f0cc0aa2e81f18126743",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f21a0aa2e81f18126745",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f2310aa2e81f18126746",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f2520aa2e81f18126747",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f27d0aa2e81f18126748",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f2ac0aa2e81f18126749",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f2af0aa2e81f1812674a",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f2bc0aa2e81f1812674b",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f32f0aa2e81f1812674c",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f3340aa2e81f1812674d",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f35b0aa2e81f1812674e",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f3750aa2e81f1812674f",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f3790aa2e81f18126750",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f40a0aa2e81f18126751",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f4160aa2e81f18126752",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f42d0aa2e81f18126753",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f43b0aa2e81f18126754",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f4430aa2e81f18126755",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f4450aa2e81f18126756",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f44c0aa2e81f18126757",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f49e0aa2e81f18126758",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f4a10aa2e81f18126759",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f4b10aa2e81f1812675a",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f4b30aa2e81f1812675b",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f4bb0aa2e81f1812675c",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f4c00aa2e81f1812675d",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f4f80aa2e81f1812675e",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f5060aa2e81f1812675f",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f5090aa2e81f18126760",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f5a80aa2e81f18126761",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f5b70aa2e81f18126762",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f5bd0aa2e81f18126763",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f5ce0aa2e81f18126764",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f5e40aa2e81f18126766",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f5ec0aa2e81f18126767",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f60e0aa2e81f18126768",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f62e0aa2e81f18126769",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f6360aa2e81f1812676a",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f63c0aa2e81f1812676b",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f6560aa2e81f1812676c",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6783f6640aa2e81f1812676e",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/13fcaa6aa1654f00ab824e845f6f0938.jpg?v=1789561070",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "6783d3dc7eb1792d8471a211",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/d3eabbda185e421dbd4d53912cea3453.jpg?v=1789561070",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "6783f6ad0aa2e81f18126770",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "6783f6b90aa2e81f18126771",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "6784507be4085b038c32ce1c",
+    "status": "manual_preserved"
+  },
+  {
+    "id": "67845158e4085b038c32ce1d",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "67845161e4085b038c32ce1e",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "67845170e4085b038c32ce1f",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "6784517ce4085b038c32ce20",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "67845186e4085b038c32ce21",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "67845188e4085b038c32ce22",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "67845194e4085b038c32ce23",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "67845198e4085b038c32ce24",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "678451a8e4085b038c32ce25",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "679d344fc168ce155c963bf5",
+    "status": "needs_lookup"
+  },
+  {
+    "id": "646f8ec97f2fa828c8ca7a47",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  },
+  {
+    "id": "6783f6700aa2e81f1812676f",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/f2912d306bf944609a91ee152712a641.jpg?v=1789561070",
+      "cover_source": "existing-source-cached"
+    }
+  },
+  {
+    "id": "6449b0097f2fa82c80e63651",
+    "status": "needs_lookup",
+    "error": "HTTPError"
+  }
+]

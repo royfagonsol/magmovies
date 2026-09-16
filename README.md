@@ -1,6 +1,5 @@
-# Lads Trip Phot Viewer
+# DVD Library Manager
 
 ## About
 
-Repository of images from all the lads trips.
-
+Repository of DVD titles

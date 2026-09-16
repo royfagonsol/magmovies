@@ -1,0 +1,9 @@
+DVD library export for Excel editing
+
+Open Excel > Data > From Text/CSV. Select disc.csv and set ALL columns to Text before loading (Transform Data if necessary). This preserves barcode leading zeros and prevents automatic date/number conversions. Save edited data as CSV UTF-8.
+
+Keep _id and column headings unchanged. Edit main_title for the cleaned display title. Keep title unchanged if retaining original source titles. Year should be blank or a four-digit whole year. Cast is a JSON array, e.g. ["Actor One", "Actor Two"].
+
+For re-import, match existing records by _id, compare against source.json, and update only edited fields. Do not replace entire documents or insert duplicate records. Missing rows do not imply deletions. Blank cells initially represent missing/null/empty values; the snapshot preserves the distinction. Unchanged blank values should remain untouched; edited cells cleared to blank need field-specific handling. Check concurrent database edits before applying changes.
+
+source.json is the original snapshot for comparison and recovery. This export made no database changes.

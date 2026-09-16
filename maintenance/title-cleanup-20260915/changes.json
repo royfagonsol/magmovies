@@ -1,0 +1,5979 @@
+[
+  {
+    "_id": {
+      "$oid": "5edfc6197f2faa10180688e9"
+    },
+    "title": "Watchmen",
+    "set": {
+      "main_title": "Watchmen"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7787f2faa10180688ea"
+    },
+    "title": "Greatest Showman, The Bd+dhd (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Greatest Showman, The Bd+dhd",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc78e7f2faa10180688ed"
+    },
+    "title": "The Vow Dvd - Dvd - ",
+    "set": {
+      "main_title": "The Vow"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7927f2faa10180688ee"
+    },
+    "title": "Eat Pray Love Blu-ra - Id54z - Blu-ray - ",
+    "set": {
+      "main_title": "Eat Pray Love Blu-ra - Id54z",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7a27f2faa10180688ef"
+    },
+    "title": "The Hunger Games: Mockingjay Part 2 [blu-ray] [2015] By Jennifer Lawrence,jos. ",
+    "set": {
+      "main_title": "The Hunger Games: Mockingjay Part 2 By Jennifer Lawrence,jos.",
+      "format": "BLURAY",
+      "year": 2015
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7a87f2faa10180688f0"
+    },
+    "title": "The Hunger Games: Catching Fire - 2013 Sci-fi (new/sealed Region B Blu-ray/dvd) ",
+    "set": {
+      "main_title": "The Hunger Games: Catching Fire - Sci-fi",
+      "format": "BLURAY",
+      "year": 2013
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7ae7f2faa10180688f1"
+    },
+    "title": "The Hunger Games Blu Ray 2 Disc Edition ",
+    "set": {
+      "main_title": "The Hunger Games 2 Disc Edition",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7c47f2faa10180688f2"
+    },
+    "title": "The Bourne Ultimatum (2007) - Blu Ray - Matt Damon - Universal ",
+    "set": {
+      "main_title": "The Bourne Ultimatum - Matt Damon - Universal",
+      "format": "BLURAY",
+      "year": 2007
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7cc7f2faa10180688f4"
+    },
+    "title": "Bourne Supremacy - Blu-ray - ",
+    "set": {
+      "main_title": "Bourne Supremacy",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7dc7f2faa10180688f5"
+    },
+    "title": "Jason Bourne - Blu-ray - ",
+    "set": {
+      "main_title": "Jason Bourne",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7e27f2faa10180688f6"
+    },
+    "title": "The Bourne Legacy Bl - Blu-ray - ",
+    "set": {
+      "main_title": "The Bourne Legacy Bl",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7ed7f2faa10180688f7"
+    },
+    "title": "X Men Dark Phoenix (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "X Men Dark Phoenix"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8077f2faa10180688fa"
+    },
+    "title": "Che Parts One And T - Blu-ray - ",
+    "set": {
+      "main_title": "Che Parts One And T",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc80c7f2faa10180688fb"
+    },
+    "title": "Black Swan [blu-ray] By Natalie Portman,mila Kunis. ",
+    "set": {
+      "main_title": "Black Swan By Natalie Portman,mila Kunis.",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc81b7f2faa10180688fe"
+    },
+    "title": "Fantastic Beasts And - Blu-ray - ",
+    "set": {
+      "main_title": "Fantastic Beasts And",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8397f2faa1018068901"
+    },
+    "title": "Happy Feet 2 (uk Import) Dvd ",
+    "set": {
+      "main_title": "Happy Feet 2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8537f2faa1018068904"
+    },
+    "title": "World's End",
+    "set": {
+      "main_title": "World's End"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8597f2faa1018068905"
+    },
+    "title": "Billy Connolly High - 8309212 - Dvd ",
+    "set": {
+      "main_title": "Billy Connolly High - 8309212"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc85f7f2faa1018068906"
+    },
+    "title": "Don't Be A Menace To - Mirlgd94463 - Dvd ",
+    "set": {
+      "main_title": "Don't Be A Menace To - Mirlgd94463"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8637f2faa1018068907"
+    },
+    "title": "Absolutely Fabulous - Blu-ray - ",
+    "set": {
+      "main_title": "Absolutely Fabulous",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8697f2faa1018068908"
+    },
+    "title": "Robert Hays-airplane (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Robert Hays-airplane"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8747f2faa1018068909"
+    },
+    "title": "Ted - Blu-ray - ",
+    "set": {
+      "main_title": "Ted",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc87b7f2faa101806890a"
+    },
+    "title": "Minions - Blu-ray - ",
+    "set": {
+      "main_title": "Minions",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8817f2faa101806890b"
+    },
+    "title": "Family Guy Somethin - Dvd - ",
+    "set": {
+      "main_title": "Family Guy Somethin"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8d27f2faa101806890c"
+    },
+    "title": "Dance Flick [dvd] By Shoshana Bush,essence Atkins,rick Alvarez,keenen Ivory W. ",
+    "set": {
+      "main_title": "Dance Flick By Shoshana Bush,essence Atkins,rick Alvarez,keenen Ivory W."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc90d7f2faa101806890d"
+    },
+    "title": "Alfred Hitchcock - The Masterpiece Collection - 14-Disc Box Set ( The Birds / Fa ",
+    "set": {
+      "main_title": "Alfred Hitchcock - The Masterpiece Collection - 14-Disc Box Set"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc92c7f2faa101806890e"
+    },
+    "title": "Dexter - Seasons 1-5 Complete [dvd] By Michael C. Hall,jennifer Carpenter. ",
+    "set": {
+      "main_title": "Dexter - Seasons 1-5 Complete By Michael C. Hall,jennifer Carpenter."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc93a7f2faa101806890f"
+    },
+    "title": "The Sopranos Series 1 To 6 Complete Collection <region 2 Dvd, Sealed> ",
+    "set": {
+      "main_title": "The Sopranos Series 1 To 6 Complete Collection"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc9427f2faa1018068910"
+    },
+    "title": "Sons Of Anarchy (region 2) - Dvd - - Free Shipping. ",
+    "set": {
+      "main_title": "Sons Of Anarchy - Free Shipping."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc9577f2faa1018068911"
+    },
+    "title": "24 - Redemption Dvd - 3933801000 - Dvd ",
+    "set": {
+      "main_title": "24 - Redemption - 3933801000"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc95e7f2faa1018068912"
+    },
+    "title": "24 Complete Season 2 Dvd Box Set Royal Mail 1st Class Fast & Free ",
+    "set": {
+      "main_title": "24 Complete Season 2 Box Set Royal Mail 1st Class Fast & Free"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc9657f2faa1018068913"
+    },
+    "title": "24 Season 3 - Dvd - ",
+    "set": {
+      "main_title": "24 Season 3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc9787f2faa1018068914"
+    },
+    "title": "24 Season 4 Box Se - Dvd - ",
+    "set": {
+      "main_title": "24 Season 4 Box Se"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc9827f2faa1018068915"
+    },
+    "title": "24 Season 5 Box Se - Dvd - ",
+    "set": {
+      "main_title": "24 Season 5 Box Se"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc9887f2faa1018068916"
+    },
+    "title": "24 Season 6 - Dvd - ",
+    "set": {
+      "main_title": "24 Season 6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc98d7f2faa1018068917"
+    },
+    "title": "Kiefer Sutherland, Adoni Ma...-24: Season 7 (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Kiefer Sutherland, Adoni Ma...-24: Season 7"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc9937f2faa1018068918"
+    },
+    "title": "24 The Final Season Dvd Boxset Brand And Sealed ",
+    "set": {
+      "main_title": "24 The Final Season Boxset Brand And Sealed"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcb797f2fab101831383e"
+    },
+    "title": "Carnivale Season 1 <region 2 Dvd, Sealed> ",
+    "set": {
+      "main_title": "Carnivale Season 1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcb7d7f2fab101831383f"
+    },
+    "title": "Peep Show: Series 1-3 Box Set [dvd] By Robert Webb,david Mitchell,philip Clar. ",
+    "set": {
+      "main_title": "Peep Show: Series 1-3 Box Set By Robert Webb,david Mitchell,philip Clar."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcb887f2fab1018313840"
+    },
+    "title": "Dream On: Seasons 1 & 2 [5 Discs] (dvd) ",
+    "set": {
+      "main_title": "Dream On: Seasons 1 & 2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcb8e7f2fab1018313841"
+    },
+    "title": "Firefly, The Complete Series Dvd Set, Joss Whedon Tv Show, & Sealed. ",
+    "set": {
+      "main_title": "Firefly, The Complete Series Set, Joss Whedon Tv Show, & Sealed."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcb947f2fab1018313842"
+    },
+    "title": "Dvd The X Files First Season Box Set 689 ",
+    "set": {
+      "main_title": "The X Files First Season Box Set 689"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcbad7f2fab1018313843"
+    },
+    "title": "Doctor Who - The Complete Bbc Series 2 Box Set [dvd] By David Tennant. ",
+    "set": {
+      "main_title": "Doctor Who - The Complete Bbc Series 2 Box Set By David Tennant."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcbb37f2fab1018313844"
+    },
+    "title": "Farscape [dvd]. ",
+    "set": {
+      "main_title": "Farscape ."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcbc87f2fab1018313845"
+    },
+    "title": "When The Boat Comes In (1975/81) Complete Series : 24 Dvd Box Set James Bolam ",
+    "set": {
+      "main_title": "When The Boat Comes In Complete Series : 24 Box Set James Bolam"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcbd17f2fab1018313846"
+    },
+    "title": "Family At War: Complete Set [dvd] [1970], 5036193090745, T.r. Bowen, David Brad. ",
+    "set": {
+      "main_title": "Family At War: Complete Set , 5036193090745, T.r. Bowen, David Brad.",
+      "year": 1970
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcbe57f2fab1018313847"
+    },
+    "title": "Farscape: The Peacekeeper Wars [dvd] By Ben Browder,claudia Black. ",
+    "set": {
+      "main_title": "Farscape: The Peacekeeper Wars By Ben Browder,claudia Black."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcbed7f2fab1018313848"
+    },
+    "title": "Farscape 3.1 [dvd] [1999] By Ben Browder,claudia Black,andrew Prowse,emily Sk. ",
+    "set": {
+      "main_title": "Farscape 3.1 By Ben Browder,claudia Black,andrew Prowse,emily Sk.",
+      "year": 1999
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcbf37f2fab1018313849"
+    },
+    "title": "Farscape 3.2 [dvd] [1999] By Ben Browder,claudia Black,andrew Prowse,emily Sk. ",
+    "set": {
+      "main_title": "Farscape 3.2 By Ben Browder,claudia Black,andrew Prowse,emily Sk.",
+      "year": 1999
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcbf87f2fab101831384a"
+    },
+    "title": "Farscape 3.3 [dvd] [1999] By Ben Browder,claudia Black,andrew Prowse,emily Sk. ",
+    "set": {
+      "main_title": "Farscape 3.3 By Ben Browder,claudia Black,andrew Prowse,emily Sk.",
+      "year": 1999
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc017f2fab101831384b"
+    },
+    "title": "Farscape 3.4 [dvd] [1999] By Ben Browder,claudia Black,andrew Prowse,emily Sk. ",
+    "set": {
+      "main_title": "Farscape 3.4 By Ben Browder,claudia Black,andrew Prowse,emily Sk.",
+      "year": 1999
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc0a7f2fab101831384c"
+    },
+    "title": "Farscape 3.5 [dvd] [1999] By Ben Browder,claudia Black,andrew Prowse,emily Sk. ",
+    "set": {
+      "main_title": "Farscape 3.5 By Ben Browder,claudia Black,andrew Prowse,emily Sk.",
+      "year": 1999
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc127f2fab101831384d"
+    },
+    "title": "Farscape 4.1 [dvd] [1999] By Ben Browder,claudia Black,andrew Prowse,emily Sk. ",
+    "set": {
+      "main_title": "Farscape 4.1 By Ben Browder,claudia Black,andrew Prowse,emily Sk.",
+      "year": 1999
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc1f7f2fab101831384e"
+    },
+    "title": "Farscape 4.2 [dvd] [1999] By Ben Browder,claudia Black,andrew Prowse,emily Sk. ",
+    "set": {
+      "main_title": "Farscape 4.2 By Ben Browder,claudia Black,andrew Prowse,emily Sk.",
+      "year": 1999
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc247f2fab101831384f"
+    },
+    "title": "Farscape 4.3 [dvd] [1999] By Ben Browder,claudia Black,andrew Prowse,emily Sk. ",
+    "set": {
+      "main_title": "Farscape 4.3 By Ben Browder,claudia Black,andrew Prowse,emily Sk.",
+      "year": 1999
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc2a7f2fab1018313850"
+    },
+    "title": "Farscape 4.4 [dvd] [1999] By Ben Browder,claudia Black,andrew Prowse,emily Sk. ",
+    "set": {
+      "main_title": "Farscape 4.4 By Ben Browder,claudia Black,andrew Prowse,emily Sk.",
+      "year": 1999
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc567f2fab1018313851"
+    },
+    "title": "Dvd - American Dad Season - ",
+    "set": {
+      "main_title": "American Dad Season"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc5f7f2fab1018313852"
+    },
+    "title": "The Simpsons: Complete Season 5 (box Set) [dvd] ",
+    "set": {
+      "main_title": "The Simpsons: Complete Season 5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc657f2fab1018313853"
+    },
+    "title": "The Simpsons: Complete Season 1 [dvd], 5039036006231, Dan Castellaneta, Nancy C. ",
+    "set": {
+      "main_title": "The Simpsons: Complete Season 1 , 5039036006231, Dan Castellaneta, Nancy C."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc6d7f2fab1018313854"
+    },
+    "title": "Family Guy - Present - 3781601000 - Dvd ",
+    "set": {
+      "main_title": "Family Guy - Present - 3781601000"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccab7f2fab1018313855"
+    },
+    "title": "Sound Of Music [region 2] - Dvd - - Free Shipping. ",
+    "set": {
+      "main_title": "Sound Of Music - Free Shipping."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccaf7f2fab1018313856"
+    },
+    "title": "The King And I - Dvd ",
+    "set": {
+      "main_title": "The King And I"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccb37f2fab1018313857"
+    },
+    "title": "Moulin Rouge Dvd: 2-disc Edition (includes Bonus Features) Free Postage ",
+    "set": {
+      "main_title": "Moulin Rouge : 2-disc Edition Free Postage"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccb87f2fab1018313858"
+    },
+    "title": "The Rocky Horror Picture Show:tim Curry, Richard O'brien (dvd,2001) 2-disc Set) ",
+    "set": {
+      "main_title": "The Rocky Horror Picture Show:tim Curry, Richard O'brien 2-disc Set",
+      "year": 2001
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccbd7f2fab1018313859"
+    },
+    "title": "Seven Brides For Seven Brothers (dvd) & Sealed ",
+    "set": {
+      "main_title": "Seven Brides For Seven Brothers & Sealed"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccc87f2fab101831385a"
+    },
+    "title": "The Vicar Of Dibley: Ultimate Collection Dvd (2007) Dawn French Cert 12 6 Discs ",
+    "set": {
+      "main_title": "The Vicar Of Dibley: Ultimate Collection Dawn French Cert 12 6 Discs",
+      "year": 2007
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccce7f2fab101831385b"
+    },
+    "title": "Michael Flatley - Lord Of The Dance (dvd, 1998) ",
+    "set": {
+      "main_title": "Michael Flatley - Lord Of The Dance",
+      "year": 1998
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccd47f2fab101831385c"
+    },
+    "title": "Hedwig And The Angry Inch (dvd, 2002) ",
+    "set": {
+      "main_title": "Hedwig And The Angry Inch",
+      "year": 2002
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccd97f2fab101831385d"
+    },
+    "title": "Annie Get Your Gun <region 2 Dvd, Sealed> ",
+    "set": {
+      "main_title": "Annie Get Your Gun"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcce27f2fab101831385e"
+    },
+    "title": "61759 Dvd - Annie & Oliver Box Set [new & Sealed] 2007 Cdrp 7089 ",
+    "set": {
+      "main_title": "61759 - Annie & Oliver Box Set Cdrp 7089",
+      "year": 2007
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcce97f2fab101831385f"
+    },
+    "title": "Mamma Mia The Movie - Dvd - Gift Box Set - Sealed ",
+    "set": {
+      "main_title": "Mamma Mia The Movie - Gift Box Set - Sealed"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd1b7f2fab1018313860"
+    },
+    "title": "Mamma Mia 2 Movie Collection (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Mamma Mia 2 Movie Collection"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd217f2fab1018313861"
+    },
+    "title": "Ghost Town Dvd - Dsl1567 - Dvd ",
+    "set": {
+      "main_title": "Ghost Town - Dsl1567"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd2a7f2fab1018313862"
+    },
+    "title": "The Pink Panther Film Collection (5 Disc Box Set) [dvd] [1976] - - Sealed ",
+    "set": {
+      "main_title": "The Pink Panther Film Collection - Sealed",
+      "year": 1976
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd327f2fab1018313863"
+    },
+    "title": "Father Ted - The Complete 3rd Series [1995] [dvd], Very Good Dvd, Don Wycherley, ",
+    "set": {
+      "main_title": "Father Ted - The Complete 3rd Series , Very Good , Don Wycherley",
+      "year": 1995
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd367f2fab1018313864"
+    },
+    "title": "28845 Dvd - Little Britain The Complete Second Series [new & Sealed] 2005 ",
+    "set": {
+      "main_title": "28845 - Little Britain The Complete Second Series",
+      "year": 2005
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd397f2fab1018313865"
+    },
+    "title": "10340 Dvd - Little Britain The Complete First Series 2004 Bbcdvd 1494 ",
+    "set": {
+      "main_title": "10340 - Little Britain The Complete First Series Bbcdvd 1494",
+      "year": 2004
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd427f2fab1018313866"
+    },
+    "title": "Andrew Lloyd Webber: The Royal Albert Hall Celebration [dvd] [1998] By Tina A. ",
+    "set": {
+      "main_title": "Andrew Lloyd Webber: The Royal Albert Hall Celebration By Tina A.",
+      "year": 1998
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd467f2fab1018313867"
+    },
+    "title": "Andrew Lloyd Webber - Cats - Dvd - ",
+    "set": {
+      "main_title": "Andrew Lloyd Webber - Cats"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd4e7f2fab1018313868"
+    },
+    "title": "Joseph And The Amazing Technicolour Dreamcoat [dvd] [1999], Very Good Dvd, Donny ",
+    "set": {
+      "main_title": "Joseph And The Amazing Technicolour Dreamcoat , Very Good , Donny",
+      "year": 1999
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd567f2fab1018313869"
+    },
+    "title": "The Jazz Singer (25th Anniversary) (DVD) ",
+    "set": {
+      "main_title": "The Jazz Singer"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd5a7f2fab101831386a"
+    },
+    "title": "Tesla / Time's Makin' Changes (2005) Dvd ",
+    "set": {
+      "main_title": "Tesla / Time's Makin' Changes",
+      "year": 2005
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd5f7f2fab101831386b"
+    },
+    "title": "Channing Tatum - Magic Mike - Lgd94963 - Dvd ",
+    "set": {
+      "main_title": "Channing Tatum - Magic Mike - Lgd94963"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd667f2fab101831386c"
+    },
+    "title": "League Of Gentlemen - Bbcdvd1007 - Dvd ",
+    "set": {
+      "main_title": "League Of Gentlemen - Bbcdvd1007"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd697f2fab101831386d"
+    },
+    "title": "Raising Arizona - 05191dvd - Dvd ",
+    "set": {
+      "main_title": "Raising Arizona - 05191dvd"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd707f2fab101831386e"
+    },
+    "title": "Blues Brothers - 8203780 - Dvd ",
+    "set": {
+      "main_title": "Blues Brothers - 8203780"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd737f2fab101831386f"
+    },
+    "title": "Id5660z - Spinal Tap - This Is Spinal Tap - 16146dvd Z1 - Dvd ",
+    "set": {
+      "main_title": "Id5660z - Spinal Tap - This Is Spinal Tap - 16146dvd Z1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd777f2fab1018313870"
+    },
+    "title": "Fool's Gold - 1000086715 - Dvd ",
+    "set": {
+      "main_title": "Fool's Gold - 1000086715"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd977f2fab1018313872"
+    },
+    "title": "Bad Santa - Cdr39107 - Dvd ",
+    "set": {
+      "main_title": "Bad Santa - Cdr39107"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcda17f2fab1018313873"
+    },
+    "title": "Hansel & Gretel: Witch Hunters (blu-ray Disc) ",
+    "set": {
+      "main_title": "Hansel & Gretel: Witch Hunters",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcda47f2fab1018313874"
+    },
+    "title": "Revenant, The Bd - Digital Hd Uv (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Revenant, The Bd - Digital Hd Uv",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcda87f2fab1018313875"
+    },
+    "title": "Cloud Atlas <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "Cloud Atlas",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcdac7f2fab1018313876"
+    },
+    "title": "Nine Lives - Lid95364 - Dvd ",
+    "set": {
+      "main_title": "Nine Lives - Lid95364"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcdeb7f2fab1018313877"
+    },
+    "title": "This Is The End (blu-ray Disc) ",
+    "set": {
+      "main_title": "This Is The End",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce3b7f2fab1018313878"
+    },
+    "title": "Chris Rock: Bigger & Blacker (DVD) ",
+    "set": {
+      "main_title": "Chris Rock: Bigger & Blacker"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce627f2fab101831387c"
+    },
+    "title": "Belkin - Patch cable - LC/PC multi-mode (M) to ST/PC multi-mode (M) - 33  ",
+    "set": {
+      "main_title": "Belkin - Patch cable - LC/PC multi-mode to ST/PC multi-mode - 33"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce687f2fab101831387d"
+    },
+    "title": "Dylan Moran - The Live Collection (dvd, 2007, 2-disc Set, Box Set) Sealed ",
+    "set": {
+      "main_title": "Dylan Moran - The Live Collection Sealed",
+      "year": 2007
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce6d7f2fab101831387e"
+    },
+    "title": "Rio (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Rio",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce737f2fab101831387f"
+    },
+    "title": "Sammys Great Escape Dvd Dvd (1000395312) ",
+    "set": {
+      "main_title": "Sammys Great Escape"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce787f2fab1018313880"
+    },
+    "title": "Bug's Life (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Bug's Life",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce7c7f2fab1018313881"
+    },
+    "title": "Piggy Tales Season - Cdr65041 - Dvd ",
+    "set": {
+      "main_title": "Piggy Tales Season - Cdr65041"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce827f2fab1018313882"
+    },
+    "title": "The Adventures Of Baron Munchausen [dvd] [1988] [2011] By John Neville,eric I. ",
+    "set": {
+      "main_title": "The Adventures Of Baron Munchausen By John Neville,eric I."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce877f2fab1018313883"
+    },
+    "title": "Brave <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "Brave",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce8e7f2fab1018313884"
+    },
+    "title": "Shaun Of The Dead Dv - 8226110 - Dvd ",
+    "set": {
+      "main_title": "Shaun Of The Dead Dv - 8226110"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce937f2fab1018313885"
+    },
+    "title": "Beetlejuice: 20th Anniversary (blu-ray Disc) (anniversary Edition) ",
+    "set": {
+      "main_title": "Beetlejuice: 20th Anniversary",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce977f2fab1018313886"
+    },
+    "title": "Macaulay Culkin, Joe Pesci-home Alone (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Macaulay Culkin, Joe Pesci-home Alone",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce9d7f2fab1018313887"
+    },
+    "title": "HANGOVER [DVD] [5051892007122] ",
+    "set": {
+      "main_title": "HANGOVER"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcea57f2fab1018313888"
+    },
+    "title": "The Hangover Part Ii - Triple Play (blu-ray + Dvd + Digital Copy) [2011] [regio. ",
+    "set": {
+      "main_title": "The Hangover Part Ii - Triple Play",
+      "format": "BLURAY",
+      "year": 2011
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfceaa7f2fab1018313889"
+    },
+    "title": "The Hangover - Part Iii <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "The Hangover - Part Iii",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfceb07f2fab101831388a"
+    },
+    "title": "Paul [blu-ray], 5050582859720, Simon Pegg, Nick Frost, Kristen Wiig, Greg Motto. ",
+    "set": {
+      "main_title": "Paul , 5050582859720, Simon Pegg, Nick Frost, Kristen Wiig, Greg Motto.",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfceb67f2fab101831388b"
+    },
+    "title": "Kevin Smith-jay And Silent Bob Strike Back (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Kevin Smith-jay And Silent Bob Strike Back"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcebb7f2fab101831388c"
+    },
+    "title": "Road To Bali-special Feature:bob Hope Story (uk Import) Dvd ",
+    "set": {
+      "main_title": "Road To Bali-special Feature:bob Hope Story"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcec17f2fab101831388d"
+    },
+    "title": "BRENTWOOD HOME VIDEO ",
+    "set": {
+      "main_title": "BRENTWOOD HOME VIDEO"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcec77f2fab101831388e"
+    },
+    "title": "Wedding Crashers - U - Edv9387 - Dvd ",
+    "set": {
+      "main_title": "Wedding Crashers - U - Edv9387"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcedf7f2fab101831388f"
+    },
+    "title": "Groundhog Day - Bill Murray, Andie Macdowell - Dvd Free Uk P&p ",
+    "set": {
+      "main_title": "Groundhog Day - Bill Murray, Andie Macdowell - Free Uk P&p"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcef17f2fab1018313890"
+    },
+    "title": "Galaxy Quest (dvd, 2001) Dvd Film ",
+    "set": {
+      "main_title": "Galaxy Quest Film",
+      "year": 2001
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcef77f2fab1018313891"
+    },
+    "title": "Theres Something Abo - 00178dvd - Dvd ",
+    "set": {
+      "main_title": "Theres Something Abo - 00178dvd"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcefb7f2fab1018313892"
+    },
+    "title": "John Malkovich, Simon Jones-hitchhikers Guide To (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "John Malkovich, Simon Jones-hitchhikers Guide To"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf017f2fab1018313893"
+    },
+    "title": "70808 Dvd - Men In Black Ii [new / Sealed] 2002 Cdr32718 ",
+    "set": {
+      "main_title": "70808 - Men In Black Ii Cdr32718",
+      "year": 2002
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf067f2fab1018313894"
+    },
+    "title": "Yes Man - 1000096485 - Dvd ",
+    "set": {
+      "main_title": "Yes Man - 1000096485"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf0a7f2fab1018313895"
+    },
+    "title": "Hot Fuzz 2 Disc Special Dvd ",
+    "set": {
+      "main_title": "Hot Fuzz 2 Disc Special"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf107f2fab1018313896"
+    },
+    "title": "Robin Williams-the Birdcage (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Robin Williams-the Birdcage"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf157f2fab1018313897"
+    },
+    "title": "Jim Carrey, Morgan Freeman-bruce Almighty (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Jim Carrey, Morgan Freeman-bruce Almighty"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf1b7f2fab1018313898"
+    },
+    "title": "Message In A Bottle - Dvd - ",
+    "set": {
+      "main_title": "Message In A Bottle"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf217f2fab1018313899"
+    },
+    "title": "Mercury Rising [1998] Dvd, Bruce Willis, Miko Hughes, R2 Uk Pal ",
+    "set": {
+      "main_title": "Mercury Rising , Bruce Willis, Miko Hughes, R2 Uk Pal",
+      "year": 1998
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf277f2fab101831389a"
+    },
+    "title": "John Carpenter's Vampires (DVD) ",
+    "set": {
+      "main_title": "John Carpenter's Vampires"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf2b7f2fab101831389b"
+    },
+    "title": "Somewhere In Time Dv - Abd4782 - Dvd ",
+    "set": {
+      "main_title": "Somewhere In Time Dv - Abd4782"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf327f2fab101831389c"
+    },
+    "title": "Monty Python: The Movies (4 Disc Box Set) [dvd] By Graham Chapman,john Cleese. ",
+    "set": {
+      "main_title": "Monty Python: The Movies By Graham Chapman,john Cleese."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf387f2fab101831389d"
+    },
+    "title": "Smurfs - Dvd - ",
+    "set": {
+      "main_title": "Smurfs"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf3c7f2fab101831389e"
+    },
+    "title": "Dogma [region 2] - Dvd - - Free Shipping. ",
+    "set": {
+      "main_title": "Dogma - Free Shipping."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf417f2fab101831389f"
+    },
+    "title": "Great Gatsby (blu-ray Disc) ",
+    "set": {
+      "main_title": "Great Gatsby",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf507f2fab10183138a0"
+    },
+    "title": "Three Oclock High Dvd (8236264) ",
+    "set": {
+      "main_title": "Three Oclock High"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf797f2fab10183138a1"
+    },
+    "title": "The Game By David Fincher ",
+    "set": {
+      "main_title": "The Game By David Fincher"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf7c7f2fab10183138a2"
+    },
+    "title": "National Lampoon's Christmas Vacation (blu-ray Disc) ",
+    "set": {
+      "main_title": "National Lampoon's Christmas Vacation",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf807f2fab10183138a3"
+    },
+    "title": "The Night Before Blu - Blu-ray - ",
+    "set": {
+      "main_title": "The Night Before Blu",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf857f2fab10183138a4"
+    },
+    "title": "INCREDIBLES [DVD] ",
+    "set": {
+      "main_title": "INCREDIBLES"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf897f2fab10183138a5"
+    },
+    "title": "Spy [blu-ray + Uv Copy] [2015], 5039036074193, Jason Statham, Morena Baccarin, . ",
+    "set": {
+      "main_title": "Spy , 5039036074193, Jason Statham, Morena Baccarin, .",
+      "format": "BLURAY",
+      "year": 2015
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf8d7f2fab10183138a6"
+    },
+    "title": "Silver Linings Playbook (blu-ray Disc) ",
+    "set": {
+      "main_title": "Silver Linings Playbook",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf937f2fab10183138a7"
+    },
+    "title": "Mallrats (Blu-ray) ",
+    "set": {
+      "main_title": "Mallrats",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf967f2fab10183138a8"
+    },
+    "title": "Mallrats (Blu-ray) ",
+    "set": {
+      "main_title": "Mallrats",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcfe27f2fab10183138a9"
+    },
+    "title": "Les Miserables Anne Hathaway Hugh Jackman Russell Crowe Blu Ray ",
+    "set": {
+      "main_title": "Les Miserables Anne Hathaway Hugh Jackman Russell Crowe",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcfe77f2fab10183138aa"
+    },
+    "title": "Homeward Bound 2: Lost In San Francisco Dvd",
+    "set": {
+      "main_title": "Homeward Bound 2: Lost In San Francisco"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcfea7f2fab10183138ab"
+    },
+    "title": "Wanderlust Dvd ",
+    "set": {
+      "main_title": "Wanderlust"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcfed7f2fab10183138ac"
+    },
+    "title": "Evita (Blu-ray) ",
+    "set": {
+      "main_title": "Evita",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd05b7f2fab10183138ad"
+    },
+    "title": "Ghost Patrick Swayze Dvd ",
+    "set": {
+      "main_title": "Ghost Patrick Swayze"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd05e7f2fab10183138ae"
+    },
+    "title": "Star Is Born, A {region 2&4&5 Dvd} ",
+    "set": {
+      "main_title": "Star Is Born, A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0617f2fab10183138af"
+    },
+    "title": "Australia (dvd, 2009) - / Sealed ",
+    "set": {
+      "main_title": "Australia - / Sealed",
+      "year": 2009
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0657f2fab10183138b0"
+    },
+    "title": "Funny Girl / Funny Lady <region 2 Dvd, Sealed> ",
+    "set": {
+      "main_title": "Funny Girl / Funny Lady"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0687f2fab10183138b1"
+    },
+    "title": "Dirty Dancing (dvd) Patrick Swayze To The Music -classic Teen Romance New/sealed ",
+    "set": {
+      "main_title": "Dirty Dancing Patrick Swayze To The Music -classic Teen Romance New/sealed"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0857f2fab10183138b2"
+    },
+    "title": "Pride And Prejudice - 8239125 - Dvd ",
+    "set": {
+      "main_title": "Pride And Prejudice - 8239125"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd08a7f2fab10183138b3"
+    },
+    "title": "My Big Fat Greek Wedding <region 2 Dvd, Sealed> ",
+    "set": {
+      "main_title": "My Big Fat Greek Wedding"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0917f2fab10183138b4"
+    },
+    "title": "Doctor Zhivago - Dvd - ",
+    "set": {
+      "main_title": "Doctor Zhivago"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0957f2fab10183138b5"
+    },
+    "title": "Danielle Steel's Once In A Lifetime [dvd] By Lindsay Wagner,barry Bostwick,av. ",
+    "set": {
+      "main_title": "Danielle Steel's Once In A Lifetime By Lindsay Wagner,barry Bostwick,av."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0997f2fab10183138b6"
+    },
+    "title": "Ghosts Of Girlfriend - Edv9599 - Dvd ",
+    "set": {
+      "main_title": "Ghosts Of Girlfriend - Edv9599"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd09e7f2fab10183138b7"
+    },
+    "title": "The Queen ",
+    "set": {
+      "main_title": "The Queen"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0a17f2fab10183138b8"
+    },
+    "title": "Tom Cruise - Far And Away - 8204115 - Dvd ",
+    "set": {
+      "main_title": "Tom Cruise - Far And Away - 8204115"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0a57f2fab10183138b9"
+    },
+    "title": "P.s. I Love You Dvd (vg) ",
+    "set": {
+      "main_title": "P.s. I Love You"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0aa7f2fab10183138ba"
+    },
+    "title": "Bridesmaids Extended Edition (blu-ray & Dvd, Dual Format) \u2714\ufe0f Vgc ",
+    "set": {
+      "main_title": "Bridesmaids Extended Edition \u2714\ufe0f Vgc",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0b37f2fab10183138bb"
+    },
+    "title": "The Ex Dvd - Dvd - ",
+    "set": {
+      "main_title": "The Ex"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1007f2fab10183138bc"
+    },
+    "title": "Julia Roberts, Richard Gere-runaway Bride (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Julia Roberts, Richard Gere-runaway Bride"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1047f2fab10183138bd"
+    },
+    "title": "Beaches - Bed888701 - Dvd ",
+    "set": {
+      "main_title": "Beaches - Bed888701"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1087f2fab10183138be"
+    },
+    "title": "Julia Roberts, Susan Sarandon-stepmom (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Julia Roberts, Susan Sarandon-stepmom"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd10c7f2fab10183138bf"
+    },
+    "title": "Danielle Steel's Full Circle [region 2] - Dvd - - Free Shipping. ",
+    "set": {
+      "main_title": "Danielle Steel's Full Circle - Free Shipping."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1107f2fab10183138c0"
+    },
+    "title": "Danielle Steel's Fine Things [dvd], Very Good Dvd, Cloris Leachman, Noley Thornt ",
+    "set": {
+      "main_title": "Danielle Steel's Fine Things , Very Good , Cloris Leachman, Noley Thornt"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1147f2fab10183138c1"
+    },
+    "title": "South Pacific Dvd Digitally Mastered Like W/ Insert ",
+    "set": {
+      "main_title": "South Pacific Digitally Mastered Like W/ Insert"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1197f2fab10183138c2"
+    },
+    "title": "Bridget Jones The E - 8231064 - Dvd ",
+    "set": {
+      "main_title": "Bridget Jones The E - 8231064"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd11f7f2fab10183138c3"
+    },
+    "title": "Danielle Steel's Message From Nam - 1993 Romantic Drama (dvd) & Sealed ",
+    "set": {
+      "main_title": "Danielle Steel's Message From Nam - Romantic Drama & Sealed",
+      "year": 1993
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1237f2fab10183138c4"
+    },
+    "title": "My Best Friend's Wedding [dvd] [1997] By Julia Roberts,dermot Mulroney,bill J. ",
+    "set": {
+      "main_title": "My Best Friend's Wedding By Julia Roberts,dermot Mulroney,bill J.",
+      "year": 1997
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1267f2fab10183138c5"
+    },
+    "title": "Mona Lisa Smile Dvd (vg) ",
+    "set": {
+      "main_title": "Mona Lisa Smile"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd12a7f2fab10183138c6"
+    },
+    "title": "Definitely Maybe Dvd Royal Mail 1st Class Fast & Free ",
+    "set": {
+      "main_title": "Definitely Maybe Royal Mail 1st Class Fast & Free"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd12d7f2fab10183138c7"
+    },
+    "title": "Sex & the City - Series 3 Box Set ",
+    "set": {
+      "main_title": "Sex & the City - Series 3 Box Set"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1317f2fab10183138c8"
+    },
+    "title": "[dvd] Love Actually ",
+    "set": {
+      "main_title": "Love Actually"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1357f2fab10183138c9"
+    },
+    "title": "About A Boy - 9038399 - Dvd ",
+    "set": {
+      "main_title": "About A Boy - 9038399"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1387f2fab10183138ca"
+    },
+    "title": "While You Were Sleeping Dvd",
+    "set": {
+      "main_title": "While You Were Sleeping"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd13c7f2fab10183138cb"
+    },
+    "title": "Bridget Jones's Diary Dvd Exc Royal Mail 1st Class Fast & Free ",
+    "set": {
+      "main_title": "Bridget Jones's Diary Exc Royal Mail 1st Class Fast & Free"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd17f7f2fab10183138cc"
+    },
+    "title": "North And South - Book 2 [dvd] Sealed Uk Region 2 ",
+    "set": {
+      "main_title": "North And South - Book 2 Sealed Uk Region 2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1857f2fab10183138cd"
+    },
+    "title": "Marley And Me - 3630201000 - Dvd ",
+    "set": {
+      "main_title": "Marley And Me - 3630201000"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1887f2fab10183138ce"
+    },
+    "title": "Bob Penny, George Kelly-forrest Gump (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Bob Penny, George Kelly-forrest Gump"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd18b7f2fab10183138cf"
+    },
+    "title": "The Thorn Birds The Missing Years - R2 Dvd - Richard Chamberlain, Amanda Donohoe ",
+    "set": {
+      "main_title": "The Thorn Birds The Missing Years - R2 - Richard Chamberlain, Amanda Donohoe"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd18f7f2fab10183138d0"
+    },
+    "title": "Thornbirds Dvd Original 1983 Forbidden Love Mini Series Thorn Birds Box Set Bnib ",
+    "set": {
+      "main_title": "Thornbirds Original Forbidden Love Mini Series Thorn Birds Box Set Bnib",
+      "year": 1983
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1927f2fab10183138d1"
+    },
+    "title": "North And South: Book 1 [dvd] By Kirstie Alley,georg Stanford Brown. ",
+    "set": {
+      "main_title": "North And South: Book 1 By Kirstie Alley,georg Stanford Brown."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1957f2fab10183138d2"
+    },
+    "title": "Ken Hutchinson - Wuthering Heights - Bbcdvd2135 - Dvd ",
+    "set": {
+      "main_title": "Ken Hutchinson - Wuthering Heights - Bbcdvd2135"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1987f2fab10183138d3"
+    },
+    "title": "Grumpy Old Women - 2008 Comedy - Linda Robson, Jenny Eclair (dvd) & Sealed ",
+    "set": {
+      "main_title": "Grumpy Old Women - Comedy - Linda Robson, Jenny Eclair & Sealed",
+      "year": 2008
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1a97f2fab10183138d4"
+    },
+    "title": "Ali Macgraw - Love Story - Phe8149 - Dvd ",
+    "set": {
+      "main_title": "Ali Macgraw - Love Story - Phe8149"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1ad7f2fab10183138d5"
+    },
+    "title": "Grumpy Old Women - Series 1, + Christmas Special, Sealed, Uk Dvd, Bbc ",
+    "set": {
+      "main_title": "Grumpy Old Women - Series 1, + Christmas Special, Sealed, Uk , Bbc"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1b07f2fab10183138d6"
+    },
+    "title": "NOTEBOOK [DVD] [5017239192463] ",
+    "set": {
+      "main_title": "NOTEBOOK"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1b37f2fab10183138d7"
+    },
+    "title": "Cranford: The Complete Series Dvd 2 Disc Set. Brand Sealed Judi Dench ",
+    "set": {
+      "main_title": "Cranford: The Complete Series 2 Disc Set. Brand Sealed Judi Dench"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1b77f2fab10183138d8"
+    },
+    "title": "Shenandoah [dvd] [1965] By James Stewart,doug Mcclure,william H. Clothier,oth. ",
+    "set": {
+      "main_title": "Shenandoah By James Stewart,doug Mcclure,william H. Clothier,oth.",
+      "year": 1965
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1c47f2fab10183138d9"
+    },
+    "title": "Richard Attenborough, Eliza...-miracle On 34th St (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Richard Attenborough, Eliza...-miracle On 34th St"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1c87f2fab10183138da"
+    },
+    "title": "Mirror, Mirror (blu-ray + Dvd )(2012) By Julia Roberts,lily Collins. ",
+    "set": {
+      "main_title": "Mirror, Mirror By Julia Roberts,lily Collins.",
+      "format": "BLURAY",
+      "year": 2012
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1cc7f2fab10183138db"
+    },
+    "title": "Calendar Girls Dvd (vg) ",
+    "set": {
+      "main_title": "Calendar Girls"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1cf7f2fab10183138dc"
+    },
+    "title": "Gone With The Wind - Dvd - ",
+    "set": {
+      "main_title": "Gone With The Wind"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1d37f2fab10183138dd"
+    },
+    "title": "Sex and the City 2 (Two-Disc Special Edition) [DVD] [2010] ",
+    "set": {
+      "main_title": "Sex and the City 2",
+      "year": 2010
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1d67f2fab10183138de"
+    },
+    "title": "Sex and the City ",
+    "set": {
+      "main_title": "Sex and the City"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1e57f2fab10183138df"
+    },
+    "title": "Munch: Our Hits ",
+    "set": {
+      "main_title": "Munch: Our Hits"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1ea7f2fab10183138e0"
+    },
+    "title": "Id5783z - Michael Jackson - This Is It - Sbr 69320 - Blu-ray - Uk ",
+    "set": {
+      "main_title": "Id5783z - Michael Jackson - This Is It - Sbr 69320 - Uk",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1ed7f2fab10183138e1"
+    },
+    "title": "Mr Popper's Penguins - Dvd - ",
+    "set": {
+      "main_title": "Mr Popper's Penguins"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1f07f2fab10183138e2"
+    },
+    "title": "Ryan's Daughter - Dvd - ",
+    "set": {
+      "main_title": "Ryan's Daughter"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1f37f2fab10183138e3"
+    },
+    "title": "Shane Rimmer, Leslie Phillips-out Of Africa (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Shane Rimmer, Leslie Phillips-out Of Africa"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1f97f2fab10183138e4"
+    },
+    "title": "Duchess - P925001000 - Dvd ",
+    "set": {
+      "main_title": "Duchess - P925001000"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1fc7f2fab10183138e5"
+    },
+    "title": "Bodyguard - 1000085701 - Dvd ",
+    "set": {
+      "main_title": "Bodyguard - 1000085701"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee103347f2fa81788c3e9ed"
+    },
+    "title": "Play Piano Today! (dvd) ",
+    "set": {
+      "main_title": "Play Piano Today!"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee103497f2fa81788c3e9ee"
+    },
+    "title": "Lick Library Learn - Dvd - ",
+    "set": {
+      "main_title": "Lick Library Learn"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee103537f2fa81788c3e9ef"
+    },
+    "title": "Fender Stratocaster Greats [dvd], 9780634061738 ",
+    "set": {
+      "main_title": "Fender Stratocaster Greats , 9780634061738"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104637f2fa81788c3e9f0"
+    },
+    "title": "Quantum Of Solace Blu-ray 2008 Daniel Craig James Bond 007 Movie Classic ",
+    "set": {
+      "main_title": "Quantum Of Solace Daniel Craig James Bond 007 Movie Classic",
+      "format": "BLURAY",
+      "year": 2008
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104657f2fa81788c3e9f1"
+    },
+    "title": "Skyfall (blu-ray Disc) ",
+    "set": {
+      "main_title": "Skyfall",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104687f2fa81788c3e9f2"
+    },
+    "title": "Spectre (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Spectre",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104767f2fa81788c3e9f3"
+    },
+    "title": "Battlestar Galactica - Dvd - ",
+    "set": {
+      "main_title": "Battlestar Galactica"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104797f2fa81788c3e9f4"
+    },
+    "title": "10017 Dvd - Battlestar Galactica (2004) Season One 2004 8233450 ",
+    "set": {
+      "main_title": "10017 - Battlestar Galactica Season One 8233450",
+      "year": 2004
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1048c7f2fa81788c3e9f5"
+    },
+    "title": "26330 Dvd - Die Another Day 007 James Bond [new & Sealed] 2002 23751dvd ",
+    "set": {
+      "main_title": "26330 - Die Another Day 007 James Bond 23751dvd",
+      "year": 2002
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1048f7f2fa81788c3e9f6"
+    },
+    "title": "James Bond 007: Dr. No (dvd, 1962, Pal) Region 2 Special 007 Edition ",
+    "set": {
+      "main_title": "James Bond 007: Dr. No Region 2 Special 007 Edition",
+      "year": 1962
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104917f2fa81788c3e9f7"
+    },
+    "title": "Sean Connery - From Russia With Lov - 16175dvd - Dvd ",
+    "set": {
+      "main_title": "Sean Connery - From Russia With Lov - 16175dvd"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104937f2fa81788c3e9f8"
+    },
+    "title": "James Bond - Goldfinger (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "James Bond - Goldfinger"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104957f2fa81788c3e9f9"
+    },
+    "title": "Thunderball-dvd (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Thunderball"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104987f2fa81788c3e9fa"
+    },
+    "title": "You Only Live Twice - You Only Live Twice ",
+    "set": {
+      "main_title": "You Only Live Twice - You Only Live Twice"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1049a7f2fa81788c3e9fb"
+    },
+    "title": "On Her Majesty`s Secret Service (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "On Her Majesty`s Secret Service"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1049c7f2fa81788c3e9fc"
+    },
+    "title": "Sean Connery-diamonds Are Forever (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Sean Connery-diamonds Are Forever"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104a07f2fa81788c3e9fd"
+    },
+    "title": "Live And Let Die (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Live And Let Die"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104a37f2fa81788c3e9fe"
+    },
+    "title": "James Bond 007 - The Man With The Golden Gun Dvd Starring Roger Moore, Rated Pg ",
+    "set": {
+      "main_title": "James Bond 007 - The Man With The Golden Gun Starring Roger Moore, Rated Pg"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104a57f2fa81788c3e9ff"
+    },
+    "title": "The Spy Who Loved Me Special - The Spy Who Loved Me ",
+    "set": {
+      "main_title": "The Spy Who Loved Me Special - The Spy Who Loved Me"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104a77f2fa81788c3ea00"
+    },
+    "title": "Moonraker (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Moonraker"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104a97f2fa81788c3ea01"
+    },
+    "title": "Roger Moore-for Your Eyes Only [edizione: Regno U (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Roger Moore-for Your Eyes Only"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104ad7f2fa81788c3ea02"
+    },
+    "title": "Octopussy (uk Import) Dvd ",
+    "set": {
+      "main_title": "Octopussy"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104af7f2fa81788c3ea03"
+    },
+    "title": "View To A Kill (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "View To A Kill"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104b27f2fa81788c3ea04"
+    },
+    "title": "[dvd] Licence To Kill ",
+    "set": {
+      "main_title": "Licence To Kill"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104b67f2fa81788c3ea05"
+    },
+    "title": "Pierce Brosnan-goldeneye [dvd] [1995] - Pierce Brosnan (uk Import) Cd ",
+    "set": {
+      "main_title": "Pierce Brosnan-goldeneye - Pierce Brosnan Cd",
+      "year": 1995
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104b87f2fa81788c3ea06"
+    },
+    "title": "Pierce Brosnan-tomorrow Never Dies (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Pierce Brosnan-tomorrow Never Dies"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104ba7f2fa81788c3ea07"
+    },
+    "title": "The World Is Not Enough [dvd] [1999] ",
+    "set": {
+      "main_title": "The World Is Not Enough",
+      "year": 1999
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104bf7f2fa81788c3ea08"
+    },
+    "title": "Daniel Craig, Eva Green-casino Royale (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Daniel Craig, Eva Green-casino Royale"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104ea7f2fa81788c3ea09"
+    },
+    "title": "South Park: Bigger, Longer & Uncut (dvd) ",
+    "set": {
+      "main_title": "South Park: Bigger, Longer & Uncut"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104f07f2fa81788c3ea0a"
+    },
+    "title": "MRS BROWN'S BOYS ",
+    "set": {
+      "main_title": "MRS BROWN'S BOYS"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105117f2fa81788c3ea0b"
+    },
+    "title": "[dvd] Black Books 2: The Complete 2nd Series ",
+    "set": {
+      "main_title": "Black Books 2: The Complete 2nd Series"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105137f2fa81788c3ea0c"
+    },
+    "title": "Black Books: Series 1-3 Dvd (2006) Bill Bailey ",
+    "set": {
+      "main_title": "Black Books: Series 1-3 Bill Bailey",
+      "year": 2006
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105167f2fa81788c3ea0d"
+    },
+    "title": "Black Books Complete Series One, Very Good Dvd, , ",
+    "set": {
+      "main_title": "Black Books Complete Series One, Very Good"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105187f2fa81788c3ea0e"
+    },
+    "title": "Friends, Series 7 - Episodes 13-16 [dvd] [1995] By Jennifer Aniston,courteney. ",
+    "set": {
+      "main_title": "Friends, Series 7 - Episodes 13-16 By Jennifer Aniston,courteney.",
+      "year": 1995
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1051c7f2fa81788c3ea0f"
+    },
+    "title": "Friends - Series 8 - Episodes 13-16 [dvd], Very Good Dvd, Harry Van Gorkum, Jame ",
+    "set": {
+      "main_title": "Friends - Series 8 - Episodes 13-16 , Very Good , Harry Van Gorkum, Jame"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105207f2fa81788c3ea10"
+    },
+    "title": "Friends: Series 8 - Episodes 1-4 [dvd], Very Good Dvd, Bonnie Sommerville, Eddie ",
+    "set": {
+      "main_title": "Friends: Series 8 - Episodes 1-4 , Very Good , Bonnie Sommerville, Eddie"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105227f2fa81788c3ea11"
+    },
+    "title": "Friends: Series 8 - Episodes 5-8 [dvd], Very Good Dvd, Ron Liebman, James Michae ",
+    "set": {
+      "main_title": "Friends: Series 8 - Episodes 5-8 , Very Good , Ron Liebman, James Michae"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105247f2fa81788c3ea12"
+    },
+    "title": "Friends - Series 8 - Episodes 21-23 [dvd], Very Good Dvd, Eddie Mcclintock, Debi ",
+    "set": {
+      "main_title": "Friends - Series 8 - Episodes 21-23 , Very Good , Eddie Mcclintock, Debi"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105287f2fa81788c3ea13"
+    },
+    "title": "Friends Series 7 Episodes 21-23 Dvd Brand Sealed ",
+    "set": {
+      "main_title": "Friends Series 7 Episodes 21-23 Brand Sealed"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1052a7f2fa81788c3ea14"
+    },
+    "title": "Friends Series 8 Ep 17-20 - Jennifer Aniston, Matthew Perry, Courtney Cox, Lisa ",
+    "set": {
+      "main_title": "Friends Series 8 Ep 17-20 - Jennifer Aniston, Matthew Perry, Courtney Cox, Lisa"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1052c7f2fa81788c3ea15"
+    },
+    "title": "Friends - Season 7 - Episodes 9-12 Dvd (d021344) ",
+    "set": {
+      "main_title": "Friends - Season 7 - Episodes 9-12"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105307f2fa81788c3ea16"
+    },
+    "title": "Tv-friends Series 7 Ep 17-20 Dvd-warner, Do21213, Digi Pal Region 2 ",
+    "set": {
+      "main_title": "Tv-friends Series 7 Ep 17-20 -warner, Do21213, Digi Pal Region 2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105467f2fa81788c3ea17"
+    },
+    "title": "Futurama Season 3 - Dvd - ",
+    "set": {
+      "main_title": "Futurama Season 3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1054c7f2fa81788c3ea18"
+    },
+    "title": "Futurama: Season 4 (uk Import) Dvd ",
+    "set": {
+      "main_title": "Futurama: Season 4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105517f2fa81788c3ea19"
+    },
+    "title": "Dvd Box Set Family Guy Season Five B723 ",
+    "set": {
+      "main_title": "Box Set Family Guy Season Five B723"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105557f2fa81788c3ea1a"
+    },
+    "title": "Family Guy Season 4 - Dvd - ",
+    "set": {
+      "main_title": "Family Guy Season 4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105597f2fa81788c3ea1b"
+    },
+    "title": "Family Guy - Season 8 Dvd (4109201000) ",
+    "set": {
+      "main_title": "Family Guy - Season 8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1055e7f2fa81788c3ea1c"
+    },
+    "title": "Family Guy - Season 3 [dvd] [1999] By Seth Macfarlane,alex Borstein. ",
+    "set": {
+      "main_title": "Family Guy - Season 3 By Seth Macfarlane,alex Borstein.",
+      "year": 1999
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105657f2fa81788c3ea1d"
+    },
+    "title": "Family Guy - Happy Freakin' Christmas (dvd, 2006) ",
+    "set": {
+      "main_title": "Family Guy - Happy Freakin' Christmas",
+      "year": 2006
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105697f2fa81788c3ea1e"
+    },
+    "title": "Family Guy Season One Two Disc's Brand Dvd ",
+    "set": {
+      "main_title": "Family Guy Season One Two Disc's Brand"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1056e7f2fa81788c3ea1f"
+    },
+    "title": "Family Guy Season 2 - Dvd - ",
+    "set": {
+      "main_title": "Family Guy Season 2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106037f2fa81788c3ea20"
+    },
+    "title": "Tom Cruise, Jeremy Renner-mission Impossible: Ghost Prot (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Tom Cruise, Jeremy Renner-mission Impossible: Ghost Prot",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106047f2fa81788c3ea21"
+    },
+    "title": "Mission Impossible 5 - Blu-ray - ",
+    "set": {
+      "main_title": "Mission Impossible 5",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106067f2fa81788c3ea22"
+    },
+    "title": "Mission Impossible Fallout (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Mission Impossible Fallout",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106087f2fa81788c3ea23"
+    },
+    "title": "Dvd Film Gladiator Widescreen Spectacular 2 Disc Region 2 B36 ",
+    "set": {
+      "main_title": "Film Gladiator Widescreen Spectacular 2 Disc Region 2 B36"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1060d7f2fa81788c3ea24"
+    },
+    "title": "Master And Commander - 24240dvd - Dvd ",
+    "set": {
+      "main_title": "Master And Commander - 24240dvd"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106117f2fa81788c3ea25"
+    },
+    "title": "Kill Bill Vol.1:uma Thurman,david Carradine,lucy Liu,daryl Hannah (dvd, 2004) ",
+    "set": {
+      "main_title": "Kill Bill Vol.1:uma Thurman,david Carradine,lucy Liu,daryl Hannah",
+      "year": 2004
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106137f2fa81788c3ea26"
+    },
+    "title": "Quentin Tarantino - Kill Bill Volume 2 - Bed881274 ",
+    "set": {
+      "main_title": "Quentin Tarantino - Kill Bill Volume 2 - Bed881274"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106157f2fa81788c3ea27"
+    },
+    "title": "Air Force One - Dvd - ",
+    "set": {
+      "main_title": "Air Force One"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106177f2fa81788c3ea28"
+    },
+    "title": "Clint Eastwood, Lee Van Cleef-clint Eastwood Coll (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Clint Eastwood, Lee Van Cleef-clint Eastwood Coll"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1061e7f2fa81788c3ea29"
+    },
+    "title": "[dvd] Underworld & Underworld Evolution ",
+    "set": {
+      "main_title": "Underworld & Underworld Evolution"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106257f2fa81788c3ea2a"
+    },
+    "title": "The Sixth Sense [DVD] [1999] ",
+    "set": {
+      "main_title": "The Sixth Sense",
+      "year": 1999
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106417f2fa81788c3ea2b"
+    },
+    "title": "Blade (DVD) ",
+    "set": {
+      "main_title": "Blade"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106457f2fa81788c3ea2c"
+    },
+    "title": "Saving Private Ryan - Phe8040 - Dvd ",
+    "set": {
+      "main_title": "Saving Private Ryan - Phe8040"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106487f2fa81788c3ea2d"
+    },
+    "title": "The Seventh Sign [dvd] [2000] By Demi Moore,michael Biehn,juan Ruiz Anch\u00eda,ka. ",
+    "set": {
+      "main_title": "The Seventh Sign By Demi Moore,michael Biehn,juan Ruiz Anch\u00eda,ka.",
+      "year": 2000
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1064b7f2fa81788c3ea2e"
+    },
+    "title": "Ridley Scott - Hannibal - Udr90121 - Dvd ",
+    "set": {
+      "main_title": "Ridley Scott - Hannibal - Udr90121"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1066f7f2fa81788c3ea2f"
+    },
+    "title": "Death Wish (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Death Wish",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106727f2fa81788c3ea30"
+    },
+    "title": "Dunkirk - Blu-ray - ",
+    "set": {
+      "main_title": "Dunkirk",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106767f2fa81788c3ea31"
+    },
+    "title": "The Fog <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "The Fog",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1067a7f2fa81788c3ea32"
+    },
+    "title": "Paycheck Dvd ",
+    "set": {
+      "main_title": "Paycheck"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1067d7f2fa81788c3ea33"
+    },
+    "title": "Goonies - Blu-ray - ",
+    "set": {
+      "main_title": "Goonies",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1067f7f2fa81788c3ea34"
+    },
+    "title": "The Last Of The Mohicans [blu-ray] [1992] [region Free] By Daniel Day Lewis. ",
+    "set": {
+      "main_title": "The Last Of The Mohicans By Daniel Day Lewis.",
+      "format": "BLURAY",
+      "year": 1992
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106857f2fa81788c3ea35"
+    },
+    "title": "Cloverfield (blu-ray Disc) ",
+    "set": {
+      "main_title": "Cloverfield",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106bb7f2fa81788c3ea36"
+    },
+    "title": "Ray [dvd] [2004] ",
+    "set": {
+      "main_title": "Ray",
+      "year": 2004
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106c07f2fa81788c3ea37"
+    },
+    "title": "Stuart Little Dvd - Dvd - ",
+    "set": {
+      "main_title": "Stuart Little"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106c47f2fa81788c3ea38"
+    },
+    "title": "Joanna Lumley, David Mccallum-sapphire And Steel: (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Joanna Lumley, David Mccallum-sapphire And Steel"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106c87f2fa81788c3ea39"
+    },
+    "title": "Animation - The Simpsons The M - 3462501000 - Dvd ",
+    "set": {
+      "main_title": "Animation - The Simpsons The M - 3462501000"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106cb7f2fa81788c3ea3a"
+    },
+    "title": "Ratatouille : 2 Disc Collector's Edition Disney Pixar Dvd - Vgc (free Uk P&p) ",
+    "set": {
+      "main_title": "Ratatouille : 2 Disc Collector's Edition Disney Pixar - Vgc"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106cf7f2fa81788c3ea3b"
+    },
+    "title": "Finding Nemo [DVD, 2-Disc Set] ",
+    "set": {
+      "main_title": "Finding Nemo"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106d37f2fa81788c3ea3c"
+    },
+    "title": "Monsters, Inc. (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Monsters, Inc."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106d67f2fa81788c3ea3d"
+    },
+    "title": "Shrek The Third : 2-disc Edition (shrek 3) [dvd] By Mike Myers,eddie Murphy. ",
+    "set": {
+      "main_title": "Shrek The Third : 2-disc Edition By Mike Myers,eddie Murphy."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106dd7f2fa81788c3ea3e"
+    },
+    "title": "Shrek (dvd,2001) Mike Myers, Cameron Diaz, Eddie Murphy ",
+    "set": {
+      "main_title": "Shrek Mike Myers, Cameron Diaz, Eddie Murphy",
+      "year": 2001
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106df7f2fa81788c3ea3f"
+    },
+    "title": "Shrek 2 Dvd (2004) Andrew Adamson Cert U. ",
+    "set": {
+      "main_title": "Shrek 2 Andrew Adamson Cert U.",
+      "year": 2004
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106e27f2fa81788c3ea40"
+    },
+    "title": "Cats And Dogs - Dvd - ",
+    "set": {
+      "main_title": "Cats And Dogs"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106e57f2fa81788c3ea41"
+    },
+    "title": "Wallace & Gromit The Curse Of The Were-rabbit Dvd - 2 Disc Special Edition ",
+    "set": {
+      "main_title": "Wallace & Gromit The Curse Of The Were-rabbit - 2 Disc Special Edition"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106e77f2fa81788c3ea42"
+    },
+    "title": "Garfield - The Movie - 25007dvd - Dvd ",
+    "set": {
+      "main_title": "Garfield - The Movie - 25007dvd"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106ed7f2fa81788c3ea43"
+    },
+    "title": "Shrek Forever After - Dsa1380 - Dvd ",
+    "set": {
+      "main_title": "Shrek Forever After - Dsa1380"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106ef7f2fa81788c3ea44"
+    },
+    "title": "Wall-e (2 Disc) (blu-ray Disc) ",
+    "set": {
+      "main_title": "Wall-e",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106f37f2fa81788c3ea45"
+    },
+    "title": "Id2z - Smokin' Aces - Dvd - ",
+    "set": {
+      "main_title": "Id2z - Smokin' Aces"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106f67f2fa81788c3ea46"
+    },
+    "title": "Reservoir Dogs Dvd ",
+    "set": {
+      "main_title": "Reservoir Dogs"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106f87f2fa81788c3ea47"
+    },
+    "title": "Scarface - & Sealed Region 2 Dvd - Al Pacino, Michelle Pfeiffer - De Palma ",
+    "set": {
+      "main_title": "Scarface - & Sealed Region 2 - Al Pacino, Michelle Pfeiffer - De Palma"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106fc7f2fa81788c3ea48"
+    },
+    "title": "Face/off [dvd][ws/dolby Digital/english 6.1/eng Dol-nla (Paramount) ",
+    "set": {
+      "main_title": "Face/off"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107027f2fa81788c3ea49"
+    },
+    "title": "Peacemaker [DVD] ",
+    "set": {
+      "main_title": "Peacemaker"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107057f2fa81788c3ea4a"
+    },
+    "title": "Hostage Dvd - Edv9315 - Dvd ",
+    "set": {
+      "main_title": "Hostage - Edv9315"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107097f2fa81788c3ea4b"
+    },
+    "title": "Id59z - Paul Walker - 2 Fast 2 Furious - Dvd - ",
+    "set": {
+      "main_title": "Id59z - Paul Walker - 2 Fast 2 Furious"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1070e7f2fa81788c3ea4c"
+    },
+    "title": "Chris O'donnell - Vertical Limit - Cdr30444 - Dvd ",
+    "set": {
+      "main_title": "Chris O'donnell - Vertical Limit - Cdr30444"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107107f2fa81788c3ea4d"
+    },
+    "title": "Taken - 3627701000 - Dvd ",
+    "set": {
+      "main_title": "Taken - 3627701000"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107157f2fa81788c3ea4e"
+    },
+    "title": "Nico - Above The Law: Steven Seagal, Sharon Stone (dvd, 1999) ",
+    "set": {
+      "main_title": "Nico - Above The Law: Steven Seagal, Sharon Stone",
+      "year": 1999
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107187f2fa81788c3ea4f"
+    },
+    "title": "Collateral Dvd (vg) ",
+    "set": {
+      "main_title": "Collateral"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1071d7f2fa81788c3ea50"
+    },
+    "title": "Traffic <region 2 Dvd, Sealed> ",
+    "set": {
+      "main_title": "Traffic"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107207f2fa81788c3ea51"
+    },
+    "title": "Swordfish ( (DVD)) ",
+    "set": {
+      "main_title": "Swordfish"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107237f2fa81788c3ea52"
+    },
+    "title": "Antitrust [dvd] [2001], Very Good Dvd, Ned Bellamy, Nate Dushku, Yee Jee Tso, Ty ",
+    "set": {
+      "main_title": "Antitrust , Very Good , Ned Bellamy, Nate Dushku, Yee Jee Tso, Ty",
+      "year": 2001
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1072a7f2fa81788c3ea53"
+    },
+    "title": "Mission: Impossible 2 (Widescreen) ",
+    "set": {
+      "main_title": "Mission: Impossible 2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1072c7f2fa81788c3ea54"
+    },
+    "title": "Mission Impossible 3 - Id54z - Blu-ray - ",
+    "set": {
+      "main_title": "Mission Impossible 3 - Id54z",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107807f2fa81788c3ea55"
+    },
+    "title": "Dante's Peak (blu-ray Disc) ",
+    "set": {
+      "main_title": "Dante's Peak",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107837f2fa81788c3ea56"
+    },
+    "title": "The Day After Tomorrow (blu-ray Disc) ",
+    "set": {
+      "main_title": "The Day After Tomorrow",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107857f2fa81788c3ea57"
+    },
+    "title": "Philip Seymour Hoffman, Hel...-twister (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Philip Seymour Hoffman, Hel...-twister",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107887f2fa81788c3ea58"
+    },
+    "title": "Geena Davis-long Kiss Goodnight (uk Import) Dvd ",
+    "set": {
+      "main_title": "Geena Davis-long Kiss Goodnight"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1078d7f2fa81788c3ea59"
+    },
+    "title": "The Motorcycle Diaries [blu-ray], 6867445000996, Gael Garc\u00eda Bernal, Rodrigo De. ",
+    "set": {
+      "main_title": "The Motorcycle Diaries , 6867445000996, Gael Garc\u00eda Bernal, Rodrigo De.",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107907f2fa81788c3ea5a"
+    },
+    "title": "Maze Runner Chapter - Blu-ray - ",
+    "set": {
+      "main_title": "Maze Runner Chapter",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107937f2fa81788c3ea5b"
+    },
+    "title": "Django Unchained (blu-ray) [2013], 5051124175599 ",
+    "set": {
+      "main_title": "Django Unchained , 5051124175599",
+      "format": "BLURAY",
+      "year": 2013
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107957f2fa81788c3ea5c"
+    },
+    "title": "The Ninth Gate (Blu-ray) ",
+    "set": {
+      "main_title": "The Ninth Gate",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107987f2fa81788c3ea5d"
+    },
+    "title": "The Hateful Eight Blu-ray 2015 Western Starring Kurt Russell W/ Slipcover ",
+    "set": {
+      "main_title": "The Hateful Eight Western Starring Kurt Russell W/ Slipcover",
+      "format": "BLURAY",
+      "year": 2015
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1079b7f2fa81788c3ea5e"
+    },
+    "title": "The Divergent Series - Divergent :official Uk Dvd - Sealed: ",
+    "set": {
+      "main_title": "The Divergent Series - Divergent :official Uk - Sealed"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1079d7f2fa81788c3ea5f"
+    },
+    "title": "Transcendence Blu-ra - Blu-ray - ",
+    "set": {
+      "main_title": "Transcendence Blu-ra",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1079f7f2fa81788c3ea60"
+    },
+    "title": "Robocop Trilogy (blu-ray, 2010, 3-disc Set) ",
+    "set": {
+      "main_title": "Robocop Trilogy",
+      "format": "BLURAY",
+      "year": 2010
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107a17f2fa81788c3ea61"
+    },
+    "title": "Robocop - Blu-ray - ",
+    "set": {
+      "main_title": "Robocop",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107a67f2fa81788c3ea62"
+    },
+    "title": "Legend Of Tarzan - Blu-ray - ",
+    "set": {
+      "main_title": "Legend Of Tarzan",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107d77f2fa81788c3ea63"
+    },
+    "title": "Independence Day Resurg (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Independence Day Resurg"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107e17f2fa81788c3ea64"
+    },
+    "title": "10637 Dvd - The Time Machine 2002 D022191 ",
+    "set": {
+      "main_title": "10637 - The Time Machine D022191",
+      "year": 2002
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107e47f2fa81788c3ea65"
+    },
+    "title": "A.i. - Dvd - ",
+    "set": {
+      "main_title": "A.i."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107e67f2fa81788c3ea66"
+    },
+    "title": "The 6th Day (dvd, 2004) ",
+    "set": {
+      "main_title": "The 6th Day",
+      "year": 2004
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107fe7f2fa81788c3ea67"
+    },
+    "title": "28153 Dvd - Total Recall [new & Sealed] 1990 Mp026d ",
+    "set": {
+      "main_title": "28153 - Total Recall Mp026d",
+      "year": 1990
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108027f2fa81788c3ea68"
+    },
+    "title": "Stargate Director`s Cut Dvd New/sealed ",
+    "set": {
+      "main_title": "Stargate Director`s Cut New/sealed"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108067f2fa81788c3ea69"
+    },
+    "title": "Deep Impact Blu-ray 1998 Killer Meteor Sci-fi Disaster Movie W/ Morgan Freeman ",
+    "set": {
+      "main_title": "Deep Impact Killer Meteor Sci-fi Disaster Movie W/ Morgan Freeman",
+      "format": "BLURAY",
+      "year": 1998
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1080a7f2fa81788c3ea6a"
+    },
+    "title": "I Am Legend (2 Disc) (blu-ray Disc) ",
+    "set": {
+      "main_title": "I Am Legend",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1080c7f2fa81788c3ea6b"
+    },
+    "title": "Contagion Blu-ray (2012) Matt Damon Sealed Inc Slip Cover ",
+    "set": {
+      "main_title": "Contagion Matt Damon Sealed Inc Slip Cover",
+      "format": "BLURAY",
+      "year": 2012
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1080f7f2fa81788c3ea6c"
+    },
+    "title": "Battle Los Angeles Blu Ray (vg) ",
+    "set": {
+      "main_title": "Battle Los Angeles",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108107f2fa81788c3ea6d"
+    },
+    "title": "Lone Ranger (blu-ray Disc) ",
+    "set": {
+      "main_title": "Lone Ranger",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108127f2fa81788c3ea6e"
+    },
+    "title": "Lockout Blu-ray - Blu-ray - ",
+    "set": {
+      "main_title": "Lockout",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108147f2fa81788c3ea6f"
+    },
+    "title": "Beyond Skyline - Blu-ray - ",
+    "set": {
+      "main_title": "Beyond Skyline",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108177f2fa81788c3ea70"
+    },
+    "title": "Skyline Blu-ray - Id54z - Blu-ray - ",
+    "set": {
+      "main_title": "Skyline - Id54z",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1081b7f2fa81788c3ea71"
+    },
+    "title": "Elysium (blu-ray Disc) ",
+    "set": {
+      "main_title": "Elysium",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108207f2fa81788c3ea72"
+    },
+    "title": "Claire Tran, Min-sik Choi-lucy (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Claire Tran, Min-sik Choi-lucy",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108247f2fa81788c3ea73"
+    },
+    "title": "Tom Cruise, Dakota Fanning-war Of The Worlds (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Tom Cruise, Dakota Fanning-war Of The Worlds",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108267f2fa81788c3ea74"
+    },
+    "title": "Dune (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Dune"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108287f2fa81788c3ea75"
+    },
+    "title": "Core - Phe8261 - Dvd ",
+    "set": {
+      "main_title": "Core - Phe8261"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1082b7f2fa81788c3ea76"
+    },
+    "title": "Terminator 2: Judgment Day (dvd) ",
+    "set": {
+      "main_title": "Terminator 2: Judgment Day"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1082d7f2fa81788c3ea77"
+    },
+    "title": "Terminator 3 - Rise - Cdr34144 - Dvd ",
+    "set": {
+      "main_title": "Terminator 3 - Rise - Cdr34144"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1082f7f2fa81788c3ea78"
+    },
+    "title": "Terminator 2 - Judgment Day (skynet Edition) [1991] [blu-ray], 5055201808509, A. ",
+    "set": {
+      "main_title": "Terminator 2 - Judgment Day , 5055201808509, A.",
+      "format": "BLURAY",
+      "year": 1991
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108327f2fa81788c3ea79"
+    },
+    "title": "Terminator Salvation - Directors Cut <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "Terminator Salvation - Directors Cut",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108357f2fa81788c3ea7a"
+    },
+    "title": "Natalie Portman, Hugo Weaving-v For Vendetta (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Natalie Portman, Hugo Weaving-v For Vendetta"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1084d7f2fa81788c3ea7b"
+    },
+    "title": "Starship Troopers (blu-ray Disc) ",
+    "set": {
+      "main_title": "Starship Troopers",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108527f2fa81788c3ea7c"
+    },
+    "title": "The X Files Movie Special Edition Dvd Used ",
+    "set": {
+      "main_title": "The X Files Movie Special Edition Used"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108547f2fa81788c3ea7d"
+    },
+    "title": "Jennifer Connelly, Keanu Re...-day The Earth Stoo (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Jennifer Connelly, Keanu Re...-day The Earth Stoo"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108597f2fa81788c3ea7e"
+    },
+    "title": "Total Recall Blu-ray - Id54z - Blu-ray - ",
+    "set": {
+      "main_title": "Total Recall - Id54z",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1085c7f2fa81788c3ea7f"
+    },
+    "title": "Hancock Dvd - Cdr47152 - Dvd ",
+    "set": {
+      "main_title": "Hancock - Cdr47152"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108607f2fa81788c3ea80"
+    },
+    "title": "Island - 1000086149 - Dvd ",
+    "set": {
+      "main_title": "Island - 1000086149"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108807f2fa81788c3ea81"
+    },
+    "title": "Species 2 (2000) - \ufeffregion 2 (uk) Dvd - Free Uk 1st Class P&p ",
+    "set": {
+      "main_title": "Species 2 - \ufeffregion 2 - Free Uk 1st Class P&p",
+      "year": 2000
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1088f7f2fa81788c3ea82"
+    },
+    "title": "--species Dvd (uk Import) Dvd ",
+    "set": {
+      "main_title": "species"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108917f2fa81788c3ea83"
+    },
+    "title": "Bicentennial Man [dvd] [2000] By Robin Williams,embeth Davidtz,chris Columbus. ",
+    "set": {
+      "main_title": "Bicentennial Man By Robin Williams,embeth Davidtz,chris Columbus.",
+      "year": 2000
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108937f2fa81788c3ea84"
+    },
+    "title": "Charlton Heston As George Taylor; Roddy Mcdowall As Corneli - Planet Of The Apes ",
+    "set": {
+      "main_title": "Charlton Heston As George Taylor; Roddy Mcdowall As Corneli - Planet Of The Apes"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108967f2fa81788c3ea85"
+    },
+    "title": "Planet Of The Apes - War For The Planet Of The Apes + <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "Planet Of The Apes - War For The Planet Of The Apes",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108997f2fa81788c3ea86"
+    },
+    "title": "Jurassic World Fallen Kingdom (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Jurassic World Fallen Kingdom",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108a17f2fa81788c3ea87"
+    },
+    "title": "Jurassic Park 4 - Ju - Blu-ray - ",
+    "set": {
+      "main_title": "Jurassic Park 4 - Ju",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108a87f2fa81788c3ea88"
+    },
+    "title": "Cat's Eye/silver Bul - Dvd - ",
+    "set": {
+      "main_title": "Cat's Eye/silver Bul"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108ac7f2fa81788c3ea89"
+    },
+    "title": "Fast Furious 7 - Blu-ray - ",
+    "set": {
+      "main_title": "Fast Furious 7",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108af7f2fa81788c3ea8a"
+    },
+    "title": "Hobbs & Shaw Bluray (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Hobbs & Shaw",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108b17f2fa81788c3ea8b"
+    },
+    "title": "Fast And Furious 8 Bd (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Fast And Furious 8 Bd"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108b47f2fa81788c3ea8c"
+    },
+    "title": "The Twilight Saga Triple Pack [blu-ray] By Kristen Stewart,robert Pattinson,m. ",
+    "set": {
+      "main_title": "The Twilight Saga Triple Pack By Kristen Stewart,robert Pattinson,m.",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108f77f2fa81788c3ea8d"
+    },
+    "title": "Super 8 (blu-ray + Dvd) [2011] [region Free] By Elle Fanning,kyle Chandler. ",
+    "set": {
+      "main_title": "Super 8 By Elle Fanning,kyle Chandler.",
+      "format": "BLURAY",
+      "year": 2011
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108f97f2fa81788c3ea8e"
+    },
+    "title": "Edge Of Tomorrow <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "Edge Of Tomorrow",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108fb7f2fa81788c3ea8f"
+    },
+    "title": "After Earth <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "After Earth",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108ff7f2fa81788c3ea90"
+    },
+    "title": "Godzilla <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "Godzilla",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109017f2fa81788c3ea91"
+    },
+    "title": "300 (2 Disc Special Edition) [2007] [dvd], Very Good Dvd, Lena Headey, Andrew ",
+    "set": {
+      "main_title": "300 , Very Good , Lena Headey, Andrew",
+      "year": 2007
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1090e7f2fa81788c3ea92"
+    },
+    "title": "The League Of Extraordinary Gentlemen - 2 Disc Special Edition [d. 503903601589. ",
+    "set": {
+      "main_title": "The League Of Extraordinary Gentlemen - 2 Disc Special Edition"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109127f2fa81788c3ea93"
+    },
+    "title": "Suzy Amis As Edie Finneran; Stephen Baldwin As Michael Mcmanus; Gabriel Byrne A- ",
+    "set": {
+      "main_title": "Suzy Amis As Edie Finneran; Stephen Baldwin As Michael Mcmanus; Gabriel Byrne A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109167f2fa81788c3ea94"
+    },
+    "title": "Constantine (DVD) ",
+    "set": {
+      "main_title": "Constantine"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109187f2fa81788c3ea95"
+    },
+    "title": "The Prophecy [dvd] By Christopher Walken,elias Koteas,bruce Douglas Johnson,r. ",
+    "set": {
+      "main_title": "The Prophecy By Christopher Walken,elias Koteas,bruce Douglas Johnson,r."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1091d7f2fa81788c3ea96"
+    },
+    "title": "Nemesis [1992] [dvd] By Olivier Gruner,tim Thomerson. ",
+    "set": {
+      "main_title": "Nemesis By Olivier Gruner,tim Thomerson.",
+      "year": 1992
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109257f2fa81788c3ea98"
+    },
+    "title": "Harry Potter And The Order Of - Harry Potter And The ",
+    "set": {
+      "main_title": "Harry Potter And The Order Of - Harry Potter And The"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109277f2fa81788c3ea99"
+    },
+    "title": "Harry Potter And The Philosopher's Stone (two Disc Widescreen Edition) [dvd] . ",
+    "set": {
+      "main_title": "Harry Potter And The Philosopher's Stone ."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1094f7f2fa81788c3ea9a"
+    },
+    "title": "Transformers 2 Disc Special Ed - Transformers 2 Disc ",
+    "set": {
+      "main_title": "Transformers 2 Disc Special Ed - Transformers 2 Disc"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109537f2fa81788c3ea9b"
+    },
+    "title": "Like Transformers Revenge Of The Fallen 2 Disc Blu Ray Free P&p ",
+    "set": {
+      "main_title": "Like Transformers Revenge Of The Fallen 2 Disc Free P&p",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109577f2fa81788c3ea9c"
+    },
+    "title": "The Hobbit The Desolation Of Smaug Blu Ray (vg) (no Codes) ",
+    "set": {
+      "main_title": "The Hobbit The Desolation Of Smaug",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1097f7f2fa81788c3ea9e"
+    },
+    "title": "Carries The Demon Seed Julie Christie Dvd Region 2 Brand & Sealed ",
+    "set": {
+      "main_title": "Carries The Demon Seed Julie Christie Region 2 Brand & Sealed"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109827f2fa81788c3ea9f"
+    },
+    "title": "Indiana Jones: Complete Adventures (5 Disc) (blu-ray Disc) ",
+    "set": {
+      "main_title": "Indiana Jones: Complete Adventures",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109847f2fa81788c3eaa0"
+    },
+    "title": "Harrison Ford, Cate Blanchett-indiana Jones And T (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Harrison Ford, Cate Blanchett-indiana Jones And T"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109877f2fa81788c3eaa1"
+    },
+    "title": "Hellboy 1 And 2 (dvd) ",
+    "set": {
+      "main_title": "Hellboy 1 And 2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109897f2fa81788c3eaa2"
+    },
+    "title": "The Complete Matrix Trilogy (The Matrix / The Matrix Reloaded / The Matrix Revol ",
+    "set": {
+      "main_title": "The Complete Matrix Trilogy"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109907f2fa81788c3eaa3"
+    },
+    "title": "Alien Anthology (blu-ray Disc) ",
+    "set": {
+      "main_title": "Alien Anthology",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109927f2fa81788c3eaa4"
+    },
+    "title": "Jurassic Park Trilogy (blu-ray Disc) ",
+    "set": {
+      "main_title": "Jurassic Park Trilogy",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109977f2fa81788c3eaa5"
+    },
+    "title": "2010 - The Year We Make Contact [blu-ray] [1984] [region Free] ",
+    "set": {
+      "main_title": "2010 - The Year We Make Contact",
+      "format": "BLURAY",
+      "year": 1984
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109987f2fa81788c3eaa6"
+    },
+    "title": "2001: A Space Odyssey [Blu-ray] ",
+    "set": {
+      "main_title": "2001: A Space Odyssey",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109ae7f2fa81788c3eaa7"
+    },
+    "title": "Hellboy - Dvd (2-disc Set) - / Sealed ",
+    "set": {
+      "main_title": "Hellboy - / Sealed"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a257f2fa81788c3eaa8"
+    },
+    "title": "Star Trek - The Next Generation - The Next Level - A Taste Of The Next... ",
+    "set": {
+      "main_title": "Star Trek - The Next Generation - The Next Level - A Taste Of The Next..."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a267f2fa81788c3eaa9"
+    },
+    "title": "Star Trek Beyond 2d (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Star Trek Beyond 2d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a287f2fa81788c3eaaa"
+    },
+    "title": "Star Trek Into Darkness (3-d) (blu-ray 3d) ",
+    "set": {
+      "main_title": "Star Trek Into Darkness",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a5a7f2fa81788c3eaab"
+    },
+    "title": "Star Trek: Stardate Collection (10 Movies) - 12-Disc Box Set ( Star Trek: The Mo ",
+    "set": {
+      "main_title": "Star Trek: Stardate Collection - 12-Disc Box Set"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a5c7f2fa81788c3eaac"
+    },
+    "title": "Star Wars The Force Awakens Darkside Bluray Disney ",
+    "set": {
+      "main_title": "Star Wars The Force Awakens Darkside Disney",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a5f7f2fa81788c3eaad"
+    },
+    "title": "Star Wars - The Complete Saga - 9 Disc Boxset + Film Cell - Official Uk Blu Ray ",
+    "set": {
+      "main_title": "Star Wars - The Complete Saga - 9 Disc Boxset + Film Cell - Official Uk",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a647f2fa81788c3eaae"
+    },
+    "title": "Blade Runner 2049 - Blu-ray - ",
+    "set": {
+      "main_title": "Blade Runner 2049",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a677f2fa81788c3eaaf"
+    },
+    "title": "Blade Runner The Fi - 1000086720 - Dvd ",
+    "set": {
+      "main_title": "Blade Runner The Fi - 1000086720"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a6b7f2fa81788c3eab0"
+    },
+    "title": "Solo: A Star Wars Story (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Solo: A Star Wars Story",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a6e7f2fa81788c3eab1"
+    },
+    "title": "Star Wars The Last - Blu-ray - ",
+    "set": {
+      "main_title": "Star Wars The Last",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a9a7f2fa81788c3eab2"
+    },
+    "title": "Venom (2018) (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Venom",
+      "format": "BLURAY",
+      "year": 2018
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a9c7f2fa81788c3eab3"
+    },
+    "title": "Ant-man And The Wasp - Blu-ray - ",
+    "set": {
+      "main_title": "Ant-man And The Wasp",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a9f7f2fa81788c3eab4"
+    },
+    "title": "Ant-man (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Ant-man",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10aa37f2fa81788c3eab5"
+    },
+    "title": "Marvel's Doctor Strange (2016) Blu-ray With Slipcover Brand Free Ship ",
+    "set": {
+      "main_title": "Marvel's Doctor Strange With Slipcover Brand Free Ship",
+      "format": "BLURAY",
+      "year": 2016
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10aa87f2fa81788c3eab6"
+    },
+    "title": "Incredibles 2 (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Incredibles 2",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10aab7f2fa81788c3eab7"
+    },
+    "title": "Captain Marvel (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Captain Marvel",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ad07f2fa81788c3eab8"
+    },
+    "title": "The Incredible Hulk (2 Disc Edition) [dvd] By Liv Tyler,william Hurt,edward N. ",
+    "set": {
+      "main_title": "The Incredible Hulk By Liv Tyler,william Hurt,edward N."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ad37f2fa81788c3eab9"
+    },
+    "title": "Hulk [dvd] [2003] ",
+    "set": {
+      "main_title": "Hulk",
+      "year": 2003
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ad67f2fa81788c3eaba"
+    },
+    "title": "27599 Dvd - Fantastic 4 Special Edition [new & Sealed] 2005 2866701001 ",
+    "set": {
+      "main_title": "27599 - Fantastic 4 Special Edition 2866701001",
+      "year": 2005
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ad87f2fa81788c3eabb"
+    },
+    "title": "Fantastic 4 : Rise Of The Silver Surfer 2 X Disc Special Edition Dvd Sealed ",
+    "set": {
+      "main_title": "Fantastic 4 : Rise Of The Silver Surfer 2 X Disc Special Edition Sealed"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ada7f2fa81788c3eabc"
+    },
+    "title": "Daredevil - 23789dvd - Dvd ",
+    "set": {
+      "main_title": "Daredevil - 23789dvd"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10adc7f2fa81788c3eabd"
+    },
+    "title": "Goran Visnjic, Kirsten Prout-elektra (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Goran Visnjic, Kirsten Prout-elektra"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ade7f2fa81788c3eabe"
+    },
+    "title": "Ghost Rider Extende - Cdr33519ex - Dvd ",
+    "set": {
+      "main_title": "Ghost Rider Extende - Cdr33519ex"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ae07f2fa81788c3eabf"
+    },
+    "title": "Sam Raimi - Spider-man - Cdr32161 - Dvd ",
+    "set": {
+      "main_title": "Sam Raimi - Spider-man - Cdr32161"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ae27f2fa81788c3eac0"
+    },
+    "title": "Spider-man 2 (dvd, 2004, 2-disc Set) James Franco, Brand Sealed. ",
+    "set": {
+      "main_title": "Spider-man 2 James Franco, Brand Sealed.",
+      "year": 2004
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ae47f2fa81788c3eac1"
+    },
+    "title": "Spider-man 3 (2 Disc Special Edition) Limited Edition Sleeve Design And Slipc. ",
+    "set": {
+      "main_title": "Spider-man 3 Limited Edition Sleeve Design And Slipc."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10af17f2fa81788c3eac2"
+    },
+    "title": "Spider-man - The Ama - Blu-ray - ",
+    "set": {
+      "main_title": "Spider-man - The Ama",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10af57f2fa81788c3eac3"
+    },
+    "title": "Id59z - Amazing Spider-man 2 - Blu-ray - ",
+    "set": {
+      "main_title": "Id59z - Amazing Spider-man 2",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10afc7f2fa81788c3eac4"
+    },
+    "title": "Michael Caine, Juno Temple-dark Knight Rises (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Michael Caine, Juno Temple-dark Knight Rises",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10afd7f2fa81788c3eac5"
+    },
+    "title": "Batman Begins/The Dark Knight Limited Edition Steelbook ",
+    "set": {
+      "main_title": "Batman Begins/The Dark Knight Limited Edition Steelbook"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b017f2fa81788c3eac6"
+    },
+    "title": "Deadpool Blu-ray (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Deadpool",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b047f2fa81788c3eac7"
+    },
+    "title": "Deadpool 2 - Blu-ray - ",
+    "set": {
+      "main_title": "Deadpool 2",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b067f2fa81788c3eac8"
+    },
+    "title": "Captain America:civil War (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Captain America:civil War"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b0a7f2fa81788c3eac9"
+    },
+    "title": "Captain America - The First Avenger (blu-ray And Dvd Combo, 2011, 2-disc Set) ",
+    "set": {
+      "main_title": "Captain America - The First Avenger",
+      "format": "BLURAY",
+      "year": 2011
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b0e7f2fa81788c3eaca"
+    },
+    "title": "Captain America: The First Avenger (blu-ray Disc) ",
+    "set": {
+      "main_title": "Captain America: The First Avenger",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b107f2fa81788c3eacb"
+    },
+    "title": "Iron Man (blu-ray Disc) ",
+    "set": {
+      "main_title": "Iron Man",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b137f2fa81788c3eacc"
+    },
+    "title": "Iron Man 2 (3 Disc Set) Blu-ray Uk Original (2bd+dvd+digital Copy) ",
+    "set": {
+      "main_title": "Iron Man 2 Uk Original",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b167f2fa81788c3eacd"
+    },
+    "title": "Avengers Assemble Region Free Blu-ray ",
+    "set": {
+      "main_title": "Avengers Assemble Region Free",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b197f2fa81788c3eace"
+    },
+    "title": "Avengers Age Of Ultron [blu-ray] ",
+    "set": {
+      "main_title": "Avengers Age Of Ultron",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b317f2fa81788c3eacf"
+    },
+    "title": "Thor - Triple Play (blu-ray + Dvd + Digital Copy) [2011] [region Free] By Chr. ",
+    "set": {
+      "main_title": "Thor - Triple Play By Chr.",
+      "format": "BLURAY",
+      "year": 2011
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b347f2fa81788c3ead0"
+    },
+    "title": "Logan <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "Logan",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b367f2fa81788c3ead1"
+    },
+    "title": "The Wolverine (blu-ray Disc) ",
+    "set": {
+      "main_title": "The Wolverine",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b387f2fa81788c3ead2"
+    },
+    "title": "X-men Origins: Wolverine [blu-ray], 5039036042154, Hugh Jackman, Liev Schreiber ",
+    "set": {
+      "main_title": "X-men Origins: Wolverine , 5039036042154, Hugh Jackman, Liev Schreiber",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b3a7f2fa81788c3ead3"
+    },
+    "title": "Wonder Woman - Blu-ray - ",
+    "set": {
+      "main_title": "Wonder Woman",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b3c7f2fa81788c3ead4"
+    },
+    "title": "Suicide Squad - Blu-ray - ",
+    "set": {
+      "main_title": "Suicide Squad",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b3e7f2fa81788c3ead5"
+    },
+    "title": "Black Panther (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Black Panther",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b407f2fa81788c3ead6"
+    },
+    "title": "Thor Ragnarok Bd (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Thor Ragnarok Bd",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b427f2fa81788c3ead7"
+    },
+    "title": "Guardians Of The Galaxy Blu Ray Marvel Film ",
+    "set": {
+      "main_title": "Guardians Of The Galaxy Marvel Film",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b447f2fa81788c3ead8"
+    },
+    "title": "Guardians Of The Gal - Blu-ray - ",
+    "set": {
+      "main_title": "Guardians Of The Gal",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b467f2fa81788c3ead9"
+    },
+    "title": "X-men [blu-ray] ",
+    "set": {
+      "main_title": "X-men",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b487f2fa81788c3eada"
+    },
+    "title": "X-men Trilogy (blu-ray Disc) ",
+    "set": {
+      "main_title": "X-men Trilogy",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b4b7f2fa81788c3eadb"
+    },
+    "title": "Avengers: Infinity War Blu-ray ",
+    "set": {
+      "main_title": "Avengers: Infinity War",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b4e7f2fa81788c3eadc"
+    },
+    "title": "X-men: First Class - Triple Play (blu-ray + Dvd + Digital Copy) By James Mcav. ",
+    "set": {
+      "main_title": "X-men: First Class - Triple Play By James Mcav.",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b507f2fa81788c3eadd"
+    },
+    "title": "X-men Apocalypse - Blu-ray - ",
+    "set": {
+      "main_title": "X-men Apocalypse",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b567f2fa81788c3eadf"
+    },
+    "title": "X-Men (Widescreen) ",
+    "set": {
+      "main_title": "X-Men"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b597f2fa81788c3eae0"
+    },
+    "title": "X-men 2 (dvd, 2003) ",
+    "set": {
+      "main_title": "X-men 2",
+      "year": 2003
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b5e7f2fa81788c3eae1"
+    },
+    "title": "Man Of Steel (blu-ray Disc) ",
+    "set": {
+      "main_title": "Man Of Steel",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b607f2fa81788c3eae2"
+    },
+    "title": "Aquaman - Blu-ray - ",
+    "set": {
+      "main_title": "Aquaman",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b6e7f2fa81788c3eae3"
+    },
+    "title": "King Kong Blu-ray (8259729) ",
+    "set": {
+      "main_title": "King Kong",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b717f2fa81788c3eae4"
+    },
+    "title": "Kong - Skull Island - Blu-ray - ",
+    "set": {
+      "main_title": "Kong - Skull Island",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b737f2fa81788c3eae5"
+    },
+    "title": "Keri Russell, J.d. Evermore-dawn Of The Planet Of The Ap (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Keri Russell, J.d. Evermore-dawn Of The Planet Of The Ap",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b757f2fa81788c3eae6"
+    },
+    "title": "Alien Covenant (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Alien Covenant"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b777f2fa81788c3eae7"
+    },
+    "title": "Prometheus - Collector's Edition (blu-ray 3d + Blu-ray + Digital Copy) [regio. ",
+    "set": {
+      "main_title": "Prometheus - Collector's Edition",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b7b7f2fa81788c3eae9"
+    },
+    "title": "Interstellar - Blu-ray - ",
+    "set": {
+      "main_title": "Interstellar",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b7d7f2fa81788c3eaea"
+    },
+    "title": "Arrival <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "Arrival",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c077f2fa81788c3eaeb"
+    },
+    "title": "Dvd - Sin City - Sin City - Id54z - ",
+    "set": {
+      "main_title": "Sin City - Sin City - Id54z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c187f2fa81788c3eaec"
+    },
+    "title": "Stream, Liam Ferguson-knight And Day (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Stream, Liam Ferguson-knight And Day",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c1a7f2fa81788c3eaed"
+    },
+    "title": "Tron - Blu-ray - ",
+    "set": {
+      "main_title": "Tron",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c1d7f2fa81788c3eaee"
+    },
+    "title": "Twelve Monkeys <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "Twelve Monkeys",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c207f2fa81788c3eaef"
+    },
+    "title": "Final Fantasy: The Spirits Within (blu-ray Disc) ",
+    "set": {
+      "main_title": "Final Fantasy: The Spirits Within",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c247f2fa81788c3eaf0"
+    },
+    "title": "Predestination [blu-ray], 5060262852880, Ethan Hawke, Sarah Snook, Peter Spieri. ",
+    "set": {
+      "main_title": "Predestination , 5060262852880, Ethan Hawke, Sarah Snook, Peter Spieri.",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c267f2fa81788c3eaf1"
+    },
+    "title": "Sicario-emily Blunt Benicio Del Toro(uk Blu Ray)den Villeneuve Roger Deakins Dop ",
+    "set": {
+      "main_title": "Sicario-emily Blunt Benicio Del Toro den Villeneuve Roger Deakins Dop",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c287f2fa81788c3eaf2"
+    },
+    "title": "Man From U.n.c.l.e. (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Man From U.n.c.l.e.",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c2b7f2fa81788c3eaf3"
+    },
+    "title": "Mark Hamill, Sofia Boutella-kingsman - The Secret Servic (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Mark Hamill, Sofia Boutella-kingsman - The Secret Servic",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c2d7f2fa81788c3eaf4"
+    },
+    "title": "Abraham Lincoln - Va - Blu-ray - ",
+    "set": {
+      "main_title": "Abraham Lincoln - Va",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c2f7f2fa81788c3eaf5"
+    },
+    "title": "Project X <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "Project X",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c317f2fa81788c3eaf6"
+    },
+    "title": "Con Air (blu-ray Disc) ",
+    "set": {
+      "main_title": "Con Air",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c337f2fa81788c3eaf7"
+    },
+    "title": "Lost In Space ",
+    "set": {
+      "main_title": "Lost In Space"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c357f2fa81788c3eaf8"
+    },
+    "title": "Ryan Reynolds, Denzel Washi...-safe House (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Ryan Reynolds, Denzel Washi...-safe House",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10d947f2fa81788c3eaf9"
+    },
+    "title": "The Fifth Element:bruce Willis,gary Oldman,chris Tucker (sci-fi Blu-ray, 2011) ",
+    "set": {
+      "main_title": "The Fifth Element:bruce Willis,gary Oldman,chris Tucker",
+      "format": "BLURAY",
+      "year": 2011
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10d957f2fa81788c3eafa"
+    },
+    "title": "Rise Of The Planet O - Blu-ray - ",
+    "set": {
+      "main_title": "Rise Of The Planet O",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10d987f2fa81788c3eafb"
+    },
+    "title": "In Time (blu-ray And Dvd Combo, 2012) ",
+    "set": {
+      "main_title": "In Time",
+      "format": "BLURAY",
+      "year": 2012
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10d997f2fa81788c3eafc"
+    },
+    "title": "Minority Report [blu-ray] ",
+    "set": {
+      "main_title": "Minority Report",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10d9c7f2fa81788c3eafd"
+    },
+    "title": "Back To The Future Trilogy (blu-ray Disc, 2012, 3-disc Set) ",
+    "set": {
+      "main_title": "Back To The Future Trilogy",
+      "format": "BLURAY",
+      "year": 2012
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10d9e7f2fa81788c3eafe"
+    },
+    "title": "2012 [blu-ray] [2010] [region Free], 5050629062014, John Cusack, Amanda Peet, T. ",
+    "set": {
+      "main_title": "2012 , 5050629062014, John Cusack, Amanda Peet, T.",
+      "format": "BLURAY",
+      "year": 2010
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10da07f2fa81788c3eaff"
+    },
+    "title": "Sam Worthington, Sigourney ...-avatar: Collector's Exten (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Sam Worthington, Sigourney ...-avatar: Collector's Exten",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10da37f2fa81788c3eb00"
+    },
+    "title": "Se7en (aka Seven) <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "Se7en",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10da67f2fa81788c3eb01"
+    },
+    "title": "Predator The (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Predator The",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10da87f2fa81788c3eb02"
+    },
+    "title": "Alien Vs Predator (2 Disc) (blu-ray Disc) ",
+    "set": {
+      "main_title": "Alien Vs Predator",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10daa7f2fa81788c3eb03"
+    },
+    "title": "Louis Ozawa Changchien, Ole...-predators (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Louis Ozawa Changchien, Ole...-predators",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10dae7f2fa81788c3eb04"
+    },
+    "title": "Predator 2 (blu-ray Disc) ",
+    "set": {
+      "main_title": "Predator 2",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10db07f2fa81788c3eb05"
+    },
+    "title": "Predator - Ultimate Edition Blu-ray Blu-ray ",
+    "set": {
+      "main_title": "Predator - Ultimate Edition",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10db27f2fa81788c3eb06"
+    },
+    "title": "Close Encounters Of The Third Kind (2 Disc) (blu-ray Disc) ",
+    "set": {
+      "main_title": "Close Encounters Of The Third Kind",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10db47f2fa81788c3eb07"
+    },
+    "title": "Knowing - Nicolas Cage - Blu Ray ",
+    "set": {
+      "main_title": "Knowing - Nicolas Cage",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10db67f2fa81788c3eb08"
+    },
+    "title": "The Chronicles Of Riddick - Directors Cut <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "The Chronicles Of Riddick - Directors Cut",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10db97f2fa81788c3eb09"
+    },
+    "title": "Firefly: Complete Series (blu-ray Disc) ",
+    "set": {
+      "main_title": "Firefly: Complete Series",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10dbd7f2fa81788c3eb0a"
+    },
+    "title": "Serenity Blu-ray - Id54z - Blu-ray - ",
+    "set": {
+      "main_title": "Serenity - Id54z",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10dbf7f2fa81788c3eb0b"
+    },
+    "title": "Interview With The V - Dvd - ",
+    "set": {
+      "main_title": "Interview With The V"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10de67f2fa81788c3eb0c"
+    },
+    "title": "Team America - World - Phe8647 - Dvd ",
+    "set": {
+      "main_title": "Team America - World - Phe8647"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10deb7f2fa81788c3eb0d"
+    },
+    "title": "The Mummy [dvd] [1999] ",
+    "set": {
+      "main_title": "The Mummy",
+      "year": 1999
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ded7f2fa81788c3eb0e"
+    },
+    "title": "The Mummy Returns (DVD) ",
+    "set": {
+      "main_title": "The Mummy Returns"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10e397f2fa81788c3eb0f"
+    },
+    "title": "The Mummy Tomb Of T - 241992 - Dvd ",
+    "set": {
+      "main_title": "The Mummy Tomb Of T - 241992"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10e6d7f2fa81788c3eb10"
+    },
+    "title": "Rufus Sewell-dark City (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Rufus Sewell-dark City"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10e8f7f2fa81788c3eb11"
+    },
+    "title": "Patrick Kake, Elizabeth Haw...-chronicles Of Narn (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Patrick Kake, Elizabeth Haw...-chronicles Of Narn"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10eaa7f2fa81788c3eb12"
+    },
+    "title": "1079705 ",
+    "set": {
+      "main_title": "1079705"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ead7f2fa81788c3eb13"
+    },
+    "title": "Crouching Tiger Hidden Dragon Widescreen Dvd ",
+    "set": {
+      "main_title": "Crouching Tiger Hidden Dragon Widescreen"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10eaf7f2fa81788c3eb14"
+    },
+    "title": "Anthony Hopkins-meet Joe Black (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Anthony Hopkins-meet Joe Black"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10eb77f2fa81788c3eb15"
+    },
+    "title": "Pirates Of The Caribbean Dead Mans Chest Two-disc Special Edition[dvd] [200 ",
+    "set": {
+      "main_title": "Pirates Of The Caribbean Dead Mans Chest Two-disc Special Edition"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10eb97f2fa81788c3eb16"
+    },
+    "title": "Pirates Of The Caribbean: The Curse Of The Black Pearl [dvd] [2003], Very Good D ",
+    "set": {
+      "main_title": "Pirates Of The Caribbean: The Curse Of The Black Pearl , Very Good D",
+      "year": 2003
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10eba7f2fa81788c3eb17"
+    },
+    "title": "Chow Yun-fat-pirates Of The Caribbean: At World`s (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Chow Yun-fat-pirates Of The Caribbean: At World`s"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ebd7f2fa81788c3eb18"
+    },
+    "title": "Stealth - Region Pal 2 - 5035822696532pmi - Dvd ",
+    "set": {
+      "main_title": "Stealth - Region Pal 2 - 5035822696532pmi"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ebf7f2fa81788c3eb19"
+    },
+    "title": "San Andreas - Blu-ray - ",
+    "set": {
+      "main_title": "San Andreas",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ec17f2fa81788c3eb1a"
+    },
+    "title": "Morgan (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Morgan"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ec37f2fa81788c3eb1b"
+    },
+    "title": "Geostorm - Blu-ray - ",
+    "set": {
+      "main_title": "Geostorm",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ec57f2fa81788c3eb1c"
+    },
+    "title": "I, Robot (blu-ray Disc) ",
+    "set": {
+      "main_title": "I, Robot",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ec77f2fa81788c3eb1d"
+    },
+    "title": "Independence Day (blu-ray Disc) ",
+    "set": {
+      "main_title": "Independence Day",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ec97f2fa81788c3eb1e"
+    },
+    "title": "Live Free Or Die Hard (blu-ray Disc) ",
+    "set": {
+      "main_title": "Live Free Or Die Hard",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ecc7f2fa81788c3eb1f"
+    },
+    "title": "Cowboys & Aliens - Triple Play (blu-ray + Dvd + Digital Copy) [2011] [region . ",
+    "set": {
+      "main_title": "Cowboys & Aliens - Triple Play",
+      "format": "BLURAY",
+      "year": 2011
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ece7f2fa81788c3eb20"
+    },
+    "title": "The Martian <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "The Martian",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f397f2fa81788c3eb21"
+    },
+    "title": "Village Of The Damned / Children Of The Damned <region 2 Dvd, Sealed> ",
+    "set": {
+      "main_title": "Village Of The Damned / Children Of The Damned"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f3b7f2fa81788c3eb22"
+    },
+    "title": "Donnie Darko (Widescreen Edition) ",
+    "set": {
+      "main_title": "Donnie Darko"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f3c7f2fa81788c3eb23"
+    },
+    "title": "Widescreen - The Frighteners - No Rest For The Wicked - Dvd Film- 5035822004344 ",
+    "set": {
+      "main_title": "Widescreen - The Frighteners - No Rest For The Wicked - Film- 5035822004344"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f3f7f2fa81788c3eb24"
+    },
+    "title": "Van Helsing Dvd - 8231135 - Dvd ",
+    "set": {
+      "main_title": "Van Helsing - 8231135"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f427f2fa81788c3eb25"
+    },
+    "title": "Saw Uncut Version - Region Pal 2 - 5017239192999pmi ",
+    "set": {
+      "main_title": "Saw Uncut Version - Region Pal 2 - 5017239192999pmi"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f447f2fa81788c3eb26"
+    },
+    "title": "Warlock (DVD) ",
+    "set": {
+      "main_title": "Warlock"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f467f2fa81788c3eb27"
+    },
+    "title": "Life Of Pi (blu-ray Disc) ",
+    "set": {
+      "main_title": "Life Of Pi",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f807f2fa81788c3eb28"
+    },
+    "title": "Godzilla, movies ",
+    "set": {
+      "main_title": "Godzilla, movies"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f917f2fa81788c3eb29"
+    },
+    "title": "X-men - Days Of Futu - Blu-ray - ",
+    "set": {
+      "main_title": "X-men - Days Of Futu",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f967f2fa81788c3eb2a"
+    },
+    "title": "The Fly (blu-ray Disc) ",
+    "set": {
+      "main_title": "The Fly",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f9a7f2fa81788c3eb2b"
+    },
+    "title": "The Hobbit - The Battle Of The Five Armies <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "The Hobbit - The Battle Of The Five Armies",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fa77f2fa81788c3eb2c"
+    },
+    "title": "2010:year We Make Contact [dvd] [1984] [region 1] [us Import] [ntsc] - Dvd 48ln ",
+    "set": {
+      "main_title": "2010:year We Make Contact - 48ln",
+      "year": 1984
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10faf7f2fa81788c3eb2d"
+    },
+    "title": "Go [dvd], Very Good Dvd, Scott Wolf, Sarah Polley, Timothy Olyphant, Desmond Ask ",
+    "set": {
+      "main_title": "Go , Very Good , Scott Wolf, Sarah Polley, Timothy Olyphant, Desmond Ask"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fb67f2fa81788c3eb2e"
+    },
+    "title": "WESTWORLD [DVD] ",
+    "set": {
+      "main_title": "WESTWORLD"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fba7f2fa81788c3eb2f"
+    },
+    "title": "The Final Countdown (uk Import) Dvd ",
+    "set": {
+      "main_title": "The Final Countdown"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fbe7f2fa81788c3eb30"
+    },
+    "title": "COLUMBIA TRISTAR HOME VIDEO ",
+    "set": {
+      "main_title": "COLUMBIA TRISTAR HOME VIDEO"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fc37f2fa81788c3eb31"
+    },
+    "title": "Russell Mulcahy - Highlander - D038352 - Dvd ",
+    "set": {
+      "main_title": "Russell Mulcahy - Highlander - D038352"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fc67f2fa81788c3eb32"
+    },
+    "title": "Contact ",
+    "set": {
+      "main_title": "Contact"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fc97f2fa81788c3eb33"
+    },
+    "title": "Merlin (uk Import) Dvd ",
+    "set": {
+      "main_title": "Merlin"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fd87f2fa81788c3eb34"
+    },
+    "title": "Iron Man Dvd Robert Downey Jr. Used ",
+    "set": {
+      "main_title": "Iron Man Robert Downey Jr. Used"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fdb7f2fa81788c3eb35"
+    },
+    "title": "The Day After Tomorrow - Two Disc Edition [dvd] [2004], Very Good Dvd, Sasha Roi ",
+    "set": {
+      "main_title": "The Day After Tomorrow - Two Disc Edition , Very Good , Sasha Roi",
+      "year": 2004
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fde7f2fa81788c3eb36"
+    },
+    "title": "Serenity (dvd, 2011) ",
+    "set": {
+      "main_title": "Serenity",
+      "year": 2011
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fe47f2fa81788c3eb37"
+    },
+    "title": "Armageddon (DVD) ",
+    "set": {
+      "main_title": "Armageddon"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fe97f2fa81788c3eb38"
+    },
+    "title": "Matt Damon, Franka Potente-bourne Supremacy (uk Import) Dvd ",
+    "set": {
+      "main_title": "Matt Damon, Franka Potente-bourne Supremacy"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10feb7f2fa81788c3eb39"
+    },
+    "title": "The Bourne Identity - Blu Ray (2002) Matt Damon ",
+    "set": {
+      "main_title": "The Bourne Identity - Matt Damon",
+      "format": "BLURAY",
+      "year": 2002
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fed7f2fa81788c3eb3a"
+    },
+    "title": "The Bourne Ultimatum - Dvd - ",
+    "set": {
+      "main_title": "The Bourne Ultimatum"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110047f2fa81788c3eb3b"
+    },
+    "title": "69925 Dvd - The Lord Of The Rings The Fellowship Of The Ring 2002 Edv 9169 ",
+    "set": {
+      "main_title": "69925 - The Lord Of The Rings The Fellowship Of The Ring Edv 9169",
+      "year": 2002
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110067f2fa81788c3eb3c"
+    },
+    "title": "The Lord Of The Rings The Two - The Lord Of The Ring ",
+    "set": {
+      "main_title": "The Lord Of The Rings The Two - The Lord Of The Ring"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1104c7f2fa81788c3eb40"
+    },
+    "title": "It - Blu-ray - ",
+    "set": {
+      "main_title": "It",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110517f2fa81788c3eb41"
+    },
+    "title": "It Chapter Two - Dvd - ",
+    "set": {
+      "main_title": "It Chapter Two"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110557f2fa81788c3eb42"
+    },
+    "title": "Warcraft Bd/uv+blizzard Insert (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Warcraft Bd/uv+blizzard Insert",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110587f2fa81788c3eb43"
+    },
+    "title": "Hotel Artemis <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "Hotel Artemis",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1105a7f2fa81788c3eb44"
+    },
+    "title": "Dark Star (blu-ray Disc) ",
+    "set": {
+      "main_title": "Dark Star",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1105d7f2fa81788c3eb45"
+    },
+    "title": "Jumanji: Welcome To The Jungle (non Uv) (uk Import) Blu-ray ",
+    "set": {
+      "main_title": "Jumanji: Welcome To The Jungle",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1105f7f2fa81788c3eb46"
+    },
+    "title": "Godzilla - King Of T - Blu-ray - ",
+    "set": {
+      "main_title": "Godzilla - King Of T",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110617f2fa81788c3eb47"
+    },
+    "title": "LOOPER ",
+    "set": {
+      "main_title": "LOOPER"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110637f2fa81788c3eb48"
+    },
+    "title": "Martian Extended Edition The (uk Import) Dvd [region 2] ",
+    "set": {
+      "main_title": "Martian Extended Edition The"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110657f2fa81788c3eb49"
+    },
+    "title": "Life - Blu-ray - ",
+    "set": {
+      "main_title": "Life",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1106a7f2fa81788c3eb4a"
+    },
+    "title": "The Mask <region B Bluray, Sealed> ",
+    "set": {
+      "main_title": "The Mask",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1106f7f2fa81788c3eb4b"
+    },
+    "title": "Clerks - 10th Anniversary Edition (3 Disc Special Edition Box Set) [dvd], Very ",
+    "set": {
+      "main_title": "Clerks - 10th Anniversary Edition , Very"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110737f2fa81788c3eb4c"
+    },
+    "title": "Cathy Come Home - Dvd - ",
+    "set": {
+      "main_title": "Cathy Come Home"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110767f2fa81788c3eb4d"
+    },
+    "title": "The Hitmans Bodyguar - Blu-ray - ",
+    "set": {
+      "main_title": "The Hitmans Bodyguar",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110797f2fa81788c3eb4e"
+    },
+    "title": "Let The Right One In Bluray (2009) Horror Very Good Condition ",
+    "set": {
+      "main_title": "Let The Right One In Horror Very Good Condition",
+      "format": "BLURAY",
+      "year": 2009
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110957f2fa81788c3eb4f"
+    },
+    "title": "Clerks 2 - Phe9178 - Dvd ",
+    "set": {
+      "main_title": "Clerks 2 - Phe9178"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f033dd97f2fa80c70c007e0"
+    },
+    "title": "Snowpiercer =region B Bluray,sealed= ",
+    "set": {
+      "main_title": "Snowpiercer =region B ,sealed=",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f033de87f2fa80c70c007e1"
+    },
+    "title": "The Hunger Games MockingJay Part 1 [Blu-ray] [2018] [DVD] ",
+    "set": {
+      "main_title": "The Hunger Games MockingJay Part 1",
+      "format": "BLURAY",
+      "year": 2018
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f11c8537f2fa822508b8358"
+    },
+    "title": "Godfather Trilogy [region B] [blu-ray] - Dvd - - Free Shipping. ",
+    "set": {
+      "main_title": "Godfather Trilogy - Free Shipping.",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f1b07e77f2fa81d6803d933"
+    },
+    "title": "Colossus - The Forbin Project [1970] [dvd] Used Very Good Uk Region 2 ",
+    "set": {
+      "main_title": "Colossus - The Forbin Project Used Very Good Uk Region 2",
+      "year": 1970
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6449b0097f2fa82c80e63652"
+    },
+    "title": "Warcraft: The Beginning 5053083079475 With Dominic Cooper Region B, Brand ",
+    "set": {
+      "main_title": "Warcraft: The Beginning 5053083079475 With Dominic Cooper Region B, Brand"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6449b0097f2fa82c80e63651"
+    },
+    "title": "Id1398z - It Chapter Two - Dvd - ",
+    "set": {
+      "main_title": "Id1398z - It Chapter Two"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "646f8ec97f2fa828c8ca7a47"
+    },
+    "title": "Dave Weckl: How to Practice (DVD video) ",
+    "set": {
+      "main_title": "Dave Weckl: How to Practice"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783d3dc7eb1792d8471a211"
+    },
+    "title": "Dexter Season 6",
+    "set": {
+      "main_title": "Dexter Season 6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783d8277eb1792d8471a212"
+    },
+    "title": "2 disc edition Harry potter and the philosophers Stone",
+    "set": {
+      "main_title": "2 disc edition Harry potter and the philosophers Stone"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ecb90aa2e81f1812672d"
+    },
+    "title": "Harry potter and the order of the pheonix",
+    "set": {
+      "main_title": "Harry potter and the order of the pheonix"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ece30aa2e81f1812672e"
+    },
+    "title": "Elevation Sales BUY4033201 movie/video",
+    "set": {
+      "main_title": "Elevation Sales BUY4033201 movie/video"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ecf70aa2e81f1812672f"
+    },
+    "title": "The Bourne Ultimatum",
+    "set": {
+      "main_title": "The Bourne Ultimatum"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ecfa0aa2e81f18126730"
+    },
+    "title": "Elevation Sales SBRN7641 movie/video",
+    "set": {
+      "main_title": "Elevation Sales SBRN7641 movie/video"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ecff0aa2e81f18126731"
+    },
+    "title": "20th Century Fox Teen Wolf",
+    "set": {
+      "main_title": "20th Century Fox Teen Wolf"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ed050aa2e81f18126732"
+    },
+    "title": "Eternals(Blu-ray)",
+    "set": {
+      "main_title": "Eternals",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ed080aa2e81f18126733"
+    },
+    "title": "The Hobbit: The Battle of the Five Armies [Blu-ray] [2015] [Region Free]",
+    "set": {
+      "main_title": "The Hobbit: The Battle of the Five Armies",
+      "format": "BLURAY",
+      "year": 2015
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ed270aa2e81f18126734"
+    },
+    "title": "Life (2017)",
+    "set": {
+      "main_title": "Life",
+      "year": 2017
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ed320aa2e81f18126735"
+    },
+    "title": "Movie - Bourne Supremacy + Book",
+    "set": {
+      "main_title": "Movie - Bourne Supremacy + Book"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ee6a0aa2e81f18126736"
+    },
+    "title": "The Hunger Games: Mockingjay - Part 1 [Blu-Ray]",
+    "set": {
+      "main_title": "The Hunger Games: Mockingjay - Part 1",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ee6f0aa2e81f18126737"
+    },
+    "title": "The Hunger Games: Mockingjay Part 2 (Includes UltraViolet Copy)",
+    "set": {
+      "main_title": "The Hunger Games: Mockingjay Part 2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ee750aa2e81f18126738"
+    },
+    "title": "The Hunger Games (Blu-ray) (2 disc)",
+    "set": {
+      "main_title": "The Hunger Games",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ee7b0aa2e81f18126739"
+    },
+    "title": "Hunger Games Catching Fire",
+    "set": {
+      "main_title": "Hunger Games Catching Fire"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783efa30aa2e81f1812673a"
+    },
+    "title": "Thing (1982/2011)",
+    "set": {
+      "main_title": "Thing"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f0770aa2e81f1812673b"
+    },
+    "title": "Jungle Cruise(Blu-ray)",
+    "set": {
+      "main_title": "Jungle Cruise",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f07c0aa2e81f1812673c"
+    },
+    "title": "Archive",
+    "set": {
+      "main_title": "Archive"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f0a90aa2e81f1812673e"
+    },
+    "title": "Morbius",
+    "set": {
+      "main_title": "Morbius"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f0af0aa2e81f1812673f"
+    },
+    "title": "Warner Bros Joker",
+    "set": {
+      "main_title": "Warner Bros Joker"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f0b20aa2e81f18126740"
+    },
+    "title": "Marvel Studios Black Widow [Blu-ray] (2021) [Region Free]",
+    "set": {
+      "main_title": "Marvel Studios Black Widow",
+      "format": "BLURAY",
+      "year": 2021
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f0c10aa2e81f18126741"
+    },
+    "title": "Shang-Chi and the Legend of the Ten Rings(Blu-ray)",
+    "set": {
+      "main_title": "Shang-Chi and the Legend of the Ten Rings",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f0c30aa2e81f18126742"
+    },
+    "title": "Warner Bros The Batman",
+    "set": {
+      "main_title": "Warner Bros The Batman"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f0cc0aa2e81f18126743"
+    },
+    "title": "Warner Bros The Suicide Squad",
+    "set": {
+      "main_title": "Warner Bros The Suicide Squad"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f21a0aa2e81f18126745"
+    },
+    "title": "Deadpool",
+    "set": {
+      "main_title": "Deadpool"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f2310aa2e81f18126746"
+    },
+    "title": "Warner Bros Aquaman",
+    "set": {
+      "main_title": "Warner Bros Aquaman"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f2520aa2e81f18126747"
+    },
+    "title": "Man Of Steel (Blu-ray) (Import)",
+    "set": {
+      "main_title": "Man Of Steel",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f27d0aa2e81f18126748"
+    },
+    "title": "King Kong (2005)",
+    "set": {
+      "main_title": "King Kong",
+      "year": 2005
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f2ac0aa2e81f18126749"
+    },
+    "title": "Warner Bros Godzilla: King of the Monsters",
+    "set": {
+      "main_title": "Warner Bros Godzilla: King of the Monsters"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f2af0aa2e81f1812674a"
+    },
+    "title": "Warner Bros Godzilla vs. Kong",
+    "set": {
+      "main_title": "Warner Bros Godzilla vs. Kong"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f2bc0aa2e81f1812674b"
+    },
+    "title": "Alien: Covenant(Blu-ray)",
+    "set": {
+      "main_title": "Alien: Covenant",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f32f0aa2e81f1812674c"
+    },
+    "title": "Greatest Showman(Blu-ray)",
+    "set": {
+      "main_title": "Greatest Showman",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f3340aa2e81f1812674d"
+    },
+    "title": "Life of Pi",
+    "set": {
+      "main_title": "Life of Pi"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f35b0aa2e81f1812674e"
+    },
+    "title": "Movie - Indiana Jones Quadrilogy",
+    "set": {
+      "main_title": "Movie - Indiana Jones Quadrilogy"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f3750aa2e81f1812674f"
+    },
+    "title": "Jurassic World",
+    "set": {
+      "main_title": "Jurassic World"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f3790aa2e81f18126750"
+    },
+    "title": "Jurassic Park Ultimate..",
+    "set": {
+      "main_title": "Jurassic Park Ultimate.."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f40a0aa2e81f18126751"
+    },
+    "title": "Star Trek Into Darkness (Import) (Blu-ray 3D + Blu-ray) [Region Free]",
+    "set": {
+      "main_title": "Star Trek Into Darkness",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4160aa2e81f18126752"
+    },
+    "title": "Star Trek: The Next Generation - Taste of the Next Generation",
+    "set": {
+      "main_title": "Star Trek: The Next Generation - Taste of the Next Generation"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f42d0aa2e81f18126753"
+    },
+    "title": "Star Wars: The Complete..",
+    "set": {
+      "main_title": "Star Wars: The Complete.."
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f43b0aa2e81f18126754"
+    },
+    "title": "Warner Bros Tenet",
+    "set": {
+      "main_title": "Warner Bros Tenet"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4430aa2e81f18126755"
+    },
+    "title": "Star Wars The Force Awakens - Limited Edition Dark Side Sleeve",
+    "set": {
+      "main_title": "Star Wars The Force Awakens - Limited Edition Dark Side Sleeve"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4450aa2e81f18126756"
+    },
+    "title": "Star Wars Episode Viii: Last Jedi",
+    "set": {
+      "main_title": "Star Wars Episode Viii: Last Jedi"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f44c0aa2e81f18126757"
+    },
+    "title": "Blade Runner - The Final Cut",
+    "set": {
+      "main_title": "Blade Runner - The Final Cut"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f49e0aa2e81f18126758"
+    },
+    "title": "Dawn of the Planet of the Apes [Blu-ray UV Copy]",
+    "set": {
+      "main_title": "Dawn of the Planet of the Apes",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4a10aa2e81f18126759"
+    },
+    "title": "Rise Of The Planet Of The Apes",
+    "set": {
+      "main_title": "Rise Of The Planet Of The Apes"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4b10aa2e81f1812675a"
+    },
+    "title": "War of the Worlds (Remake)",
+    "set": {
+      "main_title": "War of the Worlds"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4b30aa2e81f1812675b"
+    },
+    "title": "Planet Of The Apes",
+    "set": {
+      "main_title": "Planet Of The Apes"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4bb0aa2e81f1812675c"
+    },
+    "title": "John Wick (Blu-ray) (Import)",
+    "set": {
+      "main_title": "John Wick",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4c00aa2e81f1812675d"
+    },
+    "title": "Elevation Sales LIB96064",
+    "set": {
+      "main_title": "Elevation Sales LIB96064"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4f80aa2e81f1812675e"
+    },
+    "title": "Terminator Salvation",
+    "set": {
+      "main_title": "Terminator Salvation"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f5060aa2e81f1812675f"
+    },
+    "title": "Total Recall (2012) - Movie",
+    "set": {
+      "main_title": "Total Recall - Movie",
+      "year": 2012
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f5090aa2e81f18126760"
+    },
+    "title": "Mechanic 2: Resurrection",
+    "set": {
+      "main_title": "Mechanic 2: Resurrection"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f5a80aa2e81f18126761"
+    },
+    "title": "Elysium (Blu-ray UV Copy)",
+    "set": {
+      "main_title": "Elysium",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f5b70aa2e81f18126762"
+    },
+    "title": "Beyond Skyline",
+    "set": {
+      "main_title": "Beyond Skyline"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f5bd0aa2e81f18126763"
+    },
+    "title": "Lucy",
+    "set": {
+      "main_title": "Lucy"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f5ce0aa2e81f18126764"
+    },
+    "title": "Disney Lone Ranger",
+    "set": {
+      "main_title": "Disney Lone Ranger"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f5e40aa2e81f18126766"
+    },
+    "title": "Contagion",
+    "set": {
+      "main_title": "Contagion"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f5ec0aa2e81f18126767"
+    },
+    "title": "Warner Home Video A.I. Artificial Intelligence",
+    "set": {
+      "main_title": "Warner Home Video A.I. Artificial Intelligence"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f60e0aa2e81f18126768"
+    },
+    "title": "I Am Legend (Blu-ray) (Import)",
+    "set": {
+      "main_title": "I Am Legend",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f62e0aa2e81f18126769"
+    },
+    "title": "Maze Runner: The Scorch Trials",
+    "set": {
+      "main_title": "Maze Runner: The Scorch Trials"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f6360aa2e81f1812676a"
+    },
+    "title": "The Legend Of Tarzan (Blu-ray) (Import)",
+    "set": {
+      "main_title": "The Legend Of Tarzan",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f63c0aa2e81f1812676b"
+    },
+    "title": "Divergent",
+    "set": {
+      "main_title": "Divergent"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f6560aa2e81f1812676c"
+    },
+    "title": "Lions Gate Ninth",
+    "set": {
+      "main_title": "Lions Gate Ninth"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67845158e4085b038c32ce1d"
+    },
+    "title": "Boys From Brazil",
+    "set": {
+      "main_title": "Boys From Brazil"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67845161e4085b038c32ce1e"
+    },
+    "title": "Sony The Seventh Sign",
+    "set": {
+      "main_title": "Sony The Seventh Sign"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67845170e4085b038c32ce1f"
+    },
+    "title": "Galaxy Quest (D)",
+    "set": {
+      "main_title": "Galaxy Quest"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6784517ce4085b038c32ce20"
+    },
+    "title": "Star Trek 1-10 - Remastered Box Set",
+    "set": {
+      "main_title": "Star Trek 1-10 - Remastered Box Set"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67845186e4085b038c32ce21"
+    },
+    "title": "Let The Right One In (Blu-Ray)",
+    "set": {
+      "main_title": "Let The Right One In",
+      "format": "BLURAY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67845188e4085b038c32ce22"
+    },
+    "title": "Dark Star",
+    "set": {
+      "main_title": "Dark Star"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67845194e4085b038c32ce23"
+    },
+    "title": "Warner Bros IT",
+    "set": {
+      "main_title": "Warner Bros IT"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67845198e4085b038c32ce24"
+    },
+    "title": "Warner Bros IT Chapter Two",
+    "set": {
+      "main_title": "Warner Bros IT Chapter Two"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "678451a8e4085b038c32ce25"
+    },
+    "title": "Warcraft: The Beginning",
+    "set": {
+      "main_title": "Warcraft: The Beginning"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "679d344fc168ce155c963bf5"
+    },
+    "title": "X-men: Dark Phoenix",
+    "set": {
+      "main_title": "X-men: Dark Phoenix"
+    }
+  }
+]

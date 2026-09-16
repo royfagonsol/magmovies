@@ -48,6 +48,7 @@ export default function DVDHome() {
   const [barcodeInput, setBarcodeInput] = useState("");
   const [lookupBusy, setLookupBusy] = useState(false);
   const [pasteBusy, setPasteBusy] = useState(false);
+  const [mainTitleLinked, setMainTitleLinked] = useState(true);
 
   useEffect(() => {
     dispatch(fetchDiscs());
@@ -76,10 +77,14 @@ export default function DVDHome() {
     return Array.from(map.entries()).sort(([a], [b]) => a.localeCompare(b));
   }, [visibleDiscs]);
 
-  const startEdit = (disc: IDisc) =>
-    setEditing({ ...disc, mainTitle: disc.mainTitle.trim() || disc.title });
+  const startEdit = (disc: IDisc) => {
+    const mainTitle = disc.mainTitle.trim() || disc.title;
+    setMainTitleLinked(mainTitle === disc.title);
+    setEditing({ ...disc, mainTitle });
+  };
   const startCreate = () => {
     setBarcodeInput("");
+    setMainTitleLinked(true);
     setCreating({ ...emptyDraft });
   };
 
@@ -89,6 +94,8 @@ export default function DVDHome() {
     try {
       const result = await dispatch(lookupCoverByBarcode(barcode.trim())).unwrap();
       if (target === "editing" && editing) {
+        const appliedSuggestion = !editing.mainTitle && !!result.suggestedMainTitle;
+        if (appliedSuggestion) setMainTitleLinked(false);
         setEditing({
           ...editing,
           barcode: barcode.trim(),
@@ -98,6 +105,8 @@ export default function DVDHome() {
         });
       }
       if (target === "creating" && creating) {
+        const appliedSuggestion = !creating.mainTitle && !!result.suggestedMainTitle;
+        if (appliedSuggestion) setMainTitleLinked(false);
         setCreating({
           ...creating,
           barcode: barcode.trim(),
@@ -298,11 +307,16 @@ export default function DVDHome() {
               Raw title (as printed on the case)
               <input
                 value={editing ? editing.title : creating?.title ?? ""}
-                onChange={(event) =>
+                onChange={(event) => {
+                  const value = event.target.value;
                   editing
-                    ? setEditing({ ...editing, title: event.target.value })
-                    : setCreating({ ...(creating as NewDisc), title: event.target.value })
-                }
+                    ? setEditing({ ...editing, title: value, mainTitle: mainTitleLinked ? value : editing.mainTitle })
+                    : setCreating({
+                        ...(creating as NewDisc),
+                        title: value,
+                        mainTitle: mainTitleLinked ? value : creating?.mainTitle ?? "",
+                      });
+                }}
                 placeholder='e.g. "The Matrix (Keanu Reeves, Laurence Fishburne) [Blu-ray]"'
               />
             </label>
@@ -311,11 +325,13 @@ export default function DVDHome() {
               Main title (cleaned, no cast or format)
               <input
                 value={editing ? editing.mainTitle : creating?.mainTitle ?? ""}
-                onChange={(event) =>
+                onChange={(event) => {
+                  setMainTitleLinked(false);
+                  const value = event.target.value;
                   editing
-                    ? setEditing({ ...editing, mainTitle: event.target.value })
-                    : setCreating({ ...(creating as NewDisc), mainTitle: event.target.value })
-                }
+                    ? setEditing({ ...editing, mainTitle: value })
+                    : setCreating({ ...(creating as NewDisc), mainTitle: value });
+                }}
                 placeholder="e.g. The Matrix"
               />
             </label>

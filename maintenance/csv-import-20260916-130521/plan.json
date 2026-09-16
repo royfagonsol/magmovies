@@ -1,0 +1,6138 @@
+[
+  {
+    "_id": {
+      "$oid": "5ee109017f2fa81788c3ea91"
+    },
+    "set": {
+      "title": "300",
+      "main_title": "300",
+      "category": "FANTASY / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10d9e7f2fa81788c3eafe"
+    },
+    "set": {
+      "title": "2012",
+      "main_title": "2012",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107097f2fa81788c3ea4b"
+    },
+    "set": {
+      "title": "2 Fast 2 Furious",
+      "main_title": "2 Fast 2 Furious",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109987f2fa81788c3eaa6"
+    },
+    "set": {
+      "title": "2001: A Space Odyssey",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109977f2fa81788c3eaa5"
+    },
+    "set": {
+      "title": "2010: The Year We Make Contact ",
+      "main_title": "2010: The Year We Make Contact ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fa77f2fa81788c3eb2c"
+    },
+    "set": {
+      "title": "2010: The Year We Make Contact ",
+      "main_title": "2010: The Year We Make Contact ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc9577f2faa1018068911"
+    },
+    "set": {
+      "title": "24 - Redemption",
+      "main_title": "24 - Redemption",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc95e7f2faa1018068912"
+    },
+    "set": {
+      "title": "24 Season 2",
+      "main_title": "24 Season 2",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc9657f2faa1018068913"
+    },
+    "set": {
+      "title": "24 Season 3",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc9787f2faa1018068914"
+    },
+    "set": {
+      "title": "24 Season 4",
+      "main_title": "24 Season 4",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc9827f2faa1018068915"
+    },
+    "set": {
+      "title": "24 Season 5",
+      "main_title": "24 Season 5",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc9887f2faa1018068916"
+    },
+    "set": {
+      "title": "24 Season 6",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc98d7f2faa1018068917"
+    },
+    "set": {
+      "title": "24 Season 7",
+      "main_title": "24 Season 7",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc9937f2faa1018068918"
+    },
+    "set": {
+      "title": "24 The Final Season",
+      "main_title": "24 The Final Season",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107e47f2fa81788c3ea65"
+    },
+    "set": {
+      "title": "A.I. Artificial Intelligence",
+      "main_title": "A.I. Artificial Intelligence",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f5ec0aa2e81f18126767"
+    },
+    "set": {
+      "title": "A.I. Artificial Intelligence",
+      "main_title": "A.I. Artificial Intelligence",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1357f2fab10183138c9"
+    },
+    "set": {
+      "title": "About A Boy",
+      "main_title": "About A Boy",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c2d7f2fa81788c3eaf4"
+    },
+    "set": {
+      "title": "Abraham Lincoln ",
+      "main_title": "Abraham Lincoln ",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8637f2faa1018068907"
+    },
+    "set": {
+      "title": "Absolutely Fabulous",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108fb7f2fa81788c3ea8f"
+    },
+    "set": {
+      "title": "After Earth",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106157f2fa81788c3ea27"
+    },
+    "set": {
+      "title": "Air Force One",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8697f2faa1018068908"
+    },
+    "set": {
+      "title": "Airplane",
+      "main_title": "Airplane",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc90d7f2faa101806890d"
+    },
+    "set": {
+      "title": "Alfred Hitchcock - The Masterpiece Collection",
+      "main_title": "Alfred Hitchcock - The Masterpiece Collection",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109907f2fa81788c3eaa3"
+    },
+    "set": {
+      "title": "Alien Anthology",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b757f2fa81788c3eae6"
+    },
+    "set": {
+      "title": "Alien Covenant",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10da87f2fa81788c3eb02"
+    },
+    "set": {
+      "title": "Alien Vs Predator",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f2bc0aa2e81f1812674b"
+    },
+    "set": {
+      "title": "Alien: Covenant",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10af57f2fa81788c3eac3"
+    },
+    "set": {
+      "title": "Amazing Spider-man 2",
+      "main_title": "Amazing Spider-man 2",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc567f2fab1018313851"
+    },
+    "set": {
+      "title": "American Dad Season",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd7e7f2fab1018313871"
+    },
+    "set": {
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd467f2fab1018313867"
+    },
+    "set": {
+      "title": "Andrew Lloyd Webber - Cats",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd427f2fab1018313866"
+    },
+    "set": {
+      "title": "Andrew Lloyd Webber: The Royal Albert Hall Celebration",
+      "main_title": "Andrew Lloyd Webber: The Royal Albert Hall Celebration",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcce27f2fab101831385e"
+    },
+    "set": {
+      "title": "Annie & Oliver ",
+      "main_title": "Annie & Oliver ",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccd97f2fab101831385d"
+    },
+    "set": {
+      "title": "Annie Get Your Gun",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107237f2fa81788c3ea52"
+    },
+    "set": {
+      "title": "Antitrust ",
+      "main_title": "Antitrust ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a9f7f2fa81788c3eab4"
+    },
+    "set": {
+      "title": "Ant-man",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a9c7f2fa81788c3eab3"
+    },
+    "set": {
+      "title": "Ant-man And The Wasp",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b607f2fa81788c3eae2"
+    },
+    "set": {
+      "title": "Aquaman",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f2310aa2e81f18126746"
+    },
+    "set": {
+      "title": "Aquaman",
+      "main_title": "Aquaman",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f07c0aa2e81f1812673c"
+    },
+    "set": {
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fe47f2fa81788c3eb37"
+    },
+    "set": {
+      "title": "Armageddon",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b7d7f2fa81788c3eaea"
+    },
+    "set": {
+      "title": "Arrival",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0617f2fab10183138af"
+    },
+    "set": {
+      "title": "Australia ",
+      "main_title": "Australia ",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10da07f2fa81788c3eaff"
+    },
+    "set": {
+      "title": "Avatar: Collector's Exten",
+      "main_title": "Avatar",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b197f2fa81788c3eace"
+    },
+    "set": {
+      "title": "Avengers Age Of Ultron",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b167f2fa81788c3eacd"
+    },
+    "set": {
+      "title": "Avengers Assemble ",
+      "main_title": "Avengers Assemble ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b4b7f2fa81788c3eadb"
+    },
+    "set": {
+      "title": "Avengers: Infinity War",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10d9c7f2fa81788c3eafd"
+    },
+    "set": {
+      "title": "Back To The Future Trilogy",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd977f2fab1018313872"
+    },
+    "set": {
+      "title": "Bad Santa",
+      "main_title": "Bad Santa",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10afd7f2fa81788c3eac5"
+    },
+    "set": {
+      "title": "Batman Begins",
+      "main_title": "Batman Begins",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1080f7f2fa81788c3ea6c"
+    },
+    "set": {
+      "title": "Battle Los Angeles",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104767f2fa81788c3e9f3"
+    },
+    "set": {
+      "title": "Battlestar Galactica",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104797f2fa81788c3e9f4"
+    },
+    "set": {
+      "title": "Battlestar Galactica Season One",
+      "main_title": "Battlestar Galactica Season One",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1047f2fab10183138bd"
+    },
+    "set": {
+      "title": "Beaches",
+      "main_title": "Beaches",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8357f2faa1018068900"
+    },
+    "set": {
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce937f2fab1018313885"
+    },
+    "set": {
+      "title": "Beetlejuice",
+      "main_title": "Beetlejuice",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108147f2fa81788c3ea6f"
+    },
+    "set": {
+      "title": "Beyond Skyline",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f5b70aa2e81f18126762"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108917f2fa81788c3ea83"
+    },
+    "set": {
+      "title": "Bicentennial Man",
+      "main_title": "Bicentennial Man",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8597f2faa1018068905"
+    },
+    "set": {
+      "title": "Billy Connolly High",
+      "main_title": "Billy Connolly High",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105117f2fa81788c3ea0b"
+    },
+    "set": {
+      "title": "Black Books 2",
+      "main_title": "Black Books 2",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105167f2fa81788c3ea0d"
+    },
+    "set": {
+      "title": "Black Books Series 1",
+      "main_title": "Black Books Series 1",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105137f2fa81788c3ea0c"
+    },
+    "set": {
+      "title": "Black Books: Series 1-3 ",
+      "main_title": "Black Books: Series 1-3 ",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b3e7f2fa81788c3ead5"
+    },
+    "set": {
+      "title": "Black Panther",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc80c7f2faa10180688fb"
+    },
+    "set": {
+      "title": "Black Swan ",
+      "main_title": "Black Swan ",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f0b20aa2e81f18126740"
+    },
+    "set": {
+      "title": "Black Widow",
+      "main_title": "Black Widow",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106417f2fa81788c3ea2b"
+    },
+    "set": {
+      "title": "Blade",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a677f2fa81788c3eaaf"
+    },
+    "set": {
+      "title": "Blade Runner ",
+      "main_title": "Blade Runner ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f44c0aa2e81f18126757"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a647f2fa81788c3eaae"
+    },
+    "set": {
+      "title": "Blade Runner 2049",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd707f2fab101831386e"
+    },
+    "set": {
+      "title": "Blues Brothers",
+      "main_title": "Blues Brothers",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1fc7f2fab10183138e5"
+    },
+    "set": {
+      "title": "Bodyguard ",
+      "main_title": "Bodyguard ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7cc7f2faa10180688f4"
+    },
+    "set": {
+      "title": "Bourne Supremacy",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67845158e4085b038c32ce1d"
+    },
+    "set": {
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce877f2fab1018313883"
+    },
+    "set": {
+      "title": "Brave",
+      "category": "ANIMATION / FANATASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0aa7f2fab10183138ba"
+    },
+    "set": {
+      "title": "Bridesmaids",
+      "main_title": "Bridesmaids",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1197f2fab10183138c2"
+    },
+    "set": {
+      "title": "Bridget Jones The Edge Of Reason",
+      "main_title": "Bridget Jones The Edge Of Reason",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd13c7f2fab10183138cb"
+    },
+    "set": {
+      "title": "Bridget Jones's Diary ",
+      "main_title": "Bridget Jones's Diary ",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf157f2fab1018313897"
+    },
+    "set": {
+      "title": "Bruce Almighty",
+      "main_title": "Bruce Almighty",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce787f2fab1018313880"
+    },
+    "set": {
+      "title": "Bug's Life",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1cc7f2fab10183138db"
+    },
+    "set": {
+      "title": "Calendar Girls",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b067f2fa81788c3eac8"
+    },
+    "set": {
+      "title": "Captain America: Civil War",
+      "main_title": "Captain America: Civil War",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b0a7f2fa81788c3eac9"
+    },
+    "set": {
+      "title": "Captain America: The First Avenger",
+      "main_title": "Captain America: The First Avenger",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b0e7f2fa81788c3eaca"
+    },
+    "set": {
+      "title": "Captain America: The First Avenger",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10aab7f2fa81788c3eab7"
+    },
+    "set": {
+      "title": "Captain Marvel",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcb797f2fab101831383e"
+    },
+    "set": {
+      "title": "Carnivale Season 1",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104bf7f2fa81788c3ea08"
+    },
+    "set": {
+      "title": "Casino Royale",
+      "main_title": "Casino Royale",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110737f2fa81788c3eb4c"
+    },
+    "set": {
+      "title": "Cathy Come Home",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106e27f2fa81788c3ea40"
+    },
+    "set": {
+      "title": "Cats And Dogs",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108a87f2fa81788c3ea88"
+    },
+    "set": {
+      "title": "Cat's Eye/silver Bul",
+      "main_title": "Cat's Eye/silver Bullet",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8077f2faa10180688fa"
+    },
+    "set": {
+      "title": "Che Parts One And Two",
+      "main_title": "Che Parts One And Two",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10e8f7f2fa81788c3eb11"
+    },
+    "set": {
+      "title": "Chonicles Of Narnia",
+      "main_title": "Chonicles Of Narnia",
+      "category": "ADVENTURE / FANTASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce427f2fab1018313879"
+    },
+    "set": {
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce3b7f2fab1018313878"
+    },
+    "set": {
+      "title": "Chris Rock: Bigger & Blacker",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1106f7f2fa81788c3eb4b"
+    },
+    "set": {
+      "title": "Clerks",
+      "main_title": "Clerks",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110957f2fa81788c3eb4f"
+    },
+    "set": {
+      "title": "Clerks 2 ",
+      "main_title": "Clerks 2 ",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106177f2fa81788c3ea28"
+    },
+    "set": {
+      "title": "Clint Eastwood Collection",
+      "main_title": "Clint Eastwood Collection",
+      "category": "WESTERN"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10db27f2fa81788c3eb06"
+    },
+    "set": {
+      "title": "Close Encounters Of The Third Kind",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcda87f2fab1018313875"
+    },
+    "set": {
+      "title": "Cloud Atlas",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106857f2fa81788c3ea35"
+    },
+    "set": {
+      "title": "Cloverfield",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107187f2fa81788c3ea4f"
+    },
+    "set": {
+      "title": "Collateral",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f1b07e77f2fa81d6803d933"
+    },
+    "set": {
+      "title": "Colossus - The Forbin Project ",
+      "main_title": "Colossus - The Forbin Project ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c317f2fa81788c3eaf6"
+    },
+    "set": {
+      "title": "Con Air",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109167f2fa81788c3ea94"
+    },
+    "set": {
+      "title": "Constantine",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fc67f2fa81788c3eb32"
+    },
+    "set": {
+      "title": "Contact",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f5e40aa2e81f18126766"
+    },
+    "set": {
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1080c7f2fa81788c3ea6b"
+    },
+    "set": {
+      "title": "Contagion ",
+      "main_title": "Contagion ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ecc7f2fa81788c3eb1f"
+    },
+    "set": {
+      "title": "Cowboys & Aliens",
+      "main_title": "Cowboys & Aliens",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1b37f2fab10183138d7"
+    },
+    "set": {
+      "title": "Cranford: The Complete Series 2",
+      "main_title": "Cranford: The Complete Series 2",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ead7f2fa81788c3eb13"
+    },
+    "set": {
+      "title": "Crouching Tiger Hidden Dragon",
+      "main_title": "Crouching Tiger Hidden Dragon",
+      "category": "ADVENTURE / FANTASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8d27f2faa101806890c"
+    },
+    "set": {
+      "title": "Dance Flick",
+      "main_title": "Dance Flick",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1107f2fab10183138c0"
+    },
+    "set": {
+      "title": "Danielle Steel's Fine Things ",
+      "main_title": "Danielle Steel's Fine Things ",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd10c7f2fab10183138bf"
+    },
+    "set": {
+      "title": "Danielle Steel's Full Circle",
+      "main_title": "Danielle Steel's Full Circle",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd11f7f2fab10183138c3"
+    },
+    "set": {
+      "title": "Danielle Steel's Message From Nam",
+      "main_title": "Danielle Steel's Message From Nam",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0957f2fab10183138b5"
+    },
+    "set": {
+      "title": "Danielle Steel's Once In A Lifetime",
+      "main_title": "Danielle Steel's Once In A Lifetime",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107807f2fa81788c3ea55"
+    },
+    "set": {
+      "title": "Dante's Peak",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ada7f2fa81788c3eabc"
+    },
+    "set": {
+      "title": "Daredevil ",
+      "main_title": "Daredevil ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10e6d7f2fa81788c3eb10"
+    },
+    "set": {
+      "title": "Dark City",
+      "main_title": "Dark City",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10afc7f2fa81788c3eac4"
+    },
+    "set": {
+      "title": "Dark Knight Rises",
+      "main_title": "Dark Knight Rises",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1105a7f2fa81788c3eb44"
+    },
+    "set": {
+      "title": "Dark Star",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67845188e4085b038c32ce22"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b737f2fa81788c3eae5"
+    },
+    "set": {
+      "title": "Dawn Of The Planet Of The Apes",
+      "main_title": "Dawn Of The Planet Of The Apes",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f49e0aa2e81f18126758"
+    },
+    "set": {
+      "title": "Dawn Of The Planet Of The Apes",
+      "main_title": "Dawn Of The Planet Of The Apes",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b017f2fa81788c3eac6"
+    },
+    "set": {
+      "title": "Deadpool",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f21a0aa2e81f18126745"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b047f2fa81788c3eac7"
+    },
+    "set": {
+      "title": "Deadpool 2",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1066f7f2fa81788c3ea2f"
+    },
+    "set": {
+      "title": "Death Wish",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108067f2fa81788c3ea69"
+    },
+    "set": {
+      "title": "Deep Impact ",
+      "main_title": "Deep Impact ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd12a7f2fab10183138c6"
+    },
+    "set": {
+      "title": "Definitely Maybe",
+      "main_title": "Definitely Maybe",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1097f7f2fa81788c3ea9e"
+    },
+    "set": {
+      "title": "Demon Seed ",
+      "main_title": "Demon Seed ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8177f2faa10180688fd"
+    },
+    "set": {
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc92c7f2faa101806890e"
+    },
+    "set": {
+      "title": "Dexter - Seasons 1-5",
+      "main_title": "Dexter - Seasons 1-5",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783d3dc7eb1792d8471a211"
+    },
+    "set": {
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1049c7f2fa81788c3e9fc"
+    },
+    "set": {
+      "title": "Diamonds Are Forever",
+      "main_title": "Diamonds Are Forever",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1048c7f2fa81788c3e9f5"
+    },
+    "set": {
+      "title": "Die Another Day ",
+      "main_title": "Die Another Day ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0687f2fab10183138b1"
+    },
+    "set": {
+      "title": "Dirty Dancing",
+      "main_title": "Dirty Dancing",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f63c0aa2e81f1812676b"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107937f2fa81788c3ea5b"
+    },
+    "set": {
+      "title": "Django Unchained",
+      "main_title": "Django Unchained",
+      "category": "WESTERN"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcbad7f2fab1018313843"
+    },
+    "set": {
+      "title": "Doctor Who - The Complete Series 2",
+      "main_title": "Doctor Who - The Complete Series 2",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0917f2fab10183138b4"
+    },
+    "set": {
+      "title": "Doctor Zhivago",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf3c7f2fab101831389e"
+    },
+    "set": {
+      "title": "Dogma",
+      "main_title": "Dogma",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f3b7f2fa81788c3eb22"
+    },
+    "set": {
+      "title": "Donnie Darko",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc85f7f2faa1018068906"
+    },
+    "set": {
+      "title": "Don't Be A Menace To",
+      "main_title": "Don't Be A Menace To",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1048f7f2fa81788c3e9f6"
+    },
+    "set": {
+      "title": "Dr. No ",
+      "main_title": "Dr. No ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcb887f2fab1018313840"
+    },
+    "set": {
+      "title": "Dream On: Seasons 1 & 2",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1f97f2fab10183138e4"
+    },
+    "set": {
+      "title": "Duchess ",
+      "main_title": "Duchess ",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108267f2fa81788c3ea74"
+    },
+    "set": {
+      "title": "Dune",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106727f2fa81788c3ea30"
+    },
+    "set": {
+      "title": "Dunkirk",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce687f2fab101831387d"
+    },
+    "set": {
+      "title": "Dylan Moran - The Live Collection",
+      "main_title": "Dylan Moran - The Live Collection",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7927f2faa10180688ee"
+    },
+    "set": {
+      "title": "Eat Pray Love",
+      "main_title": "Eat Pray Love",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce557f2fab101831387b"
+    },
+    "set": {
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108f97f2fa81788c3ea8e"
+    },
+    "set": {
+      "title": "Edge Of Tomorrow",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10adc7f2fa81788c3eabd"
+    },
+    "set": {
+      "title": "Elektra",
+      "main_title": "Elektra",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1081b7f2fa81788c3ea71"
+    },
+    "set": {
+      "title": "Elysium",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f5a80aa2e81f18126761"
+    },
+    "set": {
+      "title": "Elysium",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ed050aa2e81f18126732"
+    },
+    "set": {
+      "title": "Eternals",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcfed7f2fab10183138ac"
+    },
+    "set": {
+      "title": "Evita",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106fc7f2fa81788c3ea48"
+    },
+    "set": {
+      "title": "Face/off",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcbd17f2fab1018313846"
+    },
+    "set": {
+      "title": "Family At War: Complete Set ",
+      "main_title": "Family At War: Complete Set ",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8817f2faa101806890b"
+    },
+    "set": {
+      "title": "Family Guy",
+      "main_title": "Family Guy",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc6d7f2fab1018313854"
+    },
+    "set": {
+      "title": "Family Guy ",
+      "main_title": "Family Guy ",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105657f2fa81788c3ea1d"
+    },
+    "set": {
+      "title": "Family Guy - Happy Freakin' Christmas",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1055e7f2fa81788c3ea1c"
+    },
+    "set": {
+      "title": "Family Guy - Season 3 ",
+      "main_title": "Family Guy - Season 3 ",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105557f2fa81788c3ea1a"
+    },
+    "set": {
+      "title": "Family Guy - Season 4",
+      "main_title": "Family Guy - Season 4",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105597f2fa81788c3ea1b"
+    },
+    "set": {
+      "title": "Family Guy - Season 8",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1056e7f2fa81788c3ea1f"
+    },
+    "set": {
+      "title": "Family Guy Season 2",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105517f2fa81788c3ea19"
+    },
+    "set": {
+      "title": "Family Guy Season Five",
+      "main_title": "Family Guy Season Five",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105697f2fa81788c3ea1e"
+    },
+    "set": {
+      "title": "Family Guy Season One",
+      "main_title": "Family Guy Season One",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ad67f2fa81788c3eaba"
+    },
+    "set": {
+      "title": "Fantastic 4 ",
+      "main_title": "Fantastic 4 ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ad87f2fa81788c3eabb"
+    },
+    "set": {
+      "title": "Fantastic 4 : Rise Of The Silver Surfer",
+      "main_title": "Fantastic 4 : Rise Of The Silver Surfer",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc81b7f2faa10180688fe"
+    },
+    "set": {
+      "title": "Fantastic Beasts And Where To Find Them",
+      "main_title": "Fantastic Beasts And Where To Find Them",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0a17f2fab10183138b8"
+    },
+    "set": {
+      "title": "Far And Away ",
+      "main_title": "Far And Away ",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcbb37f2fab1018313844"
+    },
+    "set": {
+      "title": "Farscape ",
+      "main_title": "Farscape ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcbed7f2fab1018313848"
+    },
+    "set": {
+      "title": "Farscape 3.1",
+      "main_title": "Farscape 3.1",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcbf37f2fab1018313849"
+    },
+    "set": {
+      "title": "Farscape 3.2",
+      "main_title": "Farscape 3.2",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcbf87f2fab101831384a"
+    },
+    "set": {
+      "title": "Farscape 3.3",
+      "main_title": "Farscape 3.3",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc017f2fab101831384b"
+    },
+    "set": {
+      "title": "Farscape 3.4",
+      "main_title": "Farscape 3.4",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc0a7f2fab101831384c"
+    },
+    "set": {
+      "title": "Farscape 3.5",
+      "main_title": "Farscape 3.5",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc127f2fab101831384d"
+    },
+    "set": {
+      "title": "Farscape 4.1 ",
+      "main_title": "Farscape 4.1 ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc1f7f2fab101831384e"
+    },
+    "set": {
+      "title": "Farscape 4.2 ",
+      "main_title": "Farscape 4.2 ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc247f2fab101831384f"
+    },
+    "set": {
+      "title": "Farscape 4.3 ",
+      "main_title": "Farscape 4.3 ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc2a7f2fab1018313850"
+    },
+    "set": {
+      "title": "Farscape 4.4 ",
+      "main_title": "Farscape 4.4 ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcbe57f2fab1018313847"
+    },
+    "set": {
+      "title": "Farscape: The Peacekeeper Wars",
+      "main_title": "Farscape: The Peacekeeper Wars",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f6700aa2e81f1812676f"
+    },
+    "set": {
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108b17f2fa81788c3ea8b"
+    },
+    "set": {
+      "title": "Fast And Furious 8 ",
+      "main_title": "Fast And Furious 8 ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108ac7f2fa81788c3ea89"
+    },
+    "set": {
+      "title": "Fast Furious 7",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd327f2fab1018313863"
+    },
+    "set": {
+      "title": "Father Ted - Series 3",
+      "main_title": "Father Ted - Series 3",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c207f2fa81788c3eaef"
+    },
+    "set": {
+      "title": "Final Fantasy: The Spirits Within",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106cf7f2fa81788c3ea3b"
+    },
+    "set": {
+      "title": "Finding Nemo",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcb8e7f2fab1018313841"
+    },
+    "set": {
+      "title": "Firefly, The Complete Series",
+      "main_title": "Firefly, The Complete Series",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10db97f2fa81788c3eb09"
+    },
+    "set": {
+      "title": "Firefly: Complete Series",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd777f2fab1018313870"
+    },
+    "set": {
+      "title": "Fool's Gold",
+      "main_title": "Fool's Gold",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104a97f2fa81788c3ea01"
+    },
+    "set": {
+      "title": "For Your Eyes Only",
+      "main_title": "For Your Eyes Only",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1887f2fab10183138ce"
+    },
+    "set": {
+      "title": "Forrest Gump",
+      "main_title": "Forrest Gump",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105307f2fa81788c3ea16"
+    },
+    "set": {
+      "title": "Friends: Series 7 - Ep 17-20",
+      "main_title": "Friends: Series 7 - Ep 17-20",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105187f2fa81788c3ea0e"
+    },
+    "set": {
+      "title": "Friends: Series 7 - Episodes 13-16",
+      "main_title": "Friends: Series 7 - Episodes 13-16",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105287f2fa81788c3ea13"
+    },
+    "set": {
+      "title": "Friends: Series 7 - Episodes 21-23 ",
+      "main_title": "Friends: Series 7 - Episodes 21-23 ",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1052c7f2fa81788c3ea15"
+    },
+    "set": {
+      "title": "Friends: Series 7 - Episodes 9-12",
+      "main_title": "Friends: Series 7 - Episodes 9-12",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1052a7f2fa81788c3ea14"
+    },
+    "set": {
+      "title": "Friends: Series 8 - Ep 17-20",
+      "main_title": "Friends: Series 8 - Ep 17-20",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1051c7f2fa81788c3ea0f"
+    },
+    "set": {
+      "title": "Friends: Series 8 - Episodes 13-16 ",
+      "main_title": "Friends: Series 8 - Episodes 13-16 ",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105207f2fa81788c3ea10"
+    },
+    "set": {
+      "title": "Friends: Series 8 - Episodes 1-4 ",
+      "main_title": "Friends: Series 8 - Episodes 1-4 ",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105247f2fa81788c3ea12"
+    },
+    "set": {
+      "title": "Friends: Series 8 - Episodes 21-23",
+      "main_title": "Friends: Series 8 - Episodes 21-23",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105227f2fa81788c3ea11"
+    },
+    "set": {
+      "title": "Friends: Series 8 - Episodes 5-8",
+      "main_title": "Friends: Series 8 - Episodes 5-8",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104917f2fa81788c3e9f7"
+    },
+    "set": {
+      "title": "From Russia With Love",
+      "main_title": "From Russia With Love",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0657f2fab10183138b0"
+    },
+    "set": {
+      "title": "Funny Girl ",
+      "main_title": "Funny Girl ",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee105467f2fa81788c3ea17"
+    },
+    "set": {
+      "title": "Futurama: Season 3",
+      "main_title": "Futurama: Season 3",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1054c7f2fa81788c3ea18"
+    },
+    "set": {
+      "title": "Futurama: Season 4",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcef17f2fab1018313890"
+    },
+    "set": {
+      "title": "Galaxy Quest",
+      "main_title": "Galaxy Quest",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67845170e4085b038c32ce1f"
+    },
+    "set": {
+      "title": "Galaxy Quest",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106e77f2fa81788c3ea42"
+    },
+    "set": {
+      "title": "Garfield - The Movie",
+      "main_title": "Garfield - The Movie",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ec37f2fa81788c3eb1b"
+    },
+    "set": {
+      "title": "Geostorm",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd05b7f2fab10183138ad"
+    },
+    "set": {
+      "title": "Ghost ",
+      "main_title": "Ghost",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ade7f2fa81788c3eabe"
+    },
+    "set": {
+      "title": "Ghost Rider",
+      "main_title": "Ghost Rider",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd217f2fab1018313861"
+    },
+    "set": {
+      "title": "Ghost Town",
+      "main_title": "Ghost Town",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0997f2fab10183138b6"
+    },
+    "set": {
+      "title": "Ghosts Of Girlfriend",
+      "main_title": "Ghosts Of Girlfriend",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106087f2fa81788c3ea23"
+    },
+    "set": {
+      "title": "Gladiator ",
+      "main_title": "Gladiator ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10faf7f2fa81788c3eb2d"
+    },
+    "set": {
+      "title": "Go",
+      "main_title": "Go",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f11c8537f2fa822508b8358"
+    },
+    "set": {
+      "title": "Godfather Trilogy ",
+      "main_title": "Godfather Trilogy ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108ff7f2fa81788c3ea90"
+    },
+    "set": {
+      "title": "Godzilla",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1105f7f2fa81788c3eb46"
+    },
+    "set": {
+      "title": "Godzilla - King Of The Monsters",
+      "main_title": "Godzilla - King Of The Monsters",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f2af0aa2e81f1812674a"
+    },
+    "set": {
+      "title": "Godzilla vs. Kong",
+      "main_title": "Godzilla vs. Kong",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f807f2fa81788c3eb28"
+    },
+    "set": {
+      "title": "Godzilla, movies",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f2ac0aa2e81f18126749"
+    },
+    "set": {
+      "title": "Godzilla: King of the Monsters",
+      "main_title": "Godzilla: King of the Monsters",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104b67f2fa81788c3ea05"
+    },
+    "set": {
+      "title": "Goldeneye",
+      "main_title": "Goldeneye",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104937f2fa81788c3e9f8"
+    },
+    "set": {
+      "title": "Goldfinger",
+      "main_title": "Goldfinger",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1cf7f2fab10183138dc"
+    },
+    "set": {
+      "title": "Gone With The Wind",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1067d7f2fa81788c3ea33"
+    },
+    "set": {
+      "title": "Goonies",
+      "category": "ADVENTURE / FANTASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf417f2fab101831389f"
+    },
+    "set": {
+      "title": "Great Gatsby",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7787f2faa10180688ea"
+    },
+    "set": {
+      "title": "Greatest Showman",
+      "main_title": "Greatest Showman",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f32f0aa2e81f1812674c"
+    },
+    "set": {
+      "title": "Greatest Showman",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcedf7f2fab101831388f"
+    },
+    "set": {
+      "title": "Groundhog Day ",
+      "main_title": "Groundhog Day ",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1987f2fab10183138d3"
+    },
+    "set": {
+      "title": "Grumpy Old Women",
+      "main_title": "Grumpy Old Women",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1ad7f2fab10183138d5"
+    },
+    "set": {
+      "title": "Grumpy Old Women - Series 1",
+      "main_title": "Grumpy Old Women - Series 1",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b427f2fa81788c3ead7"
+    },
+    "set": {
+      "title": "Guardians Of The Galaxy ",
+      "main_title": "Guardians Of The Galaxy ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b447f2fa81788c3ead8"
+    },
+    "set": {
+      "title": "Guardians Of The Galaxy ",
+      "main_title": "Guardians Of The Galaxy ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1085c7f2fa81788c3ea7f"
+    },
+    "set": {
+      "title": "Hancock ",
+      "main_title": "Hancock ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1064b7f2fa81788c3ea2e"
+    },
+    "set": {
+      "title": "Hannibal ",
+      "main_title": "Hannibal ",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcda17f2fab1018313873"
+    },
+    "set": {
+      "title": "Hansel & Gretel: Witch Hunters",
+      "category": "FANTASY / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8397f2faa1018068901"
+    },
+    "set": {
+      "title": "Happy Feet 2",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109257f2fa81788c3ea98"
+    },
+    "set": {
+      "title": "Harry Potter And The Order Of The Pheonix",
+      "main_title": "Harry Potter And The Order Of The Pheonix",
+      "category": "FANTASY / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ecb90aa2e81f1812672d"
+    },
+    "set": {
+      "category": "FANTASY / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783d8277eb1792d8471a212"
+    },
+    "set": {
+      "title": "Harry potter and the philosophers Stone",
+      "main_title": "Harry potter and the philosophers Stone",
+      "category": "FANTASY / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109277f2fa81788c3ea99"
+    },
+    "set": {
+      "title": "Harry Potter And The Philosopher's Stone ",
+      "main_title": "Harry Potter And The Philosopher's Stone ",
+      "category": "FANTASY / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccd47f2fab101831385c"
+    },
+    "set": {
+      "title": "Hedwig And The Angry Inch",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109ae7f2fa81788c3eaa7"
+    },
+    "set": {
+      "title": "Hellboy",
+      "main_title": "Hellboy",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109877f2fa81788c3eaa1"
+    },
+    "set": {
+      "title": "Hellboy 1 And 2",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fc37f2fa81788c3eb31"
+    },
+    "set": {
+      "title": "Highlander",
+      "main_title": "Highlander",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcefb7f2fab1018313892"
+    },
+    "set": {
+      "title": "Hitchhikers Guide To The Galaxy",
+      "main_title": "Hitchhikers Guide To The Galaxy",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108af7f2fa81788c3ea8a"
+    },
+    "set": {
+      "title": "Hobbs & Shaw",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce977f2fab1018313886"
+    },
+    "set": {
+      "title": "Home Alone",
+      "main_title": "Home Alone",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcfe77f2fab10183138aa"
+    },
+    "set": {
+      "title": "Homeward Bound 2: Lost In San Francisco",
+      "category": "ADVENTURE / FANTASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107057f2fa81788c3ea4a"
+    },
+    "set": {
+      "title": "Hostage ",
+      "main_title": "Hostage ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf0a7f2fab1018313895"
+    },
+    "set": {
+      "title": "Hot Fuzz ",
+      "main_title": "Hot Fuzz ",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110587f2fa81788c3eb43"
+    },
+    "set": {
+      "title": "Hotel Artemis",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ad37f2fa81788c3eab9"
+    },
+    "set": {
+      "title": "Hulk",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ee7b0aa2e81f18126739"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1080a7f2fa81788c3ea6a"
+    },
+    "set": {
+      "title": "I Am Legend",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f60e0aa2e81f18126768"
+    },
+    "set": {
+      "title": "I Am Legend",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f6b90aa2e81f18126771"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ec57f2fa81788c3eb1c"
+    },
+    "set": {
+      "title": "I, Robot",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10d987f2fa81788c3eafb"
+    },
+    "set": {
+      "title": "In Time",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10aa87f2fa81788c3eab6"
+    },
+    "set": {
+      "title": "Incredibles 2",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ec77f2fa81788c3eb1d"
+    },
+    "set": {
+      "title": "Independence Day",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107d77f2fa81788c3ea63"
+    },
+    "set": {
+      "title": "Independence Day Resurgence",
+      "main_title": "Independence Day Resurgence",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109847f2fa81788c3eaa0"
+    },
+    "set": {
+      "title": "Indiana Jones And The Crystal Skull",
+      "main_title": "Indiana Jones And The Crystal Skull",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f35b0aa2e81f1812674e"
+    },
+    "set": {
+      "title": "Indiana Jones Quadrilogy",
+      "main_title": "Indiana Jones Quadrilogy",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109827f2fa81788c3ea9f"
+    },
+    "set": {
+      "title": "Indiana Jones: Complete Adventures",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b7b7f2fa81788c3eae9"
+    },
+    "set": {
+      "title": "Interstellar",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10dbf7f2fa81788c3eb0b"
+    },
+    "set": {
+      "title": "Interview With The Vampire",
+      "main_title": "Interview With The Vampire",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b107f2fa81788c3eacb"
+    },
+    "set": {
+      "title": "Iron Man",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fd87f2fa81788c3eb34"
+    },
+    "set": {
+      "title": "Iron Man ",
+      "main_title": "Iron Man ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b137f2fa81788c3eacc"
+    },
+    "set": {
+      "title": "Iron Man 2",
+      "main_title": "Iron Man 2",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67845194e4085b038c32ce23"
+    },
+    "set": {
+      "title": "IT",
+      "main_title": "IT",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1104c7f2fa81788c3eb40"
+    },
+    "set": {
+      "title": "It Chapter One",
+      "main_title": "It Chapter One",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110517f2fa81788c3eb41"
+    },
+    "set": {
+      "title": "It Chapter Two",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6449b0097f2fa82c80e63651"
+    },
+    "set": {
+      "title": "It Chapter Two",
+      "main_title": "It Chapter Two",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67845198e4085b038c32ce24"
+    },
+    "set": {
+      "title": "IT Chapter Two",
+      "main_title": "IT Chapter Two",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7dc7f2faa10180688f5"
+    },
+    "set": {
+      "title": "Jason Bourne",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfceb67f2fab101831388b"
+    },
+    "set": {
+      "title": "Jay And Silent Bob Strike Back",
+      "main_title": "Jay And Silent Bob Strike Back",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf277f2fab101831389a"
+    },
+    "set": {
+      "title": "John Carpenter's Vampires",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4bb0aa2e81f1812675c"
+    },
+    "set": {
+      "title": "John Wick",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4c00aa2e81f1812675d"
+    },
+    "set": {
+      "title": "John Wick Chapter 4",
+      "main_title": "John Wick Chapter 4",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc5d77f2faa10180688e4"
+    },
+    "set": {
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f0af0aa2e81f1812673f"
+    },
+    "set": {
+      "title": "Joker",
+      "main_title": "Joker",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7f77f2faa10180688f8"
+    },
+    "set": {
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd4e7f2fab1018313868"
+    },
+    "set": {
+      "title": "Joseph And The Amazing Technicolour Dreamcoat ",
+      "main_title": "Joseph And The Amazing Technicolour Dreamcoat ",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1105d7f2fa81788c3eb45"
+    },
+    "set": {
+      "title": "Jumanji: Welcome To The Jungle",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f0770aa2e81f1812673b"
+    },
+    "set": {
+      "title": "Jungle Cruise",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108a17f2fa81788c3ea87"
+    },
+    "set": {
+      "title": "Jurassic Park 4",
+      "main_title": "Jurassic Park 4",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109927f2fa81788c3eaa4"
+    },
+    "set": {
+      "title": "Jurassic Park Trilogy",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f3790aa2e81f18126750"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f3750aa2e81f1812674f"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108997f2fa81788c3ea86"
+    },
+    "set": {
+      "title": "Jurassic World Fallen Kingdom",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106117f2fa81788c3ea25"
+    },
+    "set": {
+      "title": "Kill Bill Vol.1",
+      "main_title": "Kill Bill Vol.1",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106137f2fa81788c3ea26"
+    },
+    "set": {
+      "title": "Kill Bill Vol.2 ",
+      "main_title": "Kill Bill Vol.2 ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b6e7f2fa81788c3eae3"
+    },
+    "set": {
+      "title": "King Kong",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f27d0aa2e81f18126748"
+    },
+    "set": {
+      "title": "King Kong",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c2b7f2fa81788c3eaf3"
+    },
+    "set": {
+      "title": "Kingsman - The Secret Service",
+      "main_title": "Kingsman - The Secret Service",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c187f2fa81788c3eaec"
+    },
+    "set": {
+      "title": "Knight And Day",
+      "main_title": "Knight And Day",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10db47f2fa81788c3eb07"
+    },
+    "set": {
+      "title": "Knowing ",
+      "main_title": "Knowing ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b717f2fa81788c3eae4"
+    },
+    "set": {
+      "title": "Kong - Skull Island",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc78a7f2faa10180688ec"
+    },
+    "set": {
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd667f2fab101831386c"
+    },
+    "set": {
+      "title": "League Of Gentlemen",
+      "main_title": "League Of Gentlemen",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107a67f2fa81788c3ea62"
+    },
+    "set": {
+      "title": "Legend Of Tarzan",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcec17f2fab101831388d"
+    },
+    "set": {
+      "title": "Lemon Drop Kid",
+      "main_title": "Lemon Drop Kid",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcfe27f2fab10183138a9"
+    },
+    "set": {
+      "title": "Les Miserables ",
+      "main_title": "Les Miserables ",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67845186e4085b038c32ce21"
+    },
+    "set": {
+      "title": "Let The Right One In",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110797f2fa81788c3eb4e"
+    },
+    "set": {
+      "title": "Let The Right One In ",
+      "main_title": "Let The Right One In ",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104b27f2fa81788c3ea04"
+    },
+    "set": {
+      "title": "Licence To Kill",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee103497f2fa81788c3e9ee"
+    },
+    "set": {
+      "title": "Lick Library Learn",
+      "category": "ADVENTURE / FANTASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110657f2fa81788c3eb49"
+    },
+    "set": {
+      "title": "Life",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ed270aa2e81f18126734"
+    },
+    "set": {
+      "title": "Life",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f3340aa2e81f1812674d"
+    },
+    "set": {
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f467f2fa81788c3eb27"
+    },
+    "set": {
+      "title": "Life Of Pi",
+      "category": "ADVENTURE / FANTASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109537f2fa81788c3ea9b"
+    },
+    "set": {
+      "title": "Like Transformers Revenge Of The Fallen",
+      "main_title": "Like Transformers Revenge Of The Fallen",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd397f2fab1018313865"
+    },
+    "set": {
+      "title": "Little Britain The Complete First Series Bbcdvd 1494",
+      "main_title": "Little Britain The Complete First Series Bbcdvd 1494",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd367f2fab1018313864"
+    },
+    "set": {
+      "title": "Little Britain The Complete Second Series",
+      "main_title": "Little Britain The Complete Second Series",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104a07f2fa81788c3e9fd"
+    },
+    "set": {
+      "title": "Live And Let Die",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ec97f2fa81788c3eb1e"
+    },
+    "set": {
+      "title": "Live Free Or Die Hard",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108127f2fa81788c3ea6e"
+    },
+    "set": {
+      "title": "Lockout",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b347f2fa81788c3ead0"
+    },
+    "set": {
+      "title": "Logan",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f5ce0aa2e81f18126764"
+    },
+    "set": {
+      "main_title": "Lone Ranger",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108107f2fa81788c3ea6d"
+    },
+    "set": {
+      "title": "Lone Ranger",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107887f2fa81788c3ea58"
+    },
+    "set": {
+      "title": "Long Kiss Goodnight",
+      "main_title": "Long Kiss Goodnight",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110617f2fa81788c3eb47"
+    },
+    "set": {
+      "title": "Looper",
+      "main_title": "Looper",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c337f2fa81788c3eaf7"
+    },
+    "set": {
+      "title": "Lost In Space",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1317f2fab10183138c8"
+    },
+    "set": {
+      "title": "Love Actually",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1a97f2fab10183138d4"
+    },
+    "set": {
+      "title": "Love Story ",
+      "main_title": "Love Story ",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108207f2fa81788c3ea72"
+    },
+    "set": {
+      "title": "Lucy",
+      "main_title": "Lucy",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f5bd0aa2e81f18126763"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd5f7f2fab101831386b"
+    },
+    "set": {
+      "title": "Magic Mike",
+      "main_title": "Magic Mike",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf937f2fab10183138a7"
+    },
+    "set": {
+      "title": "Mallrats",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf967f2fab10183138a8"
+    },
+    "set": {
+      "title": "Mallrats",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd1b7f2fab1018313860"
+    },
+    "set": {
+      "title": "Mamma Mia 2 ",
+      "main_title": "Mamma Mia 2 ",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcce97f2fab101831385f"
+    },
+    "set": {
+      "title": "Mamma Mia The Movie",
+      "main_title": "Mamma Mia The Movie",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c287f2fa81788c3eaf2"
+    },
+    "set": {
+      "title": "Man From U.N.C.L.E",
+      "main_title": "Man From U.N.C.L.E",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b5e7f2fa81788c3eae1"
+    },
+    "set": {
+      "title": "Man Of Steel",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f2520aa2e81f18126747"
+    },
+    "set": {
+      "title": "Man Of Steel",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1857f2fab10183138cd"
+    },
+    "set": {
+      "title": "Marley And Me",
+      "main_title": "Marley And Me",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10aa37f2fa81788c3eab5"
+    },
+    "set": {
+      "title": "Marvel's Doctor Strange",
+      "main_title": "Marvel's Doctor Strange",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1060d7f2fa81788c3ea24"
+    },
+    "set": {
+      "title": "Master And Commander",
+      "main_title": "Master And Commander",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107907f2fa81788c3ea5a"
+    },
+    "set": {
+      "title": "Maze Runner Chapter",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f62e0aa2e81f18126769"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f5090aa2e81f18126760"
+    },
+    "set": {
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8117f2faa10180688fc"
+    },
+    "set": {
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10eaf7f2fa81788c3eb14"
+    },
+    "set": {
+      "title": "Meet Joe Black",
+      "main_title": "Meet Joe Black",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf017f2fab1018313893"
+    },
+    "set": {
+      "title": "Men In Black",
+      "main_title": "Men In Black",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf217f2fab1018313899"
+    },
+    "set": {
+      "title": "Mercury Rising ",
+      "main_title": "Mercury Rising ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fc97f2fa81788c3eb33"
+    },
+    "set": {
+      "title": "Merlin",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf1b7f2fab1018313898"
+    },
+    "set": {
+      "title": "Message In A Bottle",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccce7f2fab101831385b"
+    },
+    "set": {
+      "title": "Michael Flatley - Lord Of The Dance",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1ea7f2fab10183138e0"
+    },
+    "set": {
+      "title": "Michael Jackson - This Is It ",
+      "main_title": "Michael Jackson - This Is It ",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc87b7f2faa101806890a"
+    },
+    "set": {
+      "title": "Minions",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10d997f2fa81788c3eafc"
+    },
+    "set": {
+      "title": "Minority Report",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1c47f2fab10183138d9"
+    },
+    "set": {
+      "title": "Miracle On 34th Street",
+      "main_title": "Miracle On 34th Street",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1c87f2fab10183138da"
+    },
+    "set": {
+      "title": "Mirror, Mirror ",
+      "main_title": "Mirror, Mirror ",
+      "category": "ADVENTURE / FANTASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106047f2fa81788c3ea21"
+    },
+    "set": {
+      "title": "Mission Impossible : Rouge Nation",
+      "main_title": "Mission Impossible : Rouge Nation",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1072a7f2fa81788c3ea53"
+    },
+    "set": {
+      "title": "Mission Impossible 2",
+      "main_title": "Mission Impossible 2",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1072c7f2fa81788c3ea54"
+    },
+    "set": {
+      "title": "Mission Impossible 3",
+      "main_title": "Mission Impossible 3",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106067f2fa81788c3ea22"
+    },
+    "set": {
+      "title": "Mission Impossible: Fallout",
+      "main_title": "Mission Impossible: Fallout",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106037f2fa81788c3ea20"
+    },
+    "set": {
+      "title": "Mission Impossible: Ghost Prot",
+      "main_title": "Mission Impossible: Ghost Prot",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1267f2fab10183138c5"
+    },
+    "set": {
+      "title": "Mona Lisa Smile",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106d37f2fa81788c3ea3c"
+    },
+    "set": {
+      "title": "Monsters, Inc.",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf327f2fab101831389c"
+    },
+    "set": {
+      "title": "Monty Python: The Movies By Graham Chapman,john Cleese.",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104a77f2fa81788c3ea00"
+    },
+    "set": {
+      "title": "Moonraker",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f0a90aa2e81f1812673e"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ec17f2fa81788c3eb1a"
+    },
+    "set": {
+      "title": "Morgan",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f6ad0aa2e81f18126770"
+    },
+    "set": {
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccb37f2fab1018313857"
+    },
+    "set": {
+      "title": "Moulin Rouge ",
+      "main_title": "Moulin Rouge ",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1ed7f2fab10183138e1"
+    },
+    "set": {
+      "title": "Mr Popper's Penguins",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104f07f2fa81788c3ea0a"
+    },
+    "set": {
+      "title": "MRS BROWN'S BOYS",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1237f2fab10183138c4"
+    },
+    "set": {
+      "title": "My Best Friend's Wedding",
+      "main_title": "My Best Friend's Wedding",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd08a7f2fab10183138b3"
+    },
+    "set": {
+      "title": "My Big Fat Greek Wedding",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf7c7f2fab10183138a2"
+    },
+    "set": {
+      "title": "National Lampoon's Christmas Vacation",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1091d7f2fa81788c3ea96"
+    },
+    "set": {
+      "title": "Nemesis ",
+      "main_title": "Nemesis ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7867f2faa10180688eb"
+    },
+    "set": {
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107157f2fa81788c3ea4e"
+    },
+    "set": {
+      "title": "Nico - Above The Law",
+      "main_title": "Nico - Above The Law",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcdac7f2fab1018313876"
+    },
+    "set": {
+      "title": "Nine Lives",
+      "main_title": "Nine Lives",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd17f7f2fab10183138cc"
+    },
+    "set": {
+      "title": "North And South - Book 2 ",
+      "main_title": "North And South - Book 2 ",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1927f2fab10183138d1"
+    },
+    "set": {
+      "title": "North And South: Book 1",
+      "main_title": "North And South: Book 1",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1b07f2fab10183138d6"
+    },
+    "set": {
+      "title": "NOTEBOOK",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104ad7f2fa81788c3ea02"
+    },
+    "set": {
+      "title": "Octopussy",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc83d7f2faa1018068902"
+    },
+    "set": {
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1049a7f2fa81788c3e9fb"
+    },
+    "set": {
+      "title": "On Her Majesty`s Secret Service",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1f37f2fab10183138e3"
+    },
+    "set": {
+      "title": "Out Of Africa",
+      "main_title": "Out Of Africa",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0a57f2fab10183138b9"
+    },
+    "set": {
+      "title": "P.S. I Love You",
+      "main_title": "P.S. I Love You",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfceb07f2fab101831388a"
+    },
+    "set": {
+      "title": "Paul",
+      "main_title": "Paul",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1067a7f2fa81788c3ea32"
+    },
+    "set": {
+      "title": "Paycheck",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107027f2fa81788c3ea49"
+    },
+    "set": {
+      "title": "Peacemaker",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcb7d7f2fab101831383f"
+    },
+    "set": {
+      "title": "Peep Show: Series 1-3",
+      "main_title": "Peep Show: Series 1-3",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce7c7f2fab1018313881"
+    },
+    "set": {
+      "title": "Piggy Tales Season",
+      "main_title": "Piggy Tales Season",
+      "category": "ANIMATION"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10eb77f2fa81788c3eb15"
+    },
+    "set": {
+      "title": "Pirates Of The Caribbean Dead Mans Chest ",
+      "main_title": "Pirates Of The Caribbean Dead Mans Chest ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10eba7f2fa81788c3eb17"
+    },
+    "set": {
+      "title": "Pirates Of The Caribbean: At World`s End",
+      "main_title": "Pirates Of The Caribbean: At World`s End",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10eb97f2fa81788c3eb16"
+    },
+    "set": {
+      "title": "Pirates Of The Caribbean: The Curse Of The Black Pearl ",
+      "main_title": "Pirates Of The Caribbean: The Curse Of The Black Pearl ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108937f2fa81788c3ea84"
+    },
+    "set": {
+      "title": "Planet Of The Apes",
+      "main_title": "Planet Of The Apes",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4b30aa2e81f1812675b"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10db07f2fa81788c3eb05"
+    },
+    "set": {
+      "title": "Predator - Ultimate Edition",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10dae7f2fa81788c3eb04"
+    },
+    "set": {
+      "title": "Predator 2",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10daa7f2fa81788c3eb03"
+    },
+    "set": {
+      "title": "Predators",
+      "main_title": "Predators",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6784507be4085b038c32ce1c"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c247f2fa81788c3eaf0"
+    },
+    "set": {
+      "title": "Predestination",
+      "main_title": "Predestination",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0857f2fab10183138b2"
+    },
+    "set": {
+      "title": "Pride And Prejudice",
+      "main_title": "Pride And Prejudice",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc5d87f2faa10180688e5"
+    },
+    "set": {
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c2f7f2fa81788c3eaf5"
+    },
+    "set": {
+      "title": "Project X",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b777f2fa81788c3eae7"
+    },
+    "set": {
+      "title": "Prometheus",
+      "main_title": "Prometheus",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104637f2fa81788c3e9f0"
+    },
+    "set": {
+      "title": "Quantum Of Solace",
+      "main_title": "Quantum Of Solace",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd697f2fab101831386d"
+    },
+    "set": {
+      "title": "Raising Arizona ",
+      "main_title": "Raising Arizona ",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106cb7f2fa81788c3ea3a"
+    },
+    "set": {
+      "title": "Ratatouille",
+      "main_title": "Ratatouille",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106bb7f2fa81788c3ea36"
+    },
+    "set": {
+      "title": "Ray",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106f67f2fa81788c3ea46"
+    },
+    "set": {
+      "title": "Reservoir Dogs",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcda47f2fab1018313874"
+    },
+    "set": {
+      "title": "Revenant",
+      "main_title": "Revenant",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce487f2fab101831387a"
+    },
+    "set": {
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce6d7f2fab101831387e"
+    },
+    "set": {
+      "title": "Rio",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10d957f2fa81788c3eafa"
+    },
+    "set": {
+      "title": "Rise Of The Planet Of The Apes",
+      "main_title": "Rise Of The Planet Of The Apes",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4a10aa2e81f18126759"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcebb7f2fab101831388c"
+    },
+    "set": {
+      "title": "Road To Bali",
+      "main_title": "Road To Bali",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107a17f2fa81788c3ea61"
+    },
+    "set": {
+      "title": "Robocop",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1079f7f2fa81788c3ea60"
+    },
+    "set": {
+      "title": "Robocop Trilogy",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1007f2fab10183138bc"
+    },
+    "set": {
+      "title": "Runaway Bride",
+      "main_title": "Runaway Bride",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1f07f2fab10183138e2"
+    },
+    "set": {
+      "title": "Ryan's Daughter",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c357f2fa81788c3eaf8"
+    },
+    "set": {
+      "title": "Safe House",
+      "main_title": "Safe House",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce737f2fab101831387f"
+    },
+    "set": {
+      "title": "Sammys Great Escape",
+      "category": "ANIMATION / FANATASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ebf7f2fa81788c3eb19"
+    },
+    "set": {
+      "title": "San Andreas",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106c47f2fa81788c3ea38"
+    },
+    "set": {
+      "title": "Sapphire And Steel",
+      "main_title": "Sapphire And Steel",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106457f2fa81788c3ea2c"
+    },
+    "set": {
+      "title": "Saving Private Ryan ",
+      "main_title": "Saving Private Ryan ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f427f2fa81788c3eb25"
+    },
+    "set": {
+      "title": "Saw Uncut Version",
+      "main_title": "Saw Uncut Version",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106f87f2fa81788c3ea47"
+    },
+    "set": {
+      "title": "Scarface",
+      "main_title": "Scarface",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10da37f2fa81788c3eb00"
+    },
+    "set": {
+      "title": "Se7en",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10dbd7f2fa81788c3eb0a"
+    },
+    "set": {
+      "title": "Serenity",
+      "main_title": "Serenity",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fde7f2fa81788c3eb36"
+    },
+    "set": {
+      "title": "Serenity",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccbd7f2fab1018313859"
+    },
+    "set": {
+      "title": "Seven Brides For Seven Brothers",
+      "main_title": "Seven Brides For Seven Brothers",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd12d7f2fab10183138c7"
+    },
+    "set": {
+      "title": "Sex & the City - Series 3",
+      "main_title": "Sex & the City - Series 3",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1d67f2fab10183138de"
+    },
+    "set": {
+      "title": "Sex and the City",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1d37f2fab10183138dd"
+    },
+    "set": {
+      "title": "Sex and the City 2",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f0c10aa2e81f18126741"
+    },
+    "set": {
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce8e7f2fab1018313884"
+    },
+    "set": {
+      "title": "Shaun Of The Dead",
+      "main_title": "Shaun Of The Dead",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1b77f2fab10183138d8"
+    },
+    "set": {
+      "title": "Shenandoah ",
+      "main_title": "Shenandoah ",
+      "category": "WESTERN"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106dd7f2fa81788c3ea3e"
+    },
+    "set": {
+      "title": "Shrek ",
+      "main_title": "Shrek ",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106df7f2fa81788c3ea3f"
+    },
+    "set": {
+      "title": "Shrek 2",
+      "main_title": "Shrek 2",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106ed7f2fa81788c3ea43"
+    },
+    "set": {
+      "title": "Shrek Forever After",
+      "main_title": "Shrek Forever After",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106d67f2fa81788c3ea3d"
+    },
+    "set": {
+      "title": "Shrek The Third",
+      "main_title": "Shrek The Third",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c267f2fa81788c3eaf1"
+    },
+    "set": {
+      "title": "Sicario",
+      "main_title": "Sicario",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc5e37f2faa10180688e7"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf8d7f2fab10183138a6"
+    },
+    "set": {
+      "title": "Silver Linings Playbook",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c077f2fa81788c3eaeb"
+    },
+    "set": {
+      "title": "Sin City ",
+      "main_title": "Sin City ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104657f2fa81788c3e9f1"
+    },
+    "set": {
+      "title": "Skyfall",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108177f2fa81788c3ea70"
+    },
+    "set": {
+      "title": "Skyline",
+      "main_title": "Skyline",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106f37f2fa81788c3ea45"
+    },
+    "set": {
+      "title": "Smokin' Aces",
+      "main_title": "Smokin' Aces",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf387f2fab101831389d"
+    },
+    "set": {
+      "title": "Smurfs",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f033dd97f2fa80c70c007e0"
+    },
+    "set": {
+      "title": "Snowpiercer ",
+      "main_title": "Snowpiercer ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a6b7f2fa81788c3eab0"
+    },
+    "set": {
+      "title": "Solo: A Star Wars Story",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf2b7f2fab101831389b"
+    },
+    "set": {
+      "title": "Somewhere In Time",
+      "main_title": "Somewhere In Time",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc9427f2faa1018068910"
+    },
+    "set": {
+      "title": "Sons Of Anarchy",
+      "main_title": "Sons Of Anarchy",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccab7f2fab1018313855"
+    },
+    "set": {
+      "title": "Sound Of Music",
+      "main_title": "Sound Of Music",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1147f2fab10183138c1"
+    },
+    "set": {
+      "title": "South Pacific ",
+      "main_title": "South Pacific ",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104ea7f2fa81788c3ea09"
+    },
+    "set": {
+      "title": "South Park: Bigger, Longer & Uncut",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1088f7f2fa81788c3ea82"
+    },
+    "set": {
+      "title": "Species",
+      "main_title": "Species",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108807f2fa81788c3ea81"
+    },
+    "set": {
+      "title": "Species 2",
+      "main_title": "Species 2",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104687f2fa81788c3e9f2"
+    },
+    "set": {
+      "title": "Spectre",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ae07f2fa81788c3eabf"
+    },
+    "set": {
+      "title": "Spider-man",
+      "main_title": "Spider-man",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10af17f2fa81788c3eac2"
+    },
+    "set": {
+      "title": "Spider-man ",
+      "main_title": "Spider-man ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ae27f2fa81788c3eac0"
+    },
+    "set": {
+      "title": "Spider-man 2 ",
+      "main_title": "Spider-man 2 ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ae47f2fa81788c3eac1"
+    },
+    "set": {
+      "title": "Spider-man 3",
+      "main_title": "Spider-man 3",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd737f2fab101831386f"
+    },
+    "set": {
+      "title": "Spinal Tap - This Is Spinal Tap",
+      "main_title": "Spinal Tap - This Is Spinal Tap",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf897f2fab10183138a5"
+    },
+    "set": {
+      "title": "Spy",
+      "main_title": "Spy",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd05e7f2fab10183138ae"
+    },
+    "set": {
+      "title": "Star Is Born, A",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a257f2fa81788c3eaa8"
+    },
+    "set": {
+      "title": "Star Trek - The Next Generation",
+      "main_title": "Star Trek - The Next Generation",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6784517ce4085b038c32ce20"
+    },
+    "set": {
+      "title": "Star Trek 1-10 ",
+      "main_title": "Star Trek 1-10 ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a267f2fa81788c3eaa9"
+    },
+    "set": {
+      "title": "Star Trek Beyond ",
+      "main_title": "Star Trek Beyond ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a287f2fa81788c3eaaa"
+    },
+    "set": {
+      "title": "Star Trek Into Darkness",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f40a0aa2e81f18126751"
+    },
+    "set": {
+      "title": "Star Trek Into Darkness",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a5a7f2fa81788c3eaab"
+    },
+    "set": {
+      "title": "Star Trek: Stardate Collection",
+      "main_title": "Star Trek: Stardate Collection",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4160aa2e81f18126752"
+    },
+    "set": {
+      "title": "Star Trek: The Next Generation",
+      "main_title": "Star Trek: The Next Generation",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a5f7f2fa81788c3eaad"
+    },
+    "set": {
+      "title": "Star Wars - The Complete Saga",
+      "main_title": "Star Wars - The Complete Saga",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4450aa2e81f18126756"
+    },
+    "set": {
+      "title": "Star Wars Episode Viii: The Last Jedi",
+      "main_title": "Star Wars Episode Viii: The Last Jedi",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4430aa2e81f18126755"
+    },
+    "set": {
+      "title": "Star Wars The Force Awakens",
+      "main_title": "Star Wars The Force Awakens",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a5c7f2fa81788c3eaac"
+    },
+    "set": {
+      "title": "Star Wars The Force Awakens ",
+      "main_title": "Star Wars The Force Awakens ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a6e7f2fa81788c3eab1"
+    },
+    "set": {
+      "title": "Star Wars The Last",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f42d0aa2e81f18126753"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108027f2fa81788c3ea68"
+    },
+    "set": {
+      "title": "Stargate ",
+      "main_title": "Stargate ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1084d7f2fa81788c3ea7b"
+    },
+    "set": {
+      "title": "Starship Troopers",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fbe7f2fa81788c3eb30"
+    },
+    "set": {
+      "title": "Starship Troopers",
+      "main_title": "Starship Troopers",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ebd7f2fa81788c3eb18"
+    },
+    "set": {
+      "title": "Stealth",
+      "main_title": "Stealth",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1087f2fab10183138be"
+    },
+    "set": {
+      "title": "Stepmom",
+      "main_title": "Stepmom",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106c07f2fa81788c3ea37"
+    },
+    "set": {
+      "title": "Stuart Little",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b3c7f2fa81788c3ead4"
+    },
+    "set": {
+      "title": "Suicide Squad",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108f77f2fa81788c3ea8d"
+    },
+    "set": {
+      "title": "Super 8 ",
+      "main_title": "Super 8 ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107207f2fa81788c3ea51"
+    },
+    "set": {
+      "title": "Swordfish",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107107f2fa81788c3ea4d"
+    },
+    "set": {
+      "title": "Taken",
+      "main_title": "Taken",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10de67f2fa81788c3eb0c"
+    },
+    "set": {
+      "title": "Team America - World",
+      "main_title": "Team America - World",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8747f2faa1018068909"
+    },
+    "set": {
+      "title": "Ted",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ecff0aa2e81f18126731"
+    },
+    "set": {
+      "title": "Teen Wolf",
+      "main_title": "Teen Wolf",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f43b0aa2e81f18126754"
+    },
+    "set": {
+      "title": "Tenet",
+      "main_title": "Tenet",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1082b7f2fa81788c3ea76"
+    },
+    "set": {
+      "title": "Terminator 2 - Judgment Day",
+      "main_title": "Terminator 2 - Judgment Day",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1082f7f2fa81788c3ea78"
+    },
+    "set": {
+      "title": "Terminator 2 - Judgment Day ",
+      "main_title": "Terminator 2 - Judgment Day ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1082d7f2fa81788c3ea77"
+    },
+    "set": {
+      "title": "Terminator 3 - Rise Of The Machines",
+      "main_title": "Terminator 3 - Rise Of The Machines",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc5dd7f2faa10180688e6"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4f80aa2e81f1812675e"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108327f2fa81788c3ea79"
+    },
+    "set": {
+      "title": "Terminator Salvation ",
+      "main_title": "Terminator Salvation ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107e67f2fa81788c3ea66"
+    },
+    "set": {
+      "title": "The 6th Day",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce827f2fab1018313882"
+    },
+    "set": {
+      "title": "The Adventures Of Baron Munchausen ",
+      "main_title": "The Adventures Of Baron Munchausen ",
+      "category": "FANTASY / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f0c30aa2e81f18126742"
+    },
+    "set": {
+      "title": "The Batman",
+      "main_title": "The Batman",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1e57f2fab10183138df"
+    },
+    "set": {
+      "title": "The Beautiful South Munch: Our Hits",
+      "main_title": "The Beautiful South Munch: Our Hits",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf107f2fab1018313896"
+    },
+    "set": {
+      "title": "The Birdcage",
+      "main_title": "The Birdcage",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10feb7f2fa81788c3eb39"
+    },
+    "set": {
+      "title": "The Bourne Identity",
+      "main_title": "The Bourne Identity",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7e27f2faa10180688f6"
+    },
+    "set": {
+      "title": "The Bourne Legacy Bl",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fe97f2fa81788c3eb38"
+    },
+    "set": {
+      "title": "The Bourne Supremacy",
+      "main_title": "The Bourne Supremacy",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ed320aa2e81f18126735"
+    },
+    "set": {
+      "title": "The Bourne Supremacy ",
+      "main_title": "The Bourne Supremacy ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7c47f2faa10180688f2"
+    },
+    "set": {
+      "title": "The Bourne Ultimatum",
+      "main_title": "The Bourne Ultimatum",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fed7f2fa81788c3eb3a"
+    },
+    "set": {
+      "title": "The Bourne Ultimatum",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ecf70aa2e81f1812672f"
+    },
+    "set": {
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10db67f2fa81788c3eb08"
+    },
+    "set": {
+      "title": "The Chronicles Of Riddick ",
+      "main_title": "The Chronicles Of Riddick ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109897f2fa81788c3eaa2"
+    },
+    "set": {
+      "title": "The Complete Matrix Trilogy",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108287f2fa81788c3ea75"
+    },
+    "set": {
+      "title": "The Core",
+      "main_title": "The Core",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ece30aa2e81f1812672e"
+    },
+    "set": {
+      "title": "The Creator",
+      "main_title": "The Creator",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107837f2fa81788c3ea56"
+    },
+    "set": {
+      "title": "The Day After Tomorrow",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fdb7f2fa81788c3eb35"
+    },
+    "set": {
+      "title": "The Day After Tomorrow ",
+      "main_title": "The Day After Tomorrow ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108547f2fa81788c3ea7d"
+    },
+    "set": {
+      "title": "The Day The Earth Stood still",
+      "main_title": "The Day The Earth Stood still",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1079b7f2fa81788c3ea5e"
+    },
+    "set": {
+      "title": "The Divergent Series ",
+      "main_title": "The Divergent Series ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ecfa0aa2e81f18126730"
+    },
+    "set": {
+      "title": "The Equalizer 3",
+      "main_title": "The Equalizer 3",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd0b37f2fab10183138bb"
+    },
+    "set": {
+      "title": "The Ex",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10d947f2fa81788c3eaf9"
+    },
+    "set": {
+      "title": "The Fifth Element",
+      "main_title": "The Fifth Element",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fba7f2fa81788c3eb2f"
+    },
+    "set": {
+      "title": "The Final Countdown",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f967f2fa81788c3eb2a"
+    },
+    "set": {
+      "title": "The Fly",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106767f2fa81788c3ea31"
+    },
+    "set": {
+      "title": "The Fog",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f3c7f2fa81788c3eb23"
+    },
+    "set": {
+      "title": "The Frighteners ",
+      "main_title": "The Frighteners ",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf797f2fab10183138a1"
+    },
+    "set": {
+      "title": "The Game",
+      "main_title": "The Game",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfce9d7f2fab1018313887"
+    },
+    "set": {
+      "title": "The Hangover",
+      "main_title": "The Hangover",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcea57f2fab1018313888"
+    },
+    "set": {
+      "title": "The Hangover - Part 2",
+      "main_title": "The Hangover - Part 2",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfceaa7f2fab1018313889"
+    },
+    "set": {
+      "title": "The Hangover - Part 3",
+      "main_title": "The Hangover - Part 3",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107987f2fa81788c3ea5d"
+    },
+    "set": {
+      "title": "The Hateful Eight",
+      "main_title": "The Hateful Eight",
+      "category": "WESTERN"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110767f2fa81788c3eb4d"
+    },
+    "set": {
+      "title": "The Hitmans Bodyguard",
+      "main_title": "The Hitmans Bodyguard",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f9a7f2fa81788c3eb2b"
+    },
+    "set": {
+      "title": "The Hobbit - The Battle Of The Five Armies",
+      "category": "FANTASY / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109577f2fa81788c3ea9c"
+    },
+    "set": {
+      "title": "The Hobbit The Desolation Of Smaug",
+      "category": "FANTASY / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ed080aa2e81f18126733"
+    },
+    "set": {
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "category": "FANTASY / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7ae7f2faa10180688f1"
+    },
+    "set": {
+      "title": "The Hunger Games",
+      "main_title": "The Hunger Games",
+      "category": "SCI-FI / FANTASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ee750aa2e81f18126738"
+    },
+    "set": {
+      "title": "The Hunger Games",
+      "category": "SCI-FI / FANTASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f033de87f2fa80c70c007e1"
+    },
+    "set": {
+      "title": "The Hunger Games MockingJay Part 1",
+      "category": "SCI-FI / FANTASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7a87f2faa10180688f0"
+    },
+    "set": {
+      "title": "The Hunger Games: Catching Fire",
+      "main_title": "The Hunger Games: Catching Fire",
+      "category": "SCI-FI / FANTASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ee6a0aa2e81f18126736"
+    },
+    "set": {
+      "title": "The Hunger Games: Mockingjay Part 1",
+      "main_title": "The Hunger Games: Mockingjay Part 1",
+      "category": "SCI-FI / FANTASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783ee6f0aa2e81f18126737"
+    },
+    "set": {
+      "title": "The Hunger Games: Mockingjay Part 2",
+      "category": "SCI-FI / FANTASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7a27f2faa10180688ef"
+    },
+    "set": {
+      "title": "The Hunger Games: Mockingjay Part 2 ",
+      "main_title": "The Hunger Games: Mockingjay Part 2 ",
+      "category": "SCI-FI / FANTASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ad07f2fa81788c3eab8"
+    },
+    "set": {
+      "title": "The Incredible Hulk",
+      "main_title": "The Incredible Hulk",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf857f2fab10183138a4"
+    },
+    "set": {
+      "title": "The Incredibles",
+      "main_title": "The Incredibles",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108607f2fa81788c3ea80"
+    },
+    "set": {
+      "title": "The Island",
+      "main_title": "The Island",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd567f2fab1018313869"
+    },
+    "set": {
+      "title": "The Jazz Singer",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd5a7f2fab101831386a"
+    },
+    "set": {
+      "title": "The Jazz Singer",
+      "main_title": "The Jazz Singer",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccaf7f2fab1018313856"
+    },
+    "set": {
+      "title": "The King And I",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1067f7f2fa81788c3ea34"
+    },
+    "set": {
+      "title": "The Last Of The Mohicans",
+      "main_title": "The Last Of The Mohicans",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1090e7f2fa81788c3ea92"
+    },
+    "set": {
+      "title": "The League Of Extraordinary Gentlemen",
+      "main_title": "The League Of Extraordinary Gentlemen",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f6360aa2e81f1812676a"
+    },
+    "set": {
+      "title": "The Legend Of Tarzan",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110047f2fa81788c3eb3b"
+    },
+    "set": {
+      "title": "The Lord Of The Rings The Fellowship Of The Ring ",
+      "main_title": "The Lord Of The Rings The Fellowship Of The Ring ",
+      "category": "FANTASY / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110067f2fa81788c3eb3c"
+    },
+    "set": {
+      "title": "The Lord Of The Rings The Two Towers",
+      "main_title": "The Lord Of The Rings The Two Towers",
+      "category": "FANTASY / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104a37f2fa81788c3e9fe"
+    },
+    "set": {
+      "title": "The Man With The Golden Gun ",
+      "main_title": "The Man With The Golden Gun ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ece7f2fa81788c3eb20"
+    },
+    "set": {
+      "title": "The Martian",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110637f2fa81788c3eb48"
+    },
+    "set": {
+      "title": "The Martian",
+      "main_title": "The Martian",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1106a7f2fa81788c3eb4a"
+    },
+    "set": {
+      "title": "The Mask",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f6640aa2e81f1812676e"
+    },
+    "set": {
+      "title": "The Motorcycle Diaries",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1078d7f2fa81788c3ea59"
+    },
+    "set": {
+      "title": "The Motorcycle Diaries ",
+      "main_title": "The Motorcycle Diaries ",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10deb7f2fa81788c3eb0d"
+    },
+    "set": {
+      "title": "The Mummy",
+      "category": "FANTASY / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10ded7f2fa81788c3eb0e"
+    },
+    "set": {
+      "title": "The Mummy Returns",
+      "category": "FANTASY / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10e397f2fa81788c3eb0f"
+    },
+    "set": {
+      "title": "The Mummy Tomb Of The Dragon Emporer",
+      "main_title": "The Mummy Tomb Of The Dragon Emporer",
+      "category": "FANTASY / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf807f2fab10183138a3"
+    },
+    "set": {
+      "title": "The Night Before ",
+      "main_title": "The Night Before ",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107957f2fa81788c3ea5c"
+    },
+    "set": {
+      "title": "The Ninth Gate",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f6560aa2e81f1812676c"
+    },
+    "set": {
+      "title": "The Ninth Gate",
+      "main_title": "The Ninth Gate",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcd2a7f2fab1018313862"
+    },
+    "set": {
+      "title": "The Pink Panther Film Collection ",
+      "main_title": "The Pink Panther Film Collection ",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10da67f2fa81788c3eb01"
+    },
+    "set": {
+      "title": "The Predator",
+      "main_title": "The Predator",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109187f2fa81788c3ea95"
+    },
+    "set": {
+      "title": "The Prophecy ",
+      "main_title": "The Prophecy ",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd09e7f2fab10183138b7"
+    },
+    "set": {
+      "title": "The Queen",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccb87f2fab1018313858"
+    },
+    "set": {
+      "title": "The Rocky Horror Picture Show",
+      "main_title": "The Rocky Horror Picture Show",
+      "category": "MUSICAL"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106487f2fa81788c3ea2d"
+    },
+    "set": {
+      "title": "The Seventh Sign",
+      "main_title": "The Seventh Sign",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106c87f2fa81788c3ea39"
+    },
+    "set": {
+      "title": "The Simpsons ",
+      "main_title": "The Simpsons ",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc657f2fab1018313853"
+    },
+    "set": {
+      "title": "The Simpsons: Complete Season 1",
+      "main_title": "The Simpsons: Complete Season 1",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcc5f7f2fab1018313852"
+    },
+    "set": {
+      "title": "The Simpsons: Complete Season 5",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106257f2fa81788c3ea2a"
+    },
+    "set": {
+      "title": "The Sixth Sense",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc93a7f2faa101806890f"
+    },
+    "set": {
+      "title": "The Sopranos Series 1 To 6",
+      "main_title": "The Sopranos Series 1 To 6",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104a57f2fa81788c3e9ff"
+    },
+    "set": {
+      "title": "The Spy Who Loved Me ",
+      "main_title": "The Spy Who Loved Me ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f0cc0aa2e81f18126743"
+    },
+    "set": {
+      "title": "The Suicide Squad",
+      "main_title": "The Suicide Squad",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783efa30aa2e81f1812673a"
+    },
+    "set": {
+      "title": "The Thing",
+      "main_title": "The Thing",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd18b7f2fab10183138cf"
+    },
+    "set": {
+      "title": "The Thorn Birds The Missing Years",
+      "main_title": "The Thorn Birds The Missing Years",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107e17f2fa81788c3ea64"
+    },
+    "set": {
+      "title": "The Time Machine ",
+      "main_title": "The Time Machine ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108b47f2fa81788c3ea8c"
+    },
+    "set": {
+      "title": "The Twilight Saga ",
+      "main_title": "The Twilight Saga ",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee109127f2fa81788c3ea93"
+    },
+    "set": {
+      "title": "The Usual Suspects",
+      "main_title": "The Usual Suspects",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfccc87f2fab101831385a"
+    },
+    "set": {
+      "title": "The Vicar Of Dibley: Ultimate Collection",
+      "main_title": "The Vicar Of Dibley: Ultimate Collection",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc78e7f2faa10180688ed"
+    },
+    "set": {
+      "title": "The Vow",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b367f2fa81788c3ead1"
+    },
+    "set": {
+      "title": "The Wolverine",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104ba7f2fa81788c3ea07"
+    },
+    "set": {
+      "title": "The World Is Not Enough",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcb947f2fab1018313842"
+    },
+    "set": {
+      "title": "The X Files First Season",
+      "main_title": "The X Files First Season",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108527f2fa81788c3ea7c"
+    },
+    "set": {
+      "title": "The X Files Movie",
+      "main_title": "The X Files Movie",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcef77f2fab1018313891"
+    },
+    "set": {
+      "title": "Theres Something About Mary",
+      "main_title": "Theres Something About Mary",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcdeb7f2fab1018313877"
+    },
+    "set": {
+      "title": "This Is The End",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b317f2fa81788c3eacf"
+    },
+    "set": {
+      "title": "Thor",
+      "main_title": "Thor",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b407f2fa81788c3ead6"
+    },
+    "set": {
+      "title": "Thor Ragnarok",
+      "main_title": "Thor Ragnarok",
+      "category": "SCI-FI / FANTASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd18f7f2fab10183138d0"
+    },
+    "set": {
+      "title": "Thornbirds Original Forbidden Love ",
+      "main_title": "Thornbirds Original Forbidden Love ",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf507f2fab10183138a0"
+    },
+    "set": {
+      "title": "Three Oclock High",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104957f2fa81788c3e9f9"
+    },
+    "set": {
+      "title": "Thunderball",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8417f2faa1018068903"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104b87f2fa81788c3ea06"
+    },
+    "set": {
+      "title": "Tomorrow Never Dies",
+      "main_title": "Tomorrow Never Dies",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108597f2fa81788c3ea7e"
+    },
+    "set": {
+      "title": "Total Recall",
+      "main_title": "Total Recall",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f5060aa2e81f1812675f"
+    },
+    "set": {
+      "title": "Total Recall",
+      "main_title": "Total Recall",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107fe7f2fa81788c3ea67"
+    },
+    "set": {
+      "title": "Total Recall ",
+      "main_title": "Total Recall ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc82d7f2faa10180688ff"
+    },
+    "set": {
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1071d7f2fa81788c3ea50"
+    },
+    "set": {
+      "title": "Traffic",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1079d7f2fa81788c3ea5f"
+    },
+    "set": {
+      "title": "Transcendence",
+      "main_title": "Transcendence",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1094f7f2fa81788c3ea9a"
+    },
+    "set": {
+      "title": "Transformers 2 ",
+      "main_title": "Transformers 2 ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c1a7f2fa81788c3eaed"
+    },
+    "set": {
+      "title": "Tron",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10c1d7f2fa81788c3eaee"
+    },
+    "set": {
+      "title": "Twelve Monkeys",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee107857f2fa81788c3ea57"
+    },
+    "set": {
+      "title": "Twister",
+      "main_title": "Twister",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1061e7f2fa81788c3ea29"
+    },
+    "set": {
+      "title": "Underworld & Underworld Evolution",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108357f2fa81788c3ea7a"
+    },
+    "set": {
+      "title": "V For Vendetta",
+      "main_title": "V For Vendetta",
+      "category": "SCI-FI / FANTASY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f3f7f2fa81788c3eb24"
+    },
+    "set": {
+      "title": "Van Helsing",
+      "main_title": "Van Helsing",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10a9a7f2fa81788c3eab2"
+    },
+    "set": {
+      "title": "Venom",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee1070e7f2fa81788c3ea4c"
+    },
+    "set": {
+      "title": "Vertical Limit ",
+      "main_title": "Vertical Limit ",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104af7f2fa81788c3ea03"
+    },
+    "set": {
+      "title": "View To A Kill",
+      "category": "THRILLER / ADVENTURE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f397f2fa81788c3eb21"
+    },
+    "set": {
+      "title": "Village Of The Damned / Children Of The Damned",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106e57f2fa81788c3ea41"
+    },
+    "set": {
+      "title": "Wallace & Gromit The Curse Of The Were-rabbit",
+      "main_title": "Wallace & Gromit The Curse Of The Were-rabbit",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee106ef7f2fa81788c3ea44"
+    },
+    "set": {
+      "title": "Wall-E",
+      "main_title": "Wall-E",
+      "category": "ANIMATION / COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcfea7f2fab10183138ab"
+    },
+    "set": {
+      "title": "Wanderlust",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108967f2fa81788c3ea85"
+    },
+    "set": {
+      "title": "War For The Planet Of The Apes",
+      "main_title": "War For The Planet Of The Apes",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee108247f2fa81788c3ea73"
+    },
+    "set": {
+      "title": "War Of The Worlds",
+      "main_title": "War Of The Worlds",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6783f4b10aa2e81f1812675a"
+    },
+    "set": {
+      "title": "War of the Worlds",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee110557f2fa81788c3eb42"
+    },
+    "set": {
+      "title": "Warcraft ",
+      "main_title": "Warcraft ",
+      "category": "ANIMATION"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "678451a8e4085b038c32ce25"
+    },
+    "set": {
+      "category": "ANIMATION"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6449b0097f2fa82c80e63652"
+    },
+    "set": {
+      "title": "Warcraft: The Beginning ",
+      "main_title": "Warcraft: The Beginning ",
+      "category": "ANIMATION"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f447f2fa81788c3eb26"
+    },
+    "set": {
+      "title": "Warlock",
+      "category": "HORROR"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc6197f2faa10180688e9"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcec77f2fab101831388e"
+    },
+    "set": {
+      "title": "Wedding Crashers",
+      "main_title": "Wedding Crashers",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10fb67f2fa81788c3eb2e"
+    },
+    "set": {
+      "title": "Westworld",
+      "main_title": "Westworld",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcbc87f2fab1018313845"
+    },
+    "set": {
+      "title": "When The Boat Comes In Complete Series",
+      "main_title": "When The Boat Comes In Complete Series",
+      "category": "DRAMA"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1387f2fab10183138ca"
+    },
+    "set": {
+      "title": "While You Were Sleeping",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b3a7f2fa81788c3ead3"
+    },
+    "set": {
+      "title": "Wonder Woman",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc8537f2faa1018068904"
+    },
+    "set": {
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfd1957f2fab10183138d2"
+    },
+    "set": {
+      "title": "Wuthering Heights ",
+      "main_title": "Wuthering Heights ",
+      "category": "ROMANCE"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7ed7f2faa10180688f7"
+    },
+    "set": {
+      "title": "X Men Dark Phoenix",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b467f2fa81788c3ead9"
+    },
+    "set": {
+      "title": "X-men",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b567f2fa81788c3eadf"
+    },
+    "set": {
+      "title": "X-Men",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10f917f2fa81788c3eb29"
+    },
+    "set": {
+      "title": "X-men - Days Of Futu",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b597f2fa81788c3eae0"
+    },
+    "set": {
+      "title": "X-men 2",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b507f2fa81788c3eadd"
+    },
+    "set": {
+      "title": "X-men Apocalypse",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b387f2fa81788c3ead2"
+    },
+    "set": {
+      "title": "X-men Origins: Wolverine ",
+      "main_title": "X-men Origins: Wolverine ",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b487f2fa81788c3eada"
+    },
+    "set": {
+      "title": "X-men Trilogy",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfc7fd7f2faa10180688f9"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "679d344fc168ce155c963bf5"
+    },
+    "set": {
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee10b4e7f2fa81788c3eadc"
+    },
+    "set": {
+      "title": "X-men: First Class",
+      "main_title": "X-men: First Class",
+      "category": "SCI-FI"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5edfcf067f2fab1018313894"
+    },
+    "set": {
+      "title": "Yes Man ",
+      "main_title": "Yes Man ",
+      "category": "COMEDY"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ee104987f2fa81788c3e9fa"
+    },
+    "set": {
+      "title": "You Only Live Twice",
+      "main_title": "You Only Live Twice",
+      "category": "THRILLER / ADVENTURE"
+    }
+  }
+]

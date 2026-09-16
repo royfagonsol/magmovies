@@ -1,0 +1,401 @@
+[
+  {
+    "id": "5edfc78e7f2faa10180688ed",
+    "status": "no_usable_image",
+    "barcode": "5051159163059"
+  },
+  {
+    "id": "5edfc7927f2faa10180688ee",
+    "status": "no_usable_image",
+    "barcode": "5050629922837"
+  },
+  {
+    "id": "5edfc7a27f2faa10180688ef",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/03ad894e99444c6cbe986258541ba28c.jpg?v=1789561156",
+      "cover_source": "upcitemdb-cached"
+    }
+  },
+  {
+    "id": "6783ee6f0aa2e81f18126737",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/fae63e83fdab4ea380fa594335ce072c.jpg?v=1789561156",
+      "cover_source": "upcitemdb-cached"
+    }
+  },
+  {
+    "id": "5edfc7a87f2faa10180688f0",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/7dce1077de364621a9286eb123d1e47e.jpg?v=1789561157",
+      "cover_source": "upcitemdb-cached"
+    }
+  },
+  {
+    "id": "6783ee7b0aa2e81f18126739",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/09bf49a1318642d0951b8271f8ed69d0.jpg?v=1789561157",
+      "cover_source": "upcitemdb-cached"
+    }
+  },
+  {
+    "id": "5edfc7ae7f2faa10180688f1",
+    "status": "no_usable_image",
+    "barcode": "5060223767291"
+  },
+  {
+    "id": "6783ee750aa2e81f18126738",
+    "status": "no_usable_image",
+    "barcode": "5060223767291"
+  },
+  {
+    "id": "5edfc7c47f2faa10180688f2",
+    "status": "no_usable_image",
+    "barcode": "5050582597325"
+  },
+  {
+    "id": "5edfc7cc7f2faa10180688f4",
+    "status": "no_usable_image",
+    "barcode": "5050582597318"
+  },
+  {
+    "id": "5edfc7dc7f2faa10180688f5",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/11b498ac69834aa7b78bf64648c19012.jpg?v=1789561178",
+      "cover_source": "upcitemdb-cached"
+    }
+  },
+  {
+    "id": "5edfc7e27f2faa10180688f6",
+    "status": "no_usable_image",
+    "barcode": "5050582914016"
+  },
+  {
+    "id": "5edfc7ed7f2faa10180688f7",
+    "status": "no_usable_image",
+    "barcode": "5039036093088"
+  },
+  {
+    "id": "5edfc7fd7f2faa10180688f9",
+    "status": "no_usable_image",
+    "barcode": "5039036093071"
+  },
+  {
+    "id": "679d344fc168ce155c963bf5",
+    "status": "no_usable_image",
+    "barcode": "5039036093071"
+  },
+  {
+    "id": "5edfc80c7f2faa10180688fb",
+    "status": "no_usable_image",
+    "barcode": "5039036047104"
+  },
+  {
+    "id": "5edfc8597f2faa1018068905",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/e1bab70750ea46349ef71eb339ee6c16.jpg?v=1789561211",
+      "cover_source": "upcitemdb-cached"
+    }
+  },
+  {
+    "id": "5edfc85f7f2faa1018068906",
+    "status": "no_usable_image",
+    "barcode": "5060223761800"
+  },
+  {
+    "id": "5edfc8637f2faa1018068907",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/121ea87b753444a0bcd8b89eb70ea772.jpg?v=1789561222",
+      "cover_source": "upcitemdb-cached"
+    }
+  },
+  {
+    "id": "5edfc8697f2faa1018068908",
+    "status": "no_usable_image",
+    "barcode": "5014437804631"
+  },
+  {
+    "id": "5edfc8747f2faa1018068909",
+    "status": "no_usable_image",
+    "barcode": "5050582911091"
+  },
+  {
+    "id": "5edfc87b7f2faa101806890a",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/7095f16d00694ddab4f2101352ed6bb8.jpg?v=1789561233",
+      "cover_source": "upcitemdb-cached"
+    }
+  },
+  {
+    "id": "5edfc8817f2faa101806890b",
+    "status": "no_usable_image",
+    "barcode": "5039036042178"
+  },
+  {
+    "id": "5edfc8d27f2faa101806890c",
+    "status": "no_usable_image",
+    "barcode": "5014437107732"
+  },
+  {
+    "id": "5edfc92c7f2faa101806890e",
+    "status": "no_usable_image",
+    "barcode": "5014437149534"
+  },
+  {
+    "id": "5edfc93a7f2faa101806890f",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/7934c6c3f04345c4b38e982351482f8c.jpg?v=1789561255",
+      "cover_source": "upcitemdb-cached"
+    }
+  },
+  {
+    "id": "5edfc9427f2faa1018068910",
+    "status": "no_usable_image",
+    "barcode": "5039036044691"
+  },
+  {
+    "id": "5edfc9577f2faa1018068911",
+    "status": "no_usable_image",
+    "barcode": "5039036038829"
+  },
+  {
+    "id": "5edfc95e7f2faa1018068912",
+    "status": "no_usable_image",
+    "barcode": "5039036013031"
+  },
+  {
+    "id": "5edfc9657f2faa1018068913",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/515c085179a146639c369958c4d1f624.jpg?v=1789561277",
+      "cover_source": "upcitemdb-cached"
+    }
+  },
+  {
+    "id": "5edfc9787f2faa1018068914",
+    "status": "no_usable_image",
+    "barcode": "5039036020336"
+  },
+  {
+    "id": "5edfc9827f2faa1018068915",
+    "status": "no_usable_image",
+    "barcode": "5039036026130"
+  },
+  {
+    "id": "5edfc9887f2faa1018068916",
+    "status": "no_usable_image",
+    "barcode": "5039036033534"
+  },
+  {
+    "id": "5edfc98d7f2faa1018068917",
+    "status": "no_usable_image",
+    "barcode": "5039036041072"
+  },
+  {
+    "id": "5edfc9937f2faa1018068918",
+    "status": "no_usable_image",
+    "barcode": "5039036043779"
+  },
+  {
+    "id": "5edfcb797f2fab101831383e",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/c09ba28cb4d240f1bd66d73bfb02f694.jpg?v=1789561310",
+      "cover_source": "upcitemdb-cached"
+    }
+  },
+  {
+    "id": "5edfcb7d7f2fab101831383f",
+    "status": "no_usable_image",
+    "barcode": "6867441008293"
+  },
+  {
+    "id": "5edfcb8e7f2fab1018313841",
+    "status": "no_usable_image",
+    "barcode": "5039036016025"
+  },
+  {
+    "id": "5edfcb947f2fab1018313842",
+    "status": "no_usable_image",
+    "barcode": "5039036018241"
+  },
+  {
+    "id": "5edfcbad7f2fab1018313843",
+    "status": "no_usable_image",
+    "barcode": "5014503212223"
+  },
+  {
+    "id": "5edfcbb37f2fab1018313844",
+    "status": "no_usable_image",
+    "barcode": "5030305890001"
+  },
+  {
+    "id": "5edfcbc87f2fab1018313845",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/985462fe768a4860b9e0b228aa21f3b8.jpg?v=1789561343",
+      "cover_source": "upcitemdb-cached"
+    }
+  },
+  {
+    "id": "5edfcbd17f2fab1018313846",
+    "status": "saved",
+    "set": {
+      "image_url": "https://stiletto.ddns.net/MagnoliumApiCore/api/discs/covers/e43c496c050f4f1a8f9686b5c5bdce7a.jpg?v=1789561354",
+      "cover_source": "upcitemdb-cached"
+    }
+  },
+  {
+    "id": "5edfcbe57f2fab1018313847",
+    "status": "no_usable_image",
+    "barcode": "5030305800390"
+  },
+  {
+    "id": "5edfcbed7f2fab1018313848",
+    "status": "no_usable_image",
+    "barcode": "5030305810115"
+  },
+  {
+    "id": "5edfcbf37f2fab1018313849",
+    "status": "no_usable_image",
+    "barcode": "5030305810122"
+  },
+  {
+    "id": "5edfcbf87f2fab101831384a",
+    "status": "no_usable_image",
+    "barcode": "5030305810139"
+  },
+  {
+    "id": "5edfcc017f2fab101831384b",
+    "status": "no_usable_image",
+    "barcode": "5030305810146"
+  },
+  {
+    "id": "5edfcc0a7f2fab101831384c",
+    "status": "no_usable_image",
+    "barcode": "5030305810153"
+  },
+  {
+    "id": "5edfcc127f2fab101831384d",
+    "status": "no_usable_image",
+    "barcode": "5030305810160"
+  },
+  {
+    "id": "5edfcc1f7f2fab101831384e",
+    "status": "no_usable_image",
+    "barcode": "5030305810177"
+  },
+  {
+    "id": "5edfcc247f2fab101831384f",
+    "status": "no_usable_image",
+    "barcode": "5030305810184"
+  },
+  {
+    "id": "5edfcc2a7f2fab1018313850",
+    "status": "no_usable_image",
+    "barcode": "5030305810191"
+  },
+  {
+    "id": "5edfcc567f2fab1018313851",
+    "status": "no_usable_image",
+    "barcode": "5039036024723"
+  },
+  {
+    "id": "5edfcc5f7f2fab1018313852",
+    "status": "no_usable_image",
+    "barcode": "5039036019729"
+  },
+  {
+    "id": "5edfcc657f2fab1018313853",
+    "status": "no_usable_image",
+    "barcode": "5039036006231"
+  },
+  {
+    "id": "5edfcc6d7f2fab1018313854",
+    "status": "no_usable_image",
+    "barcode": "5039036036603"
+  },
+  {
+    "id": "5edfccab7f2fab1018313855",
+    "status": "no_usable_image",
+    "barcode": "5039036005692"
+  },
+  {
+    "id": "5edfccaf7f2fab1018313856",
+    "status": "no_usable_image",
+    "barcode": "5039036005685"
+  },
+  {
+    "id": "5edfccb37f2fab1018313857",
+    "status": "no_usable_image",
+    "barcode": "5039036008372"
+  },
+  {
+    "id": "5edfccb87f2fab1018313858",
+    "status": "no_usable_image",
+    "barcode": "5039036004312"
+  },
+  {
+    "id": "5edfccbd7f2fab1018313859",
+    "status": "no_usable_image",
+    "barcode": "7321900650656"
+  },
+  {
+    "id": "5edfccc87f2fab101831385a",
+    "status": "no_usable_image",
+    "barcode": "5050582532029"
+  },
+  {
+    "id": "5edfccce7f2fab101831385b",
+    "status": "no_usable_image",
+    "barcode": "044004781022"
+  },
+  {
+    "id": "5edfccd47f2fab101831385c",
+    "status": "no_usable_image",
+    "barcode": "5017239191473"
+  },
+  {
+    "id": "5edfccd97f2fab101831385d",
+    "status": "no_usable_image",
+    "barcode": "7321901654387"
+  },
+  {
+    "id": "5edfcce27f2fab101831385e",
+    "status": "no_usable_image",
+    "barcode": "5035822708914"
+  },
+  {
+    "id": "5edfcce97f2fab101831385f",
+    "status": "no_usable_image",
+    "barcode": "5050582591521"
+  },
+  {
+    "id": "5edfcd1b7f2fab1018313860",
+    "status": "no_usable_image",
+    "barcode": "5053083172046"
+  },
+  {
+    "id": "5edfcd217f2fab1018313861",
+    "status": "no_usable_image",
+    "barcode": "5051188156732"
+  },
+  {
+    "id": "5edfcd2a7f2fab1018313862",
+    "status": "no_usable_image",
+    "barcode": "5050070010404"
+  },
+  {
+    "id": "5edfcd327f2fab1018313863",
+    "status": "no_usable_image",
+    "barcode": "5014138069230"
+  }
+]

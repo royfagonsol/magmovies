@@ -1,0 +1,10 @@
+{
+  "counts": {
+    "no_usable_image": 59,
+    "saved": 13
+  },
+  "remaining_records": 450,
+  "stop": {
+    "reason": "daily quota exhausted"
+  }
+}
